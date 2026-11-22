@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-01-06"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "age up to 29 at master's level; age up to 35 at PhD level; applications only submitted by French higher education institutions",
+  "evidence_sentence": "It gives opportunity to the future foreign decision-makers of the private and public sectors, in priority areas of study, and encourages applicants from foreign countries up to 29 years old at master’s level, and applicants up to 35 years old at PhD level.",
+  "host_country": "France",
+  "notes": "Page is an institution-facing call page; applications are submitted by French institutions, not by individual applicants. Nationality INTERNATIONAL inferred from 'foreign students' and 'applicants from foreign countries'. Age limits are worded as encouragement, so they may be preferences. No GPA, funding amount, or funding type is stated. Priority areas of study are not listed, so field_of_study is left empty. Enrollment status 'applicant' is inferred from the admissions process, not stated directly. Deadline is Campus France's reception deadline of January 6, 2027."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2812,
+  "output_tokens": 1439
+ },
+ "hash": "1c7d5b74b94f0d43"
+}

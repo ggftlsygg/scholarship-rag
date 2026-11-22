@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "EXCLUDE:Australia",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [
+   "2027-06-30"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "tuition"
+  ],
+  "other_hard": "international student as defined in the Higher Education Support Act 2003; must have completed secondary school (or a foundation program in Australia or from a University of Sydney recognised foundation partner); must not have previously undertaken any tertiary studies (excluding extension studies completed as part of a year 12 program); not commencing a second degree at the University of Sydney; single undergraduate coursework degree of maximum 4 years; not available for combined degrees with a postgraduate component or specified dual degrees",
+  "evidence_sentence": "Australian Citizens, Australian Permanent Residents and dual citizens with Australian nationality are not eligible.",
+  "host_country": "Australia",
+  "notes": "Page states applications for Semester 1, 2027 are closed and applications are welcome for Semester 2, 2027; no explicit closing date given, so the deadline is uncertain and the value 2027-06-30 is a placeholder not stated on the page. Page says 'Currently open' with close date N/A. Priority to diverse priority markets and diversity of nationality and degree are selection factors, not hard requirements. Academic merit threshold is not numerically stated. Ongoing requirement of SAM 65 is for keeping the award only. Funding is 100% tuition fees and Student Services Amenities Fee, described as tuition-only coverage."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 5041,
+  "output_tokens": 540
+ },
+ "hash": "27ce8eb830e96b12"
+}

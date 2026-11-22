@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd",
+   "postdoc",
+   "other"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "Aeronautics; Space; Energy; Transportation",
+  "funding_type": [
+   "stipend",
+   "travel"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "This special programme is intended for highly-qualified foreign graduate and doctoral students as well as postdoctoral researchers and senior scientists.",
+  "host_country": "Germany",
+  "notes": "Page is a DAAD database listing for the DLR-DAAD Research Fellowship Programme; it describes several fellowship types (A-E) with different durations and stipends, so criteria apply per announcement. Specific qualification requirements are set per fellowship announcement and not given on this page. Deadlines are not stated on this page; the page gives no application deadline. The stipend amounts are monthly instalments, and the travel allowance is a flat rate mentioned as an additional benefit. Field list is taken from research fields named on the page. Funding type 'travel' is taken from the flat-rate travel allowance mentioned in the value description."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3497,
+  "output_tokens": 402
+ },
+ "hash": "969a8793deda0249"
+}

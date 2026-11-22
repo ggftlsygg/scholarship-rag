@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "above-average",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [],
+  "other_hard": "doctorate at a German university; doctoral topic not yet begun (project counts as started if scientific work on the topic has lasted more than 1 year since graduation); thesis deals with the environmental situation in Germany or global environmental challenges with relevance for Germany; coherent resume; good knowledge of German; complete application documents written in German; no more than one application per working group/scientific supervisor per round; stays abroad only if doctoral studies take place mainly at the supervising institution in Germany",
+  "evidence_sentence": "Your doctorate will be at a German university and has not yet begun.",
+  "host_country": "Germany",
+  "notes": "No application deadline date, nationality rule, or funding amount is stated on the page; the page refers to a funding guidelines PDF (dated Stand 2023) for detailed information. Min GPA is a verbal requirement ('above-average degree'). Incomplete or late applications cannot be considered; rejection precludes reapplication. Fellowships support individuals, not institutions. Goal of completing the doctorate within three years is a goal, not a requirement."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3040,
+  "output_tokens": 1319
+ },
+ "hash": "56c004a69408b50d"
+}

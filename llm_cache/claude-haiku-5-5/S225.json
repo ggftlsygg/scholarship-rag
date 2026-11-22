@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-10-30"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Bachelor students must have completed at least two academic years at the start of the scholarship period",
+  "evidence_sentence": "Applications are open to students in Bachelor's and Master's degree programmes in any subject area.",
+  "host_country": "Germany",
+  "notes": "Page lists the funding as course grants covering attendance of German language courses; the amount is not stated, so funding_type partial is inferred only from grant of course attendance and may be uncertain. Nationality not stated, so ALL is not explicit; the page does not state a nationality restriction, so nationality_rule is left as ALL only because no restriction appears, consider verifying. Selection criteria (previous academic achievements, motivation letter) are not eligibility requirements. Course must be taught in German, in presence, at state or state-recognised German universities or affiliated language schools; some grants are earmarked for fine arts applicants via DAAD Alumni Association of the US, which is a specific sub-grant."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3134,
+  "output_tokens": 408
+ },
+ "hash": "7537192ca1f38ae0"
+}

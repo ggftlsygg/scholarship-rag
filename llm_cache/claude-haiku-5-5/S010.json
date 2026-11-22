@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ONLY:South Korea;Austria;Belgium;Bulgaria;Croatia;Cyprus;Czech Republic;Denmark;Estonia;Finland;France;Germany;Greece;Hungary;Ireland;Italy;Latvia;Lithuania;Luxembourg;Malta;Netherlands;Norway;Poland;Portugal;Romania;Slovakia;Slovenia;Spain;Sweden;Switzerland;UK",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "Exchange must be a pair of students under a cooperation agreement between a Korean and a European institution; minimum transfer of 10 credits or 20 ECTS per semester (language and sports courses not counted); exchange duration 120 to 180 days; Korean student must stay in Korea and European student must stay in Europe during the application period (leave of absence allowed); student status must be maintained until the exchange; applicants must not have already started the exchange; applications must be filed by the institution's international relations office",
+  "evidence_sentence": "Undergraduate(bachelor) and Graduate(master) students who are currently enrolled in institutions in Korea or one of the 30 ASEM Europeans countries.",
+  "host_country": "",
+  "notes": "Page describes the whole DUO-Korea programme rather than one individual award and covers both Korean and European students. The application deadline is not stated; the page refers to the 2026 spring term and a June 2026 decision, so the text is outdated relative to 2026-11-21. GPA and recommendation of institutions are considered in selection but no minimum is stated; new exchange projects not selected before DUO-Korea 2025 get priority (preference, not requirement). Fellowship amount and field of study are not stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 5177,
+  "output_tokens": 2069
+ },
+ "hash": "55eed10877463d15"
+}

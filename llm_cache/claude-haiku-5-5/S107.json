@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "1.5",
+  "gpa_scale": "German (1.0 best)",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "Archaeology, History, Historical Islamic Studies, Art History, History of Law, Prehistory and Early History, History of Science; neighbouring disciplines if the core research question is historically oriented",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "Degree qualifying for doctoral study awarded no more than five years ago; age no more than 27 at graduation (extensions for night school, childcare, military service, work experience and other exceptional circumstances); no other salary or pension while receiving the scholarship; doctorate must start within twelve months of the grant being agreed; no funding for projects already supported by third parties or self-funded",
+  "evidence_sentence": "Scholarships are awarded independently of the applicant’s nationality or location.",
+  "host_country": "",
+  "notes": "Page is for the Gerda Henkel Foundation PhD scholarships; funding is described as full PhD scholarships (no college or tuition fees are covered), but the page is inconsistent on funding amount, with some text mentioning partial travel and material aid and a family allowance; funding_type set to full based on 'full PhD scholarships' wording. Grade requirement of 1.5 is for the overall master grade and foreign certificates are assessed separately. Rejected applications may be resubmitted once; after two unsuccessful attempts no further applications are permitted. Preference for German-language correspondence is not a requirement. Page states the Foundation does not provide support for studies below PhD level. The host country is not stated in the text. The page text contains some garbled and incomplete passages. Deadline: page says applications can be submitted at any time (no deadline). Enrollment: the page states applicants need not be formally registered yet, so no enrolment status is required."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 6108,
+  "output_tokens": 636
+ },
+ "hash": "cf149bbd1465958c"
+}

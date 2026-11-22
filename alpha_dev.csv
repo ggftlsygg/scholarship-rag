@@ -1,0 +1,85 @@
+variant,alpha,dev_NDCG@10
+Ours (haiku),0.0,0.4328
+Ours (haiku),0.05,0.4274
+Ours (haiku),0.1,0.4274
+Ours (haiku),0.15,0.434
+Ours (haiku),0.2,0.4381
+Ours (haiku),0.25,0.4426
+Ours (haiku),0.3,0.4549
+Ours (haiku),0.35,0.4577
+Ours (haiku),0.4,0.4897
+Ours (haiku),0.45,0.4975
+Ours (haiku),0.5,0.4964
+Ours (haiku),0.55,0.5186
+Ours (haiku),0.6,0.5239
+Ours (haiku),0.65,0.5375
+Ours (haiku),0.7,0.5477
+Ours (haiku),0.75,0.5517
+Ours (haiku),0.8,0.5536
+Ours (haiku),0.85,0.5551
+Ours (haiku),0.9,0.5467
+Ours (haiku),0.95,0.554
+Ours (haiku),1.0,0.5492
+Ours (regex),0.0,0.3135
+Ours (regex),0.05,0.3289
+Ours (regex),0.1,0.3289
+Ours (regex),0.15,0.3289
+Ours (regex),0.2,0.3358
+Ours (regex),0.25,0.3378
+Ours (regex),0.3,0.3474
+Ours (regex),0.35,0.3573
+Ours (regex),0.4,0.3722
+Ours (regex),0.45,0.379
+Ours (regex),0.5,0.3813
+Ours (regex),0.55,0.3858
+Ours (regex),0.6,0.3942
+Ours (regex),0.65,0.3849
+Ours (regex),0.7,0.3856
+Ours (regex),0.75,0.392
+Ours (regex),0.8,0.4088
+Ours (regex),0.85,0.4151
+Ours (regex),0.9,0.405
+Ours (regex),0.95,0.41
+Ours (regex),1.0,0.4001
+Ours (oracle),0.0,0.4725
+Ours (oracle),0.05,0.4932
+Ours (oracle),0.1,0.4932
+Ours (oracle),0.15,0.4915
+Ours (oracle),0.2,0.4946
+Ours (oracle),0.25,0.5081
+Ours (oracle),0.3,0.5207
+Ours (oracle),0.35,0.5361
+Ours (oracle),0.4,0.55
+Ours (oracle),0.45,0.5634
+Ours (oracle),0.5,0.5673
+Ours (oracle),0.55,0.5713
+Ours (oracle),0.6,0.5807
+Ours (oracle),0.65,0.5846
+Ours (oracle),0.7,0.5799
+Ours (oracle),0.75,0.5784
+Ours (oracle),0.8,0.581
+Ours (oracle),0.85,0.5852
+Ours (oracle),0.9,0.5837
+Ours (oracle),0.95,0.5853
+Ours (oracle),1.0,0.5844
+Ablation: no Stage A,0.0,0.4281
+Ablation: no Stage A,0.05,0.4274
+Ablation: no Stage A,0.1,0.4274
+Ablation: no Stage A,0.15,0.434
+Ablation: no Stage A,0.2,0.4381
+Ablation: no Stage A,0.25,0.4426
+Ablation: no Stage A,0.3,0.4529
+Ablation: no Stage A,0.35,0.4514
+Ablation: no Stage A,0.4,0.4802
+Ablation: no Stage A,0.45,0.4817
+Ablation: no Stage A,0.5,0.4736
+Ablation: no Stage A,0.55,0.4872
+Ablation: no Stage A,0.6,0.4934
+Ablation: no Stage A,0.65,0.4808
+Ablation: no Stage A,0.7,0.485
+Ablation: no Stage A,0.75,0.4711
+Ablation: no Stage A,0.8,0.444
+Ablation: no Stage A,0.85,0.4286
+Ablation: no Stage A,0.9,0.4107
+Ablation: no Stage A,0.95,0.3913
+Ablation: no Stage A,1.0,0.3705

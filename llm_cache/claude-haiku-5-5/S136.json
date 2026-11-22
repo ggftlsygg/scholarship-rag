@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "3.00",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2026-12-15"
+  ],
+  "field_of_study": "All Sciences, Engineering, Business Administration, Computer Engineering & Sciences (list of Master and PhD majors on page)",
+  "funding_type": [
+   "full",
+   "stipend"
+  ],
+  "other_hard": "Four-year bachelor's degree (Master); MS degree after four-year B.S. and minimum GPA 3.00 in both B.S. and M.S. (PhD); GPA of 3.00 in the major field (Master); MBA: four-year bachelor's degree, at least one college-level calculus course, at least one computer course, at least one year of full-time work experience, GMAT for international MBA applicants; MBA requirements may be waived for graduate assistants, research assistants and applicants with exceptional academic records",
+  "evidence_sentence": "All International Students from all over the world are welcomed to apply for the Deanship of King Fahd University.",
+  "host_country": "Saudi Arabia",
+  "notes": "Page is a third-party aggregator (Bright Scholarship) with unrelated scholarships mentioned throughout; URL says 2024-25 while page content says 2026 intake; page says Local and International Students may apply, so nationality is ALL; 'encouraged to apply' is a preference and is not included as a criterion; TOEFL/IELTS and GRE are needed only before final admission, not at application; the page describes the MBA/Master/PhD criteria together, and the GPA figure applies to all listed programmes; the page advises verifying details on the official source."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 5036,
+  "output_tokens": 1668
+ },
+ "hash": "db92508bb093771e"
+}

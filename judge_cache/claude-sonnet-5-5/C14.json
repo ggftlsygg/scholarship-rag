@@ -1,0 +1,23 @@
+{
+ "hash": "cd8fee10efc1c9cf",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S091",
+    "type": "missed_barrier",
+    "answer_quote": "Its eligibility also depends on your household's tax residence (not within the EU), and the page does not say whether your household meets this.",
+    "explanation": "Omits other conditions that need checking: first-time Sciences Po applicants only, admission to the programme required per the evidence, no EU dual citizenship, and no combining with other Sciences Po or partner scholarships.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S091",
+    "type": "deadline_error",
+    "answer_quote": "Its listed deadlines are annual dates, so the next cycle should be checked.",
+    "explanation": "The context lists specific upcoming deadlines (2027-01-13 and 2027-04-01) as MATCH alongside annual ones, so calling them all annual dates that need a next-cycle check misreads them.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "yes",
+  "overall": "The answer correctly does not claim the Dream Together scholarship is available. It says the scholarship is not among those provided and that it cannot confirm availability. The scholarship summaries mostly match the context. The two problems are an incomplete list of Sciences Po (S091) conditions and a loose description of its deadlines."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "currently resident in the UK or an EU country",
+  "evidence_sentence": "Be currently resident in the UK or an EU Country",
+  "host_country": "UK",
+  "notes": "Eligibility is residence in the UK or EU, not nationality, so nationality_rule is left empty. The page gives no bursary amount, so funding_type is empty. The page names no subject field beyond the Global MBA. The page states no deadline and processes requests on an ongoing basis."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2761,
+  "output_tokens": 1081
+ },
+ "hash": "f0352a27d385a8ff"
+}

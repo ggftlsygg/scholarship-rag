@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "Refugee Protection and Forced Migration Studies",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "membership in Professionals in Humanitarian Assistance & Protection (PHAP) with scanned membership badge required; registered students must have registered from the 2016/17 academic year onwards",
+  "evidence_sentence": "Members of Professionals in Humanitarian Assistance & Protection (PHAP) can receive a 10% discount on their fees towards the MA Refugee Protection and Forced Migration Studies programme.",
+  "host_country": "UK",
+  "notes": "Deadline is stated only relative to the programme application deadline (at least two weeks before it), with no specific date given. Page describes a 10% fee discount for the MA Refugee Protection and Forced Migration Studies programme at the University of London. No nationality or GPA criteria stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2887,
+  "output_tokens": 994
+ },
+ "hash": "91896939807d57a6"
+}

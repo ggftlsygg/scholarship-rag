@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "stipend",
+   "tuition"
+  ],
+  "other_hard": "candidate must be enrolled in an accredited RHD course of study at CQUniversity; for RTP Stipend, income from other sources for general living costs must not exceed 75 per cent of the RTP Stipend rate; for RTP Fees Offset, candidate must not receive an equivalent Commonwealth award designed to offset RHD tuition fees",
+  "evidence_sentence": "In accordance with the Commonwealth Scholarship Guidelines (Research) 2017, to be eligible for a RTP Scholarship a candidate must be a domestic candidate or an overseas candidate enrolled in an accredited RHD course of study at CQUniversity.",
+  "host_country": "Australia",
+  "notes": "Page says the award is for a higher degree by research (RHD) but does not state whether this is master's, PhD or both, so degree_levels is left empty. Enrollment status is taken from the requirement to be enrolled in an RHD course; the page does not say whether applicants must be enrolled before applying. No application deadline, GPA or field restriction is stated. Merit-based selection with a scoring scale (academic achievement and writing skills 0-20, research project quality and alignment with research priority areas 0-15, motivation, research experience and environment 0-15); these are preferences, not hard criteria. The Fees Offset is described as offered to domestic students awarded a stipend; the text does not say whether overseas students receive it. Page describes the scholarship in generic terms and gives no stipend amount."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3245,
+  "output_tokens": 1736
+ },
+ "hash": "52bea3c51faa806d"
+}

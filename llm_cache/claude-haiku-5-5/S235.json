@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd",
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "",
+  "evidence_sentence": "Only graduate students currently accepted for degree programs are eligible to apply.",
+  "host_country": "USA",
+  "notes": "List page with many separate awards, each with its own criteria, deadlines, funding and eligibility. Only criteria shared by the whole page are filled; per-award details are not extracted. Deadlines are per award: Bertha Morton student applications due 2027-02-06, Stella Duncan 2027-03-28, Helen Roberti 2027-03-28, Sappenfield 2027-03-28, and Dennis and Phyllis Washington Scholarship Feb 1, 2026 (already past). Nationality rules differ by award (e.g., Montana Native American fee waiver requires Montana residency and enrolled membership in a Montana Indian Tribe; Helen Roberti and Sappenfield require Native American membership). The 'Other' degree level refers to the research-stay programmes (EAPSI, ETS, American Councils) that are not degree study. The 'Only graduate students currently accepted' sentence comes from the Bertha Morton section and does not apply to every award. The page has no single name-matching award; the name refers to the whole page."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 7352,
+  "output_tokens": 1751
+ },
+ "hash": "bbef908a86cde13d"
+}

@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-03-19"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "overseas fee status; must have applied to study at the University of Bristol and received an application ID",
+  "evidence_sentence": "These scholarships are for applicants with overseas fee status who have applied for an eligible undergraduate or master's course.",
+  "host_country": "United Kingdom",
+  "notes": "List page with many awards that have different criteria. Award values range from 3,000 to 26,000 GBP as tuition fee discounts, mostly for one year of master's study. Some awards are limited to specific subjects, schools or faculties (for example Law MA, Business School, School of Economics, Faculty of Health and Life Sciences). The 26,000 GBP award is limited to nationals of Sri Lanka, and India, Malaysia and USA one-year postgraduate awards are for students from those countries via a British Council partnership, so these nationality limits apply only to those awards. One 13,000 GBP award is available per country for a postgraduate international student. A 5,000 GBP and a 3,000 GBP living cost bursary apply to specific awards only. Undergraduate awards of 6,500 and 13,000 GBP run for up to four years. Deadline is the Think Big scholarship application close date for 2027 entry; applications open 27 October 2026. Page mentions a 2027 intake and new awards for 2027. Typos on page (e.g. 3,00 GBP, Pychology) were read as 3,000 and Psychology."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4900,
+  "output_tokens": 1849
+ },
+ "hash": "efdb5bbd6a84a66c"
+}

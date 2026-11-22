@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "verified UNA alumni status (Alumni Scholarship only); not stackable with other UNA Scholarships",
+  "evidence_sentence": "New students enrolled in any online graduate program (online or on-campus), certificate, or micro-credential will automatically qualify and receive a complimentary first course tuition scholarship when enrolled in two or more courses their first semester.",
+  "host_country": "USA",
+  "notes": "List page with several awards (New Start Scholarship, Alumni Scholarship) under a generic name; criteria differ per award. Only criteria applying to both are filled. Alumni Scholarship requires admission to an eligible program and UNA alumni status (its enrollment_status would be admitted, but this is not filled for the whole page). New Start is tied to enrollment in two or more courses in the first semester. Funding amounts vary and no deadline, nationality, GPA or field criteria are stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2816,
+  "output_tokens": 1417
+ },
+ "hash": "2114d60d3dcb2a17"
+}

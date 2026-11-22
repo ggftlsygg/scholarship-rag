@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "2:1",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "STEM courses",
+  "funding_type": [
+   "full",
+   "stipend"
+  ],
+  "other_hard": "proficient in written and spoken English; 3rd or 4th year undergraduate or master's student from an overseas university; must remain matriculated at home university during the attachment; strong interest in a research career",
+  "evidence_sentence": "Open to applicants from all countries.",
+  "host_country": "Singapore",
+  "notes": "Page describes a short-term research attachment at A*STAR, not a standard degree programme; the 'top international students' wording is descriptive, not a stated requirement. No application deadline is stated. Page is an aggregator listing with promotional text for a paid strategy board, which was ignored. Degree level 'Bachelor, Master's' is taken from the listing header and matches the 3rd/4th year undergraduate or master's wording."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2906,
+  "output_tokens": 1199
+ },
+ "hash": "d2629f06c0c49e93"
+}

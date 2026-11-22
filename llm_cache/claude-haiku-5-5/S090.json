@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "far above average",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:11-11"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "must not have received public funding for their doctoral project",
+  "evidence_sentence": "The Elsa-Neumann-Scholarship provides funding for doctoral researchers at the four Berlin universities.",
+  "host_country": "Germany",
+  "notes": "Academic performance 'far above average' is a verbal grade condition, usually shown by final degree grade; no numeric GPA. No nationality rule stated. No field restriction stated, so field left empty. Deadline 'November 11th' has no year and is past relative to 2026-11-21, so treated as annual; page may be outdated. Completion scholarships (max 12 months) are partial-length awards; full scholarships are up to 36 months. Page also describes unrelated museum tour events."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3185,
+  "output_tokens": 1343
+ },
+ "hash": "2783910bf49baa63"
+}

@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "REGION:developing countries",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [
+   "2027-04"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "international student; meet the general and country specific eligibility criteria as listed in the Australia Awards Scholarship Handbook",
+  "evidence_sentence": "Students from eligible developing countries are given the opportunity to undertake full-time undergraduate or postgraduate study, research and professional development in Australia.",
+  "host_country": "Australia",
+  "notes": "RMIT university page for the DFAT-funded Australia Awards Scholarships. Eligibility requires citizenship of any participating country, but the country list is only on the external Handbook/website and is not in the text, so nationality is treated as REGION. Priority areas of study are mentioned but not listed. Value varies by country of origin; full tuition and living contribution are listed as generally applying. Deadline is month only (April 2027). No minimum GPA stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4147,
+  "output_tokens": 1626
+ },
+ "hash": "c8025ec2ff98c81c"
+}

@@ -1,0 +1,16 @@
+{
+ "hash": "f1f3232d2b9b9409",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S215",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "The student is an applicant rather than someone holding an offer, which the scholarship requires",
+    "explanation": "The enrollment criterion (admitted) is UNKNOWN in the context, and the profile does not say whether the student holds an offer. The answer wrongly implies the student lacks one.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. It flags the UNKNOWN criteria, the passed UAL deadline, the Aga Khan exclusions, and the HBKU stipend limits. The only error is a minor overreach about the student's offer status for UAL."
+ }
+}

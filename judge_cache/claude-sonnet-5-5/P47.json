@@ -1,0 +1,16 @@
+{
+ "hash": "b415e8abe3c49e06",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S136",
+    "type": "unknown_as_confirmed",
+    "answer_quote": "Your master's level, nationality, applicant status, and 3.1 GPA meet the listed requirements (S136)",
+    "explanation": "The answer says the 3.1 GPA meets the requirements, but the 3.00 GPA is required in the major field and the four-year bachelor's degree is unconfirmed. The answer itself calls these UNKNOWN later, so the first statement is overstated and inconsistent.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. Amounts, deadlines, funding types and UNKNOWN criteria are handled correctly, and barriers such as work experience, F1 visa status, financial need and transfer hours are flagged. The only problem is a small overstatement for S136."
+ }
+}

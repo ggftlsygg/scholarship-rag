@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ONLY:Iran",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:11-15"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "gender: Iranian women or other equity-deserving gender identities (self-identified); strong achievements and leadership within and outside academic studies; first-year in-program master's or PhD at Dalhousie",
+  "evidence_sentence": "The recipient is from Iran.",
+  "host_country": "Canada",
+  "notes": "Deadline 'November 15 at 11:59 p.m. Atlantic Time' has no year and is before today, so recorded as annual. The page does not state field-of-study restrictions, so field_of_study is empty. The page lists 'Degree level: All master's or doctoral' and 'Available to: ... enrolled full-time', while the eligibility list says 'entering or currently enrolled'; enrollment status is recorded as enrolled and full-time. Funding is two awards of $2,500 each per year for up to two years, recorded as partial."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3054,
+  "output_tokens": 1186
+ },
+ "hash": "77a479381850ab9a"
+}

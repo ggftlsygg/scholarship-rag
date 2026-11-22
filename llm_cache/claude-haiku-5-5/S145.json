@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "2.00",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "child of a Marine or Navy Corpsman, Chaplain or Religious Programs specialist attached to a Marine unit; adjusted gross income at or below the Foundation's annual financial eligibility threshold (need-based); no bachelor's degree already earned or all undergraduate courses completed; school must be eligible for federal funding and listed on NCES College Navigator",
+  "evidence_sentence": "No, if you’ve already earned a bachelor’s degree or completed all of your undergraduate courses, then you are ineligible for this program.",
+  "host_country": "",
+  "notes": "No application deadline is stated; the page only says 'How do I know when to apply' with no date. Award amounts are $2,500, $5,000, $7,500 or $10,000 per academic year, based on need, GPA and funding; renewable up to four paid awards with re-application each year. Cumulative unweighted GPA of 2.00 is stated as an eligibility requirement without a scale. The page does not state a host country; the federal-funding and NCES references are not explicit. The undergraduate scholarship (January 1 to March 1 applications) is a separate program and is not described here. The page says the program is not competitive. Preference for need and GPA is for award amount, not entry."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3349,
+  "output_tokens": 1525
+ },
+ "hash": "f7b37bcbd7a3d664"
+}

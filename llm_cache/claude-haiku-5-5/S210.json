@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "REGION:Middle East",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [],
+  "other_hard": "study at a UK university; one-year master's course; candidates must demonstrate their subject will enable them to contribute to the development of their home country",
+  "evidence_sentence": "Our decisions are based on the candidate’s academic excellence, the usefulness of the subject to their home country, their leadership potential, their commitment to serving their community, their future career goals and their practical ability to make use of the knowledge to be gained in the UK on their return to the Middle East",
+  "host_country": "UK",
+  "notes": "Page does not state an application deadline or funding amount. Nationality is implied as Middle East return but the page does not explicitly list eligible countries; REGION used as the closest match. Selection criteria such as leadership potential and community commitment are assessment factors, not explicit hard requirements. Non-university partner use must be explained in application (conditional). Page does not mention funding type."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2782,
+  "output_tokens": 366
+ },
+ "hash": "fcfbc08e278730da"
+}

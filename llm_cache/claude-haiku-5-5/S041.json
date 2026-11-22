@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "very good",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "annual:03-01",
+   "annual:09-01"
+  ],
+  "field_of_study": "All PhD subjects related to focal points of the Foundation's activities will be given priority.",
+  "funding_type": [
+   "stipend",
+   "partial"
+  ],
+  "other_hard": "Proof of German language proficiency level B2 or DSH 1 for international applicants; university diploma must be submitted; preliminary work on PhD project completed and valid timetable for completion; proof of admission to doctoral studies by a state or state-recognised university, as a rule in Germany",
+  "evidence_sentence": "The Heinrich Böll Foundation's Scholarship Department awards scholarships to German and foreign PhD students in accordance with the guidelines issued by Germany's Federal Ministry of Research, Technology and Space (BMFTR) and the Foreign Office (Auswärtiges Amt).",
+  "host_country": "Germany",
+  "notes": "Page is a general application guide for the Heinrich Böll Foundation PhD scholarship (June 2025 version), not clearly a single named award; the name 'Promotionsstipendium' is generic. Page says 'very good school and university academic record' is a key criterion for written applications (verbal, not a fixed GPA). Enrollment status: admission proof may be submitted later, applicants must hold admission confirmation, so 'admitted' is inferred from the admission requirement. Deadlines are listed as 1 March and 1 September with no year; treated as annual. Funding amounts: EU/German scholarship €1550 per month plus €100 research allowance; non-EU €1400 per month plus €100 mobility allowance; tuition funding not possible in Germany. Regular duration 3.5 years. Priority for subjects related to Foundation focal points is a preference, placed in field_of_study text only as stated. Nationality: text says 'German and foreign PhD students' so ALL; refugees can apply regardless of asylum status. Page also mentions a rule that rejected applicants at stage 3 may not re-apply. Some text is garbled in the source (tables), so values were read carefully."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 6870,
+  "output_tokens": 734
+ },
+ "hash": "af6337ebfddd09d9"
+}

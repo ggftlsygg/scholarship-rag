@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "MBA (business administration)",
+  "funding_type": [],
+  "other_hard": "",
+  "evidence_sentence": "Students must demonstrate academic excellence.",
+  "host_country": "Canada",
+  "notes": "Page is an MBA awards page and does not name the Alberta Graduate Excellence Scholarship; the page does not state an amount, deadline or citizenship rule. A GPA of 3.3 over the most recent 15 units is stated for current students, so it appears to apply to keeping or renewing the award and is not treated as an entry requirement; for admission, Admission GPA (AGPA) is only a weighted factor. Students may reside within or outside Alberta. Enrolled and full-time status come from the current-student rule and the study load line. Page contains a typo ('Studetns')."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2756,
+  "output_tokens": 1216
+ },
+ "hash": "4bd905d0ed826aef"
+}

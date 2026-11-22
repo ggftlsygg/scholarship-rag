@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "MBA, MBA/MEng, or Master's specializing in Engineering Management; undergraduate degree in engineering preferred in chemical engineering",
+  "funding_type": [],
+  "other_hard": "holds undergraduate degree in engineering",
+  "evidence_sentence": "Nominees must hold an undergraduate degree in engineering, preferably in chemical engineering",
+  "host_country": "Canada",
+  "notes": "Page is for an EF Pearson award but text does not name it; the 'EF Pearson' name does not appear on the page and the page text refers to IF Morrison Selection Committee. Selection based on academic achievement; nominees are selected by School of Business and Faculty of Engineering, no nomination process for applicants stated. Preference for chemical engineering is a preference, not a requirement. Deadline not stated. Funding amount not stated. Application listed as required; enrollment status set to applicant based on Application: Required."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2714,
+  "output_tokens": 365
+ },
+ "hash": "2da7d0dfb913bd56"
+}

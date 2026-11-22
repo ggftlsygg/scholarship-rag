@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:07-12"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "SAT Reasoning Test minimum 1000 out of 1600 in Math and Critical Reading; SAT Subject Test minimum 500 out of 800 from at least two sections related to the applied program; GCE A Level or Cambridge International A Level minimum three subjects in the applied program area with at least C grade; IB Diploma minimum score 28 out of 45 with at least one HL subject related to the applied program; International Science Olympiad medal holders recognised by TÜBİTAK accepted; predicted grades are not evaluated",
+  "evidence_sentence": "SAT (digital & paper-based): Reasoning Test: A minimum score of 1000 out of 1600 in “Math” and “Critical Reading” sections.",
+  "host_country": "Turkey",
+  "notes": "The page is an undergraduate application qualifications page, not a scholarship page; it states no scholarship award, funding, or scholarship-specific criteria. The 2026-2027 application window (2 February to 12 July 2026) has already passed as of 2026-11-21, so the page may be outdated. The page states minimum qualifications only and says meeting them does not guarantee admission. Nationality, field of study, and funding are not stated. The deadline is recorded as annual:07-12 because the stated end date is past."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3189,
+  "output_tokens": 1365
+ },
+ "hash": "cbb3830b2c43b01c"
+}

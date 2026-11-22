@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "REGION:ASEAN",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "",
+  "evidence_sentence": "The DUO-Singapore Fellowship Programme was established in 2002 to promote academic exchanges between full-time undergraduate students who are Singapore(or ASEAN citizens) and students from universities in European ASEM member countries.",
+  "host_country": "Singapore",
+  "notes": "Overview page only. Fellowships are administered by four Singapore universities (NTU, NUS, SMU, SUTD), and the page refers to their websites for terms, funding, and deadlines, none of which are stated here. Nationality is Singapore or ASEAN citizens, with the ASEAN group not listed by country. The page does not say whether the host is Singapore or the European partner, so host_country follows the Singapore universities named. Degree level is inferred from full-time undergraduate students."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3022,
+  "output_tokens": 1372
+ },
+ "hash": "b0d8bebe1ceaaa46"
+}

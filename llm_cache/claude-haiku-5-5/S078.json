@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "REGION:least-developed, low-income and lower-middle-income countries (DAC list)",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "plant health (Global Plant Health MSc)",
+  "funding_type": [
+   "full",
+   "partial",
+   "travel"
+  ],
+  "other_hard": "offer of admission to the UEA MSc in Global Plant Health; written statement explaining how they intend to contribute to addressing plant disease challenges",
+  "evidence_sentence": "The David Sainsbury Full MSc Scholarship is available to applicants from least-developed, low-income, and lower-middle-income countries or territories according to the Overseas Development Assistance Committee (DAC) list.",
+  "host_country": "United Kingdom",
+  "notes": "Page is a third-party listing (Global South Opportunities) and states it is not the organising body; verify on the official site. No application deadline is stated. Page says all full scholarships for the 2026 intake are already allocated, so only the 50% tuition awards remain. The text also says the award is available to candidates from higher-income and upper-middle-income countries, including the UK, which conflicts with the DAC-country rule for the full scholarship; the nationality rule reflects the full scholarship. Maintenance grant and up to £4,000 travel are stated for the full award. Selection is automatic during MSc admission, with no separate application."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4340,
+  "output_tokens": 1714
+ },
+ "hash": "53bc82194bb6b363"
+}

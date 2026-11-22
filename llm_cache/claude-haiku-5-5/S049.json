@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:12-01"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "tuition"
+  ],
+  "other_hard": "first-year students",
+  "evidence_sentence": "Applicants who are U.S. citizens, permanent residents, and eligible non-citizens are considered for all merit awards.",
+  "host_country": "USA",
+  "notes": "Page says recipients typically rank in the top 5% of their high school class and that SAT scores are typically above 1500 or ACT above 33, but these are typical profiles, not stated requirements, so min_gpa is empty. The text says the scholarship is renewable for up to four years but gives no renewal conditions. The deadline (December 1 of the current school year) has no year, so it is recorded as annual. The page is a third-party aggregator with empty Amount, Deadline and Awards fields, and the award is a Boston University scholarship, with host country taken from the university name."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2900,
+  "output_tokens": 1126
+ },
+ "hash": "250887baa53a67e9"
+}

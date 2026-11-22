@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "stipend",
+   "travel"
+  ],
+  "other_hard": "Muslim religion; above average potential for academic/research achievement; social, cultural or political involvement; enrolment or acceptance for a master's or doctorate at a German university; not eligible for part-time studies, state examinations or bachelor's degree programmes; not eligible for domestic students; residents educated in Germany cannot be funded",
+  "evidence_sentence": "Resident educational students can’t be funded through the ISP.",
+  "host_country": "Germany",
+  "notes": "The page says the application period is closed, so the deadline is unknown; rolling is a guess from the closed period and may be wrong. Page lists both MA and doctoral funding amounts with different criteria; the program also supports imams and religious personnel. Funding amounts differ between MA and doctoral candidates. Monthly scholarship for MA 844 EUR and doctorates 1275 EUR plus supplements; stated as stipend and travel allowance. Page text lists the 'Application Requirements' as enrolment or acceptance, so applicant status is an assumption; 'Muslim' eligibility is stated in the programme description. Page is outdated in parts (references to 2018-2021 funding). Deadline field is inaccurate as the page gives no date."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3783,
+  "output_tokens": 500
+ },
+ "hash": "d42dc8b650c9e7a5"
+}

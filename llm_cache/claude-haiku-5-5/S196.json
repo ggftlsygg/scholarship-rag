@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "business",
+  "funding_type": [],
+  "other_hard": "holds an undergraduate degree in engineering",
+  "evidence_sentence": "The recipient must hold an undergraduate degree in engineering and will be selected on the basis of satisfactory academic performance and leadership potential.",
+  "host_country": "Canada",
+  "notes": "Award is for students registered full-time in the MBA; study load stated as full time and term is Winter. Selection on satisfactory academic performance and leadership potential is a selection basis, not a stated minimum grade. No application deadline or funding amount stated on the page. Page does not state an application deadline or award value; the award is described as annual."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2624,
+  "output_tokens": 278
+ },
+ "hash": "132941c8fee400d2"
+}

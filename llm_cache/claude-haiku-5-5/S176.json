@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "excellent academic record",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "Admission to a doctoral program at a state or state-recognized university in Germany or abroad; Very good German language skills (proof of language acquisition level B2, even if writing the dissertation in English); Social commitment in accordance with the Rosa Luxemburg Foundation; No doctoral completion scholarships are awarded; Dual funding with other public funds is not permitted; Previous doctoral funding from another institution only allowed if it was for less than three years, counted against the three-year maximum; International candidates: supervision by a university lecturer in Germany and not in Germany for more than 15 months at time of application (unless already studied or began doctorate or research stay in Germany more than 15 months ago)",
+  "evidence_sentence": "The doctoral scholarship is open to German doctoral students who are admitted to a doctoral program at a state or state-recognized university in Germany, an EU country, or Switzerland.",
+  "host_country": "Germany",
+  "notes": "Page describes two programmes: a doctoral scholarship for German, EU and Swiss doctoral students and a separate scholarship for international doctoral students funded by the Federal Office (AA), with different criteria (e.g., 15-month rule and lecturer supervision apply to international candidates). Nationality is treated as ALL because both domestic and foreign doctoral students are eligible. No application deadline, funding amount, or field of study is stated on the page. Excellent academic record is a verbal grade requirement. Research stays outside Germany are mentioned as a reason to apply but are not a separate eligibility condition."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3741,
+  "output_tokens": 2081
+ },
+ "hash": "68673d35484c7cd9"
+}

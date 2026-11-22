@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:06-15"
+  ],
+  "field_of_study": "Computer Science, Mathematics, Engineering, Natural Sciences, Data Science / Machine Learning / AI-related disciplines",
+  "funding_type": [
+   "stipend",
+   "travel"
+  ],
+  "other_hard": "certified proficiency in English",
+  "evidence_sentence": "The relAI MSc is an enhancement to a regular master’s degree program at TUM or LMU Munich, offering a flexible and personalized academic pathway for students pursuing advanced education in artificial intelligence.",
+  "host_country": "Germany",
+  "notes": "Eligibility is phrased as 'Applicants are encouraged to apply if they have', so the excellent bachelor's degree in listed fields, strong interest in reliable AI, and English proficiency are soft wording; English is listed under other_hard as stated. No minimum grade or nationality rule stated. Deadline 15 June 2026 has passed as of 2026-11-21, so it is recorded as annual. Source is a third-party aggregator (OFY) page dated 2026-05; verify against the official DAAD page. Scholarship amount is 'up to €992 per month', so full funding is not stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3182,
+  "output_tokens": 1360
+ },
+ "hash": "93af12a03df97066"
+}

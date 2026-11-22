@@ -1,0 +1,37 @@
+{
+ "hash": "131a46666f7e6817",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S098",
+    "type": "missed_barrier",
+    "answer_quote": "Your profile (female, MBA, admitted, part-time, Canada) matches these conditions",
+    "explanation": "The award requires registration in the MBA at the Alberta School of Business. The profile only says 'admitted' and does not name a university, so the student is wrongly said to match every condition. Registration and the specific school are unconfirmed and are not flagged.",
+    "severity": "high"
+   },
+   {
+    "scholarship_id": "S051",
+    "type": "unsupported_claim",
+    "answer_quote": "You meet the admission and Canadian-residence criteria",
+    "explanation": "The context lists a nationality criterion (ALL), not a residence criterion. Describing it as a residence criterion is unsupported.",
+    "severity": "low"
+   },
+   {
+    "scholarship_id": "S152",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "Your class standing and first-year completion are also not in your profile",
+    "explanation": "The student is only admitted, so has clearly not completed the first year of the MBA. This is a likely barrier, but it is presented as merely missing information.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S152",
+    "type": "missed_barrier",
+    "answer_quote": "Your Canada nationality matches",
+    "explanation": "The passage says preference goes to Alberta residents. The student only lives in 'Canada', and this preference is not mentioned.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "partly",
+  "overall": "The answer states the gender condition for each award and addresses part-time status. It overstates the fit for S098 by saying the profile matches all conditions, without noting that registration at the Alberta School of Business is unconfirmed. It also underplays that an admitted student has not completed the first year required by S152."
+ }
+}

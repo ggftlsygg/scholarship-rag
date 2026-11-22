@@ -1,0 +1,16 @@
+{
+ "hash": "7c61fbcfb0fd345d",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S178",
+    "type": "unsupported_claim",
+    "answer_quote": "a completed bachelor's degree or completed undergraduate studies, and that you have not yet studied",
+    "explanation": "The \"haven't yet studied\" criterion comes from the domestic/high-school programme text, not the international programme. It also contradicts the completed-bachelor's requirement the answer cites in the same sentence.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "yes",
+  "overall": "The answer handles the current-student and Nigerian-nationality rules well. It ranks MTN STS first, flags that the institution must be public, and treats the German foundations as poor fits. It handles UNKNOWN criteria and passed deadlines correctly. The only issue is a minor misattribution of the \"not yet studied\" criterion to the international programme of S178."
+ }
+}

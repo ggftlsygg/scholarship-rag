@@ -1,0 +1,16 @@
+{
+ "hash": "24a8fb491af2b652",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S170",
+    "type": "missed_barrier",
+    "answer_quote": "is for international applicants to a master's programme in China",
+    "explanation": "The context passage for S170 lists finance/economics courses, so the programme may not fit a computer science student. The answer never raises the field-of-study question.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "yes",
+  "overall": "The answer is in English. It says 'full funding' only for S237, whose funding type is full, and labels S068 and S067 stipend or travel and S225 partial. Unknown criteria are flagged as unknown, and the past-deadline notes are consistent with today's date. The only concern is the missing field-of-study caveat for S170, which is minor."
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "Mathematics",
+  "funding_type": [],
+  "other_hard": "International/EU fee status; accepted for full-time admission to an undergraduate degree programme hosted in the School of Mathematics at the University of Edinburgh; applied to the University through UCAS; not already on programme; not studying Mathematics as part of a degree hosted by another School",
+  "evidence_sentence": "The scholarships are awarded to applicants with International/EU fee status who are accepted for full-time admission to an undergraduate degree programme hosted in the School of Mathematics at the University.",
+  "host_country": "UK",
+  "notes": "Page text says awards are competitive and based on academic merit but states no minimum grade. Nationality rule INTERNATIONAL is inferred from 'International/EU fee status', which is a fee-status rule rather than a citizenship rule; EU fee status may not map cleanly to international students. No application deadline is stated on the page, only a reference to 'the scholarship deadline date'. Page says 'If the student does not make satisfactory progress in any one year, the award will terminate' which is a renewal condition, not an entry requirement. Page is titled 'Global Scholarship' in the name but the text describes Mathematics-specific undergraduate awards; the page text does not state a funding amount or type."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3069,
+  "output_tokens": 498
+ },
+ "hash": "ed7ace23b15dd220"
+}

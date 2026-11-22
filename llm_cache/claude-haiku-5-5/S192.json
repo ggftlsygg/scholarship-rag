@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "ordinarily resident in an eligible European Union member state; international fee-paying student; new undergraduate entrant for 2027/28 entry",
+  "evidence_sentence": "Be ordinarily resident in an eligible European Union member state.",
+  "host_country": "UK",
+  "notes": "The scholarship is awarded automatically with no separate application, so no deadline is stated. Eligibility is based on ordinary residence in an eligible EU member state, which is not a citizenship rule, so nationality_rule is left empty. The 'eligible countries' list on the page includes many non-EU countries and is cut off mid-list, which conflicts with the EU wording. The award is a tuition fee reduction (net fee £12,060 for 2027/28), not a full waiver or stipend. The 'Hold an offer' condition was read as admitted status."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4875,
+  "output_tokens": 1274
+ },
+ "hash": "6b7aadb4e8f060cf"
+}

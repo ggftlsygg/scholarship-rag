@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "human or veterinary medicine; medical engineering; applied medical sciences; public health; data science in medicine",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "submit an innovative international research proposal",
+  "evidence_sentence": "Master's or PhD students; Bachelor's students and postdocs cannot receive funding.",
+  "host_country": "Germany",
+  "notes": "Deadline dates are not in the page text; it only refers to a separate deadlines page. Enrollment status 'applicant' is inferred from the application process. The page lists the fields both in the programme description and in the target group, and they differ slightly (target group adds data science in medicine). Funding covers research stays, internships or part of a degree abroad for German students, and study, research or internships in Germany for international students. Award is capped at 10,000 EUR per request and lasts up to 6 months. Funding type 'partial' is inferred from the fixed cap."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2907,
+  "output_tokens": 1322
+ },
+ "hash": "c7764611055c3da2"
+}

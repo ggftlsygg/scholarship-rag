@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "3.0",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "admitted"
+  ],
+  "deadline": [
+   "2027-02-07"
+  ],
+  "field_of_study": "mental/behavioral health, nursing, or addiction medicine",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "undergraduates must be enrolled in a four-year degree program or show proof of acceptance to one; undergraduates need a 3.0 GPA in the last completed academic year, most recent quarter or semester, or a 3.5 high school GPA if no college completed; graduates must have graduated from an accredited four-year institution with a 3.0 GPA; academic focus in the field shown by a major or minor (undergraduate) or area of study (graduate)",
+  "evidence_sentence": "Any undergraduate and graduate students currently enrolled in a degree program in mental/behavioral health, nursing, or addiction medicine",
+  "host_country": "",
+  "notes": "Two awards of $5,000 (one undergraduate, one graduate); the page also says applications are rolling and the next winners are announced March 1, 2027; the page says the award is paid to the school in which the student enrolls on May 1, 2027; the 2026 winners and finalists text is historical; veterans, minorities and people with disabilities are welcomed but this is explicitly not a requirement (preference, not criterion); 200 applications are chosen by drawing and then reviewed on academic performance, essay quality and potential impact; no nationality or host country is stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3831,
+  "output_tokens": 1782
+ },
+ "hash": "48b5c9360910aea1"
+}

@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ONLY:USA (citizen, permanent legal resident, or DACA)",
+  "min_gpa": "3.0 (high school students); 2.5 (college and graduate students)",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:02-15"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Hispanic heritage; plan to enroll full-time in an accredited public or not-for-profit four-year university or graduate school in the US for the 2026-2027 academic year; complete the 2026-2027 FAFSA; financial need (awards based on relative need)",
+  "evidence_sentence": "Eligibility Requirements - US Citizen, Permanent Legal Resident, or DACA",
+  "host_country": "USA",
+  "notes": "Page shows the 2026 application as closed with a deadline of February 15 2026, which is in the past, so the deadline is stored as annual. Scholar status is open to all races with Hispanic heritage, and scholarship money is only available depending on funds and participation in the Fund A Scholar Program. The page says awards are selected on merit in one place and based on relative need in another. No field of study is stated. Enrollment-status and funding terms are inferred from the stated plan to enroll full-time and the stated award range of 500 to 5000 dollars."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3260,
+  "output_tokens": 1728
+ },
+ "hash": "1d82561e2c9bf8a5"
+}

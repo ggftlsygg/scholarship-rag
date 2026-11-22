@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "REGION:selected countries",
+  "min_gpa": "excellent academic records",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "demonstrate genuine financial need; no other means of financing studies; hold a Bachelor's degree or equivalent training/professional experience; be starting the first year of a postgraduate programme; not already enrolled in or commenced postgraduate studies; admitted to a reputable postgraduate institution; strong leadership potential, professional experience, extracurricular and/or entrepreneurial achievements, and volunteer contributions; thoughtful multi-source funding plan covering all years of study; not available to students who wish to study in the United Kingdom or Russia; applications for part-time programmes and short-term courses not considered; guarantor required to co-sign the award agreement",
+  "evidence_sentence": "The Aga Khan Foundation’s International Scholarship Programme (AKF ISP) is an opportunity for outstanding scholars from selected countries*, who have no other means of financing their studies, to pursue postgraduate education.",
+  "host_country": "",
+  "notes": "The list of selected countries is not given on the page; the asterisk has no matching footnote text. Preference for young professionals under 30 is not a requirement. Award is half grant and half loan (50 percent repayable). Good academic standing and ongoing financial need are needed to keep the award. Priority goes to Master's programmes; PhD studies are also considered, with funding for the first two years only. Local/regional universities and distance learning are acceptable if course quality is maintained. Applications are handled by contacts in countries where the programme is available; no deadline is stated on the page. Host country is not stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4027,
+  "output_tokens": 2103
+ },
+ "hash": "cc565894bde1fae8"
+}

@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "other"
+  ],
+  "nationality_rule": "ONLY:USA (citizen, national or PR)",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:04-15"
+  ],
+  "field_of_study": "Agricultural Production Operations, Natural Resources Conservation and Management, Architectural Engineering, Digital Communication and Media/Multimedia, Animation, Video Graphics and Special Effects, Computer and Information Systems Security, Education, Engineering, Engineering Technology, Biomedical Sciences and Molecular Medicine, Biology, Mathematics, Military Science, Interdisciplinary Studies, Physical Sciences, Psychology, Homeland Security and Disaster Management, Social Sciences, Aeronautics and Aviation Technology, Health Professions, Business and Management",
+  "funding_type": [],
+  "other_hard": "demonstrate financial need; demonstrate academic excellence",
+  "evidence_sentence": "The UNCF STEM Scholars Program provides financial assistance to high school seniors who demonstrate academic excellence and financial need.",
+  "host_country": "USA",
+  "notes": "Name says 2019 but page dates are 2026 and status shows Not Open Yet; the 4/15/2026 deadline is past, so annual:04-15 is used. STEM study is only encouraged (preference, not a requirement). The field list is broad and includes non-STEM areas such as Psychology and Business. No funding type or minimum GPA is stated. Citizenship list also includes U.S. National."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2956,
+  "output_tokens": 1636
+ },
+ "hash": "63ecab8945e89441"
+}

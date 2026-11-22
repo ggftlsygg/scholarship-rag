@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "2.0",
+  "gpa_scale": "US scale",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "annual:06-15",
+   "annual:11-01",
+   "annual:04-01"
+  ],
+  "field_of_study": "English language study (Intensive English Program)",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "must be admitted to the Intensive English Program at Level 1 or higher; must plan to study two consecutive terms (new students) or at least one term (continuing and part-time students); not eligible if using the Regents Tuition Benefit Program to cover tuition; GPA 2.0 transcript requirement applies only to students who have not completed a full semester at MELP",
+  "evidence_sentence": "Meet MELP application requirements and be admitted to the Intensive English Program at Level 1 or higher",
+  "host_country": "USA",
+  "notes": "Page lists three awards with different amounts and criteria: new full-time students ($2,500 fall/spring, $1,500 summer), continuing full-time students, and part-time students ($500 fall/spring, $300 summer); the name refers to the whole MELP scholarship set, so only shared criteria are filled. No nationality restriction is stated, so nationality_rule is left empty. Deadlines have no year and are given as annual dates. Strong academic record and clear study vision are described as criteria but are not quantified. Fees, insurance and living costs are not covered."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3108,
+  "output_tokens": 1732
+ },
+ "hash": "b2d108cf72aaf218"
+}

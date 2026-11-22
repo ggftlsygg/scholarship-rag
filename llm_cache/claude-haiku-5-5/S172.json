@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ONLY:India",
+  "min_gpa": "3.3",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "MBA",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "satisfactory academic standing; incoming exchange student at the Alberta School of Business",
+  "evidence_sentence": "Awarded annually to an incoming international exchange students from India with satisfactory academis standing entering their final years of any MBA program in the Alberta School of Business.",
+  "host_country": "Canada",
+  "notes": "Selection is based on involvement in promoting or representing the Alberta MBA Program and personal growth, which is a selection criterion rather than an eligibility requirement, so it is not recorded as a hard condition. No application deadline is stated on the page. The page contains typos in the eligibility text (academis, incoming international exchange students). The GPA is described as 'minimum GPA of 3.3 of MBA studies' with no scale given. Award amount is CAD 1,250."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2713,
+  "output_tokens": 1117
+ },
+ "hash": "fea90332e9ef86ce"
+}

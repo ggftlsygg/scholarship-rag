@@ -1,0 +1,34 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling",
+   "annual:08-31",
+   "annual:10-31",
+   "annual:04-15"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "stipend"
+  ],
+  "other_hard": "competitive merit ranking; confirmation of a qualified supervisor; research area aligned with ANU research strategy; continuation based on academic performance",
+  "evidence_sentence": "Each year the Commonwealth Department of Education and Training provides funding to Universities to award scholarships to domestic and international students undertaking Higher Degree Research programs.",
+  "host_country": "Australia",
+  "notes": "Page lists Round 1 deadlines (31 August international, 31 October domestic) and Round 2 deadline (15 April) each year, but also says the application period is open all year round; the deadlines are annual and no year is given. Study level is stated only as Higher Degree Research / Postgraduate research, so degree levels are inferred from that wording and may need checking. No field of study restriction is stated beyond research aligned with ANU strategy. Current ANU students must use a separate request form. Priority or preference wording is absent; the Indigenous maximum stipend rate is a benefit, not an eligibility condition. Value is $40,475 per annum (2027 rate) plus travel, thesis and other allowances; the page does not state full tuition coverage."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4188,
+  "output_tokens": 1902
+ },
+ "hash": "05d0273f9c91785c"
+}

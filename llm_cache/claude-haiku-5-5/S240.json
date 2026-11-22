@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:03-31"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "first-time enrolment in France; under 30 years of age during the year of application; not receiving other funding above 600 euros per month; not cumulated with France Excellence Eiffel, France Excellence Europa or Erasmus Mundus scholarships; admission to a master's programme operated by listed Paris-Saclay institutions",
+  "evidence_sentence": "Students of foreign nationality meeting the following cumulative criteria are eligible to apply: - Admission in a master's degree of Université Paris-Saclay operated by one of the following institutions: AgroParisTech, CentraleSupélec, ENS Paris-Saclay, INSTN-CEA, IOGS, Université Évry Paris-Saclay, Université Paris-Saclay, UVSQ - First-time enrolment in France (students who have never been registered in a French Higher Education Institution – except exchange programs, Erasmus Mundus joint master's degrees without a French degree, internships and language programs) - Under 30 years of age during the year of application Students who are receiving any other funding above 600 euros per month will be declared ineligible.",
+  "host_country": "France",
+  "notes": "Benefit is 10 000 euros per year paid monthly plus a travel/visa flat fee of up to 900 euros; funding is a fixed amount so classified as partial. Deadline on page is for 2026 (25 March candidate selection by coordinators, 31 March scholarship application deadline); the 2026 date has passed as of 2026-11-21 so recorded as annual:03-31. Applicants must be admitted to the master's before the set deadline; the scholarship renews for a second year (M2) for laureates, which is not an entry requirement. Refugee/subsidiary protection status gives a bonus, not a requirement; selection by jury criteria includes academic background, personal project and PhD motivation (M2 candidates). Page says the program is particularly aimed at, but not limited to, those wishing to pursue a PhD. No minimum GPA stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4060,
+  "output_tokens": 752
+ },
+ "hash": "bbedfd68ba24a6a0"
+}

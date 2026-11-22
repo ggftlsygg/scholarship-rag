@@ -1,0 +1,16 @@
+{
+ "hash": "ba3ff44df06855ba",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S107",
+    "type": "unsupported_claim",
+    "answer_quote": "The required grade of 1.5 is a German-style scale",
+    "explanation": "The context does not say what scale the 1.5 requirement uses, so calling it German-style is an outside inference, though the conclusion that the grade is UNKNOWN is correct.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. It keeps UNKNOWN criteria as unknown, does not overstate funding, reports the deadlines correctly, and flags the main conditions. The only flaw is one minor unsupported inference about the grade scale."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "80.0%",
+  "gpa_scale": "percentage average",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "The International Brock Scholars Award at Brock University offers substantial financial support to high-achieving international students based on their admission average.",
+  "host_country": "Canada",
+  "notes": "Page does not match the name: the name is 'Emerging Market Entrance International Awards', the URL is for the International Brock Scholars Award, and the page heading says 'Brock Future Leaders Scholarship'. The page lists several awards (Domestic Brock Scholars Entrance Award, a $10,000 award open to all nationalities, International Curriculum Awards, International Transfer Award, MBA Scholarships, Caribbean International Scholarship); only the International Brock Scholars Award criteria are filled. Amount is $7,000-$32,000 CAD depending on admission average band (80.0%-84.9% lowest band, so 80.0% is the lowest stated band, not an explicit minimum). Program levels for this award are not explicitly stated; bachelor is inferred from the mention of three-year degree renewals. Renewable for up to three years; renewal conditions are not stated. No application deadline stated. Last updated January 9, 2026. Students entering from the USA are directed to the Domestic award instead."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3671,
+  "output_tokens": 1860
+ },
+ "hash": "bc616ca3d4b39266"
+}

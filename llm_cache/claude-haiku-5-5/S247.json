@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "at least 5 semesters of standard study time (Regelstudienzeit) remaining until the BAföG maximum funding period ends at the time of application; Sprachniveau B2 required for applicants who are not Bildungsinländer*innen",
+  "evidence_sentence": "ELES fördert nur viersemestrige Master.",
+  "host_country": "",
+  "notes": "Page is a general overview of ELES Studienwerk's scholarship application (name is generic 'ÜBERBLICK'); no nationality rule, GPA, deadline, field, funding amount or host country is stated. Applications for a master's from outside the EU must be specially justified in the motivation letter (requirement wording, not a rule set out in full). Bachelor students' 4-semester master phase counts toward the remaining study time. Applicant status is inferred from 'Möglich sind Bewerbungen vor Beginn eines Master-Studiums'. Page text is in German."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2860,
+  "output_tokens": 1432
+ },
+ "hash": "1dfc38bf4f10422e"
+}

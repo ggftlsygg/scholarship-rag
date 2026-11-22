@@ -1,0 +1,5 @@
+Hatfield College
+ Hatfield College is a vibrant and welcoming community to which each and every student, alongside other college members, belongs, reflecting our ethos and recent joint declaration #AllOneHatfield.
+ 
+ReferenceError: "department" is not defined.
+Skip to main content

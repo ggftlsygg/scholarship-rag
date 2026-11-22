@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:UK",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "Have one of the listed Black or Mixed Black ethnicity categories; Have a confirmed place to study a first undergraduate degree at the University of Cambridge due to commence October 2026; Assessed for UK 'home' fee status; Applied to Student Finance and received confirmed financial support, with an income assessment completed",
+  "evidence_sentence": "The Stormzy Scholarship supports Black UK students studying any undergraduate course at Cambridge.",
+  "host_country": "UK",
+  "notes": "Page text is outdated: it says applications for 2026 are now closed and refers to 2026-27 figures and October 2026 entry, while today is 2026-11-21. No future deadline is stated; applications are said to open in August. The UK requirement is home fee status, not citizenship, so ONLY:UK is an approximation. Nationality is not stated directly."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3390,
+  "output_tokens": 1491
+ },
+ "hash": "ef7690e35bf19fb3"
+}

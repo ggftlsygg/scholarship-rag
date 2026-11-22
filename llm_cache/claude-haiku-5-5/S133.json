@@ -1,0 +1,34 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "very good",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "Sciences, Engineering, Humanities, Arts, Information Technology, Business Administration, Computer Engineering & Sciences; undergraduate list includes law, marine sciences, design, media, earth sciences and others",
+  "funding_type": [
+   "full",
+   "stipend",
+   "travel"
+  ],
+  "other_hard": "age not exceeding 35 for PhD, 30 for Masters, 25 for Bachelors; university degree from an accredited institution with at least 'very good' grade; approved English exam for applicants whose first language is not English (TOEFL PBT 500, CBT 173, IBT 61, IELTS 5) for Masters and PhD; good conduct record; medically fit; not dismissed from any university; female student must be accompanied by a relative (mahram); must meet admission requirements",
+  "evidence_sentence": "All International Students from all over the world are eligible to apply for Saudi Arabia Scholarships.",
+  "host_country": "Saudi Arabia",
+  "notes": "Page is titled 2027 but URL says 2024-25; the deadline is stated as 'Opened now' in the details table and 'not specifies' in the deadline section, so rolling is inferred from the open-applications statement. Page mixes promotional text about other scholarships (DAAD, Doha Institute, RMIT, Industrial Future Fellowships, Canada) which were ignored. Degree-level list in the details table includes bachelor; the program lists cover undergraduate, master and PhD. Minimum grade 'very good' is taken from the eligibility section. Bursary amounts are in Saudi riyals (Sr 900 monthly, preparation allowance Sr 1,800, airfare annually, health care, accommodation); the monthly bursary is treated as stipend and the full coverage statement as full funding. Page has contradictory statements about the program level for international students versus the 'All Nationalities' table entry; the 'Fully Funded' statement is used."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 5201,
+  "output_tokens": 707
+ },
+ "hash": "253e965bdb6c6c16"
+}

@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "outstanding and highly successful academic record",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "most recent degree must not be older than four years and three months at time of application; applications may be submitted no earlier than the final semester of a master's programme or equivalent; funding must start within the period in the award letter; no parallel taught degree or professional training during the scholarship; part-time doctoral degrees cannot be funded; doctoral studies parallel to a medical degree are not eligible; another funder's doctoral funding must be terminated before start",
+  "evidence_sentence": "The doctoral candidate has been accepted for a doctoral programme at a German university where the thesis will also be submitted; nationality is irrelevant.",
+  "host_country": "Germany",
+  "notes": "No specific application deadlines are given; calls are published about eight months before each selection meeting, so the current call dates must be checked on the site. Funding amount and type are not stated. Field of study is not restricted in the text but no explicit open-to-all statement is given. Applications are assessed subject to available funds. Previous Studienstiftung membership is not required. The GPA-type requirement is a pre-selection eligibility criterion described only verbally."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 5501,
+  "output_tokens": 1846
+ },
+ "hash": "06cafe6899aaf063"
+}

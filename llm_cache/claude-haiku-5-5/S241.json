@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "REGION:Africa;Asia;Latin America",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "age: max 35 for bachelor or initial master as of January 1 of intake year; max 45 for advanced master; bachelor candidates at least 19 by January 1 of intake year; high English proficiency required as set by organising institution; eligibility based on current residence",
+  "evidence_sentence": "Students from 25 eligible countries in Africa, Asia, and Latin America are invited to apply for these scholarships (with Mali recently added to the list).",
+  "host_country": "Belgium",
+  "notes": "Page is a FAQ-style call page without the list of 25 countries, deadline, GPA, field of study or funding details. Fully funded status appears only in the page name, not in the page text, and the Financial Matters answer is truncated. Preference (not requirement) given to candidates who have not studied in a higher-income country. Advanced master programmes may accept four-year bachelor holders per organising institution. Programme-specific requirements must be checked with each institution. Study programmes are taught in English."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4061,
+  "output_tokens": 1474
+ },
+ "hash": "cc24fab6ff0e2c44"
+}

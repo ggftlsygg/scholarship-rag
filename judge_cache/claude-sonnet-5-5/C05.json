@@ -1,0 +1,16 @@
+{
+ "hash": "1c71b4f007a948de",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S157",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "it is partial funding of $22,000 every year (S157)",
+    "explanation": "The passage says the $22,000 per year goes to \"qualified international students\". The answer presents it as the student's award although she is a US citizen living in the USA, so it is unclear she qualifies for that amount.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "yes",
+  "overall": "The answer opens by saying that international-student awards mostly do not apply to a US national. It correctly rules out Bradford and Rosa-Luxemburg, and it flags the Cairo and Scholars Helping Collars caveats. The only problem is that S157's $22,000 amount is described for international students but is presented as the student's award without noting she may not qualify for it."
+ }
+}

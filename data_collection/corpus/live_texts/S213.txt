@@ -1,0 +1,9 @@
+https://uhf.microsoft.com/en-US/shell/html/MSActionCenter?headerId=GlobalCareersPCSHeaderprod
+https://careers.microsoft.com/bin/msft/searchheader
+https://careers.microsoft.com/v2/global/en/sign-in.html
+https://careers.microsoft.com/v2/ca/fr/connexion.html
+https://cdn.careers.microsoft.com/aem/asset-manifest.json
+654c6aaa25ad4751986d2b4fdcf3da6f-b7d405fc-078f-42fd-99cf-e21de3479349-7421
+https://gcssupportuippe.azureedge.net/asset-manifest.json
+PROD
+https://uhf.microsoft.com/fr-CA/shell/html/MSActionCenter?headerId=GlobalCareersPCSHeaderprod

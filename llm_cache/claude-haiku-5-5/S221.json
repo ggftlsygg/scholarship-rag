@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "98%",
+  "gpa_scale": "percentage average",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "tuition"
+  ],
+  "other_hard": "English proficiency: TOEFL ITP 590, TOEFL IBT 105, TOEFL CPT 233, or Academic IELTS 7.5; mathematics proficiency for most colleges: SAT-MATH 730 or ACT-MATH 32 (not required for College of Business and Economics, College of Humanities and Social Sciences, College of Education, College of Law); Arabic proficiency for College of Law: 6.5 in Al Ain Arabic Language Test; fulfil general admission requirements of the intended program; new students admitted from 2025/2026 onwards",
+  "evidence_sentence": "Achieving a minimum of (98%) in the General Secondary School Certificate (Grade 12) or its",
+  "host_country": "UAE",
+  "notes": "Page describes two schemes: a tuition discount for international students (inside or outside the UAE) and children of UAEU faculty and staff, and a competitive full tuition waiver for top-performing new students; nationality_rule left empty because the page does not give a clear nationality rule for the award named; deadlines are tied to undergraduate admission periods and the academic calendar, with no dates stated; scholarship seats are limited and meeting criteria is not a guarantee; GPA of 3.8 and 15 credit hours are continuation conditions, not entry requirements; field_of_study ANY is inferred from the programme-independent wording; the page does not state a university residency or age rule"
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3883,
+  "output_tokens": 1788
+ },
+ "hash": "4c3dbc6337d5a3ce"
+}

@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "other"
+  ],
+  "nationality_rule": "ONLY:USA;Canada;Puerto Rico;Guam",
+  "min_gpa": "2.0",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "applicant",
+   "full-time",
+   "part-time"
+  ],
+  "deadline": [
+   "2026-12-15"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "living in the United States, Puerto Rico, Guam or Canada; graduating high school senior, grade 12 (Canada) or homeschool graduate, or past recipient who is a current college undergraduate; plan to enroll full-time without interruption for 2027-28 academic year at accredited college, university or vocational-technical school or CEGEP in U.S., Puerto Rico, Guam or Canada; first-time applicant; financial need considered; employee-based track requires employment at Burger King Company LLC or participating franchisee for at least 3 months as of deadline",
+  "evidence_sentence": "Applicants must meet the following criteria: BURGER KING® General Track – Available to all high school seniors or past recipients who meet the criteria below.",
+  "host_country": "USA",
+  "notes": "Page covers General Track and Employee-Based Track with different criteria; the James W. McLamore WHOPPER scholarship (up to $60,000, citizens of US or Canada, GPA 3.5 minimum, full-time freshman at four-year college) and Nancy McLamore scholarship (US citizens, employees, 1-year payroll requirement, GPA not stated) have stricter criteria and are not fully reflected in the general fields. Scholarship amounts vary ($1,000 to $60,000, most $1,000-$5,000). Employee-based track and enrichment courses also allow less than part-time study and graduate students; degree_levels includes bachelor and other for enrichment/certificate study, graduate study is mentioned for the Employee-Based Track but is not a clearly funded level in the general rules. Deadline December 15, 2026 is taken from the page text. Page also says applications are reviewed up to first 30,000 community applications. Payments are partial amounts; funding_type partial based on fixed amounts. Note the page lists 'Be living in the United States, Puerto Rico, Guam or Canada' as residence requirement; nationality is inferred from the country list in the McLamore criteria and residence list is kept in other_hard. Recipients should maintain enrollment and other obligations (renewal not available; past recipients may reapply up to four awards)."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 7571,
+  "output_tokens": 833
+ },
+ "hash": "814a677b688df560"
+}

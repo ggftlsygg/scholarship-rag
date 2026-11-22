@@ -1,0 +1,37 @@
+{
+ "hash": "bdf54a38060bc450",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "",
+    "type": "ignored_rule",
+    "answer_quote": "Only five of the 14 scholarships that passed the filter are included below, so the list may be incomplete. Each entry is ranked as given.",
+    "explanation": "The expected behaviour is to say clearly that very few scholarships pass and almost none are chemistry postdocs. The answer never says this and presents all five as options, most of them poor fits for a chemistry postdoc.",
+    "severity": "high"
+   },
+   {
+    "scholarship_id": "S070",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "is the closest fit on the stated criteria",
+    "explanation": "The offers are in aeronautics, space, energy and transportation, and chemistry is not named. Calling it the closest fit stretches it instead of saying that no scholarship clearly matches chemistry postdocs.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S047",
+    "type": "missed_barrier",
+    "answer_quote": "Your profile does not say whether you would be working in Europe, so this is unknown.",
+    "explanation": "The profile says the student lives in Canada, and non-Europeans must carry out the project in Europe or use the grant to work in Europe. This is a clear barrier, and the answer leaves it as unknown. The biomedical-only focus is also a clear mismatch with chemistry, but the answer hedges it with 'probably'.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S154",
+    "type": "unsupported_claim",
+    "answer_quote": "Because the scholarship is tied to a research degree program, confirm that a postdoc can apply",
+    "explanation": "The context does not state that this scholarship is a research degree program for degree-seekers. It only says RTP stipend and Joint Research Awards, and the degree level is unknown.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "no",
+  "overall": "The individual facts are mostly supported and the answer flags several uncertainties. However, it does not state that very few scholarships pass and almost none suit chemistry postdocs. It presents five weak candidates as a ranked list and calls S070 the closest fit. It also softens clear barriers for S047, so it does not meet the stress-test behaviour."
+ }
+}

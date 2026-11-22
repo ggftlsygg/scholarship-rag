@@ -1,0 +1,35 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "REGION:non-European Union states",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-01-13",
+   "2027-04-01",
+   "annual:10-18",
+   "annual:11-29"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial",
+   "tuition"
+  ],
+  "other_hard": "first time applicants to Sciences Po; household does not file taxes within the European Union (tax residence of parents, not the student; financial independence needed for country of residence to count); not Swiss or Norwegian applicants; not candidates with dual citizenship including an EU citizenship; not Quebec candidates for master's degree; not master's dual-degree candidates unless in listed programmes; not PhD, 1-year master, bachelor dual-degree (unless agreement), exchange, or French graduate admission procedure candidates; cannot be combined with other Sciences Po or partner scholarships; not possible while on deferral",
+  "evidence_sentence": "To be eligible for the scholarship, students must be: first time applicants to Sciences Po, from a non-European Union state, whose household does not file taxes within the European Union, and who have been admitted to the Undergraduate or Master's programme.",
+  "host_country": "France",
+  "notes": "Page covers both undergraduate and master's programmes; amounts differ (bachelor total exemption or EUR 9,500 fee exemption; master EUR 18,500 per year for two years). Master's deadlines are listed without a year, so annual dates used. Undergraduate deadlines are for 2027 entry. Selection is on merit and tied to admissions; no minimum grade stated. Renewal is automatic for master's continuation at Sciences Po, and applicants must be admitted to apply. Applicants from French secondary schools use Parcoursup and a separate form. Page lists Swiss, Norwegian and other exclusions in detail; the nationality rule is approximated as non-EU state group."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 5121,
+  "output_tokens": 2575
+ },
+ "hash": "8399e06188efbb29"
+}

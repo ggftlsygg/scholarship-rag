@@ -1,0 +1,16 @@
+{
+ "hash": "d7facd0f01836dbf",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S098",
+    "type": "missed_barrier",
+    "answer_quote": "You are female, admitted to an MBA, and a Canadian, and the award explicitly accepts part-time students in any year of an MBA at the Alberta School of Business.",
+    "explanation": "The award requires registration in the MBA at the Alberta School of Business, but the profile does not say the student is admitted there. The answer calls it the 'strongest fit' without flagging this, and lists only grade and deadline as items to check.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. It marks UNKNOWN criteria as unknown, handles the Milt Pahl first-year requirement correctly, and states the Westbury GPA threshold correctly. The one gap is that it does not flag the Alberta School of Business registration requirement for S098."
+ }
+}

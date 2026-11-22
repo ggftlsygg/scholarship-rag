@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "annual:12-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "degree-seeking; on-campus study (not online); English proficiency; for Global Black & Gold awards: a parent who graduated from MU and SAT/ACT score (Level 1: 1260 SAT or 27 ACT; Level 2: 1200 SAT or 25 ACT)",
+  "evidence_sentence": "Only degree-seeking international students admitted for on-campus study (not online) are considered.",
+  "host_country": "USA",
+  "notes": "Page lists several awards with different criteria per award. Name refers to a generic international scholarship; criteria applying to the whole page are filled. International Honors ($20,000) and International Merit ($10,000) list SAT/ACT as preferred, not required. Global Black & Gold Level 1 ($21,500) and Level 2 ($11,000) have SAT/ACT thresholds and a parent-graduate condition; the Black & Gold parent condition is stated for the Black & Gold awards in the text. Amounts are for academic year 2027-28. Deadline 'December 1' has no year, so recorded as annual. Degree level and field of study are not stated. No GPA stated. Text says to visit financialaid.missouri.edu for more information, not checked."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2989,
+  "output_tokens": 1462
+ },
+ "hash": "0c754d4bdd8e6fe8"
+}

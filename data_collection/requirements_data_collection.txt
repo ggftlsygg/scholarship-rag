@@ -1,0 +1,8 @@
+pypdf
+tavily-python
+ddgs
+beautifulsoup4==4.15.0
+langdetect==1.0.9
+pandas==3.1.1
+requests==2.34.2
+trafilatura==2.3.1

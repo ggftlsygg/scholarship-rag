@@ -1,0 +1,16 @@
+{
+ "hash": "83ee096d33d63926",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S177",
+    "type": "missed_barrier",
+    "answer_quote": "so this is a competitive route. Your GPA is not checked because no minimum is stated, and the profile does not say whether you meet the other requirements.",
+    "explanation": "The profile says the student lives in China, but the scholarship is for students already residing in Germany. Its BAföG §8 criteria (German passport or prospects of permanent residence) are likely a barrier, yet the answer frames it as merely competitive and says the profile is silent.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely accurate and faithful to the context. Funding types, deadlines, GPA handling and the unknown conditions are mostly handled correctly. The one weakness is S177, where the likely ineligibility (residence in China, BAföG §8 status) is understated."
+ }
+}

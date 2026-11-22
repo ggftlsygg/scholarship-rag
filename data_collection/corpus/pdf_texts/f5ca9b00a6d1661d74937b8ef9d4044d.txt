@@ -1,0 +1,123 @@
+Course Code Course Name Professor Start Time End Time Days Room Meeting Type Exam Day Exam Start Time Exam End Time
+ACCT 2311 1 Fundamentals of Financial Accounting Anwar Chawdhury 10:00 AM 11:30 AM Wed H - Hybrid Wednesday, December 2nd 10:00 AM 12:00 PM
+ACCT 2312 1 Fundamentals of Managerial Accounting Anwar Chawdhury 8:30 AM 10:00 AM Wed H - Hybrid Monday, November 30th 8:30 AM 10:30 AM
+BIOL 1311 1 Introductory Biology Mounira Morgem OF - Online Flexible
+BIOL 1312 1 Nutrition Mounira Morgem OF - Online Flexible
+BUSI 2311 1 Business Statistics Riaz Mahmood 1:00 PM 2:30 PM Mon, Wed IP - In Person Wednesday, December 2nd 1:00 PM 3:00 PM
+BUSI 2312 1 Mathematical Applications in Business Alina Rajbhandari 8:30 AM 10:00 AM Tues, Thur IP - In Person Tuesday, December 1st 8:30 AM 10:30 AM
+BUSI 3313 1 Business Information Management Alma Robles OF - Online Flexible
+BUSI 3314 1 Business Ethics Yaseen Bhutto 11:30 AM 1:00 PM Wed H - Hybrid Monday, November 30th 11:30 AM 1:30 PM
+BUSI 4317 1 Business Policy and Strategy Yaseen Bhutto 8:30 AM 10:00 AM Mon H - Hybrid Monday, November 30th 8:30 AM 10:30 AM
+BUSI 4399 1 Internship TBD I - Internship
+COMM 1311 1 Fundamentals of Communication James Keller 11:30 AM 1:00 PM Tues, Thur IP - In Person Tuesday, December 1st 11:30 AM 1:30 PM
+COMM 1311 2 Fundamentals of Communication James Keller OF - Online Flexible
+COMM 1313 1 Public Speaking James Keller 2:30 PM 4:00 PM Thu H - Hybrid Tuesday, December 1st 2:30 PM 4:30 PM
+COMM 2312 1 Business Communication James Keller 10:00 AM 11:30 AM Tues, Thur IP - In Person Thursday, December 3rd 10:00 AM 12:00 PM
+COMP 1314 1 Computer Literacy and Application System Admin 8:30 AM 10:00 AM Thu H - Hybrid Tuesday, December 1st 8:30 AM 10:30 AM
+COMP 1411 1 Introduction to Programming I Likhitha Kanagala 10:00 AM 1:00 PM Thu H - Hybrid Thursday, December 3rd 10:00 AM 12:00 PM
+COMP 1412 1 Introduction to Programming II Sabina Adhikari 8:30 AM 11:30 AM Wed H - Hybrid Monday, November 30th 8:30 AM 10:30 AM
+COMP 2313 1 Data Structures Glory Kurian 11:30 AM 1:00 PM Wed H - Hybrid Monday, November 30th 11:30 AM 1:30 PM
+COMP 2316 1 Computer Organization System Admin 1:00 PM 2:30 PM Wed H - Hybrid Wednesday, December 2nd 1:00 PM 3:00 PM
+COMP 2319 1 Introduction to Artificial Intelligence Sabina Adhikari 1:00 PM 2:30 PM Thu H - Hybrid Thursday, December 3rd 1:00 PM 3:00 PM
+COMP 2415 1 System Programming Glory Kurian 2:30 PM 5:30 PM Thu H - Hybrid Tuesday, December 1st 2:30 PM 4:30 PM
+COMP 3317 1 Algorithms Sabina Adhikari 11:30 AM 1:00 PM Wed H - Hybrid Monday, November 30th 11:30 AM 1:30 PM
+COMP 3318 1 Operating Systems Nadeem Daudpota 10:00 AM 11:30 AM Thu H - Hybrid Thursday, December 3rd 10:00 AM 12:00 PM
+COMP 3322 1 Software Engineering Glory Kurian OF - Online Flexible
+COMP 3324 1 Computer Networks Azamat Zhamanov OF - Online Flexible
+COMP 4326 1 Front-End Web Development Likhitha Kanagala 8:30 AM 10:00 AM Wed H - Hybrid Monday, November 30th 8:30 AM 10:30 AM
+COMP 4327 1 Back-End Web Development Likhitha Kanagala 10:00 AM 11:30 AM Wed H - Hybrid Wednesday, December 2nd 10:00 AM 12:00 PM
+COMP 4336 1 Software Project Management Glory Kurian 11:30 AM 1:00 PM Thu H - Hybrid Tuesday, December 1st 11:30 AM 1:30 PM
+COMP 4337 1 Software Requirements and Analysis Glory Kurian 1:00 PM 2:30 PM Wed H - Hybrid Wednesday, December 2nd 1:00 PM 3:00 PM
+COMP 4351 1 Network Administration Azamat Zhamanov 2:30 PM 4:00 PM Wed H - Hybrid Monday, November 30th 2:30 PM 4:30 PM
+COMP 4352 1 Internetworking Technology Azamat Zhamanov 4:00 PM 5:30 PM Wed H - Hybrid Wednesday, December 2nd 4:00 PM 6:00 PM
+COMP 4361 1 Fundamentals of Cybersecurity Nadeem Daudpota 8:30 AM 10:00 AM Thu H - Hybrid Tuesday, December 1st 8:30 AM 10:30 AM
+COMP 4364 1 AI for Cybersecurity Nadeem Daudpota OF - Online Flexible
+COMP 4371 1 Big Data Analytics Sabina Adhikari 2:30 PM 4:00 PM Thu H - Hybrid Tuesday, December 1st 2:30 PM 4:30 PM
+COMP 4372 1 Data Visualization Likhitha Kanagala OF - Online Flexible
+COMP 4374 1 Python for Data Analytics Likhitha Kanagala 1:00 PM 2:30 PM Thu H - Hybrid Thursday, December 3rd 1:00 PM 3:00 PM
+COMP 4393 1 Senior Design Project Abdulkerim Oncu 11:30 AM 1:00 PM Tue H - Hybrid Tuesday, December 1st 11:30 AM 1:30 PM
+COMP 4394 1 Senior Research Project Sabina Adhikari OF - Online Flexible
+COMP 4398 1 Internship Ihsan Said I - Internship
+Fall 2026 Final Exam Schedule
+November 30, 2026 to December 4, 2026
+CRJS 1301 1 Introduction to Criminal Justice Pete Alvarado OF - Online Flexible
+CRJS 2303 1 Criminal Law Richard Brasuell OS - Online Synchronous
+CRJS 3311 1 Criminal Justice Research Ozgur Nikbay 5:30 PM 7:30 PM Thu H - Hybrid Thursday, December 3rd 5:30 PM 7:30 PM
+CRJS 3312 1 Criminal Pyschology Richard Brasuell OS - Online Synchronous
+CRJS 4322 1 Ethics In Criminal Justice Mustafa Donmez OS - Online Synchronous
+ECON 2311 1 Principles of Macroeconomics Riaz Mahmood 10:00 AM 11:30 AM Tue H - Hybrid Thursday, December 3rd 10:00 AM 12:00 PM
+ECON 2312 1 Principles of Microeconomics Selahattin Bekmez 10:00 AM 11:30 AM Mon H - Hybrid Wednesday, December 2nd 10:00 AM 12:00 PM
+EDUC 2311 1 Introduction to Teaching Profession Saliha Al 8:30 AM 10:00 AM Tue H - Hybrid Tuesday, December 1st 8:30 AM 10:30 AM
+EDUC 3201 1 Seminar for STR Exam Prep TBA 11:00 AM 12:30 PM Fri H - Hybrid Friday, December 4th 11:00 AM 1:00 PM
+EDUC 3316 1 Integrating Technology into the Curriculum Harun Yilmaz 11:30 AM 1:00 PM Tues, Thur H - Hybrid Tuesday, December 1st 11:30 AM 1:30 PM
+EDUC 3331 1 Introduction to early childhood Education Saliha Al OF - Online Flexible
+EDUC 4010 1 Internship Kerime Sari I - Internship
+EDUC 4318 1 Education of Exceptional Children Deborah McGinty 11:30 AM 1:00 PM Tues, Thur H - Hybrid Tuesday, December 1st 11:30 AM 1:30 PM
+EDUC 4320 1 Law and Ethics in Education David Aslin OF - Online Flexible
+EDUC 4321 1 Measurement and Assessment in Education Saliha Al 1:00 PM 2:30 PM Wed H - Hybrid Wednesday, December 2nd 1:00 PM 3:00 PM
+EDUC 4324 1 Reading in Content Areas Ann Marie Smith 1:00 PM 2:30 PM Thu H - Hybrid Thursday, December 3rd 1:00 PM 3:00 PM
+EDUC 4699 1 Student Teaching Kerime Sari I - Internship
+ENGL 1311 1 Composition and Rhetoric I Stacy Burleson 4:30 PM 6:00 PM Thu H - Hybrid Thursday, December 3rd 4:30 PM 6:30 PM
+ENGL 1311 2 Composition and Rhetoric I Brandon Garner 10:00 AM 11:30 AM Tues, Thur IP - In Person Thursday, December 3rd 10:00 AM 12:00 PM
+ENGL 1312 1 Composition and Rhetoric II Brandon Garner 8:30 AM 10:00 AM Tue H - Hybrid Tuesday, December 1st 8:30 AM 10:30 AM
+ENGL 1312 2 Composition and Rhetoric II George Oti 2:30 PM 4:00 PM Tue H - Hybrid Tuesday, December 1st 2:30 PM 4:30 PM
+ENGL 2316 1 American Literature I Anne Marie Smith 11:30 AM 1:00 PM Wed H - Hybrid Monday, November 30th 11:30 AM 1:30 PM
+ENGL 2315 1 British Literature I Anne Marie Smith 11:30 AM 1:00 PM Thu H - Hybrid Tuesday, December 1st 11:30 AM 1:30 PM
+ENGL 3330 1 Literacy Assessment and Intervention Ann Marie Smith 10:00 AM 11:30 AM Wed H - Hybrid Wednesday, December 2nd 10:00 AM 12:00 PM
+ENGL R300 1 Basic Writing Zahraa Alkefawi 8:30 AM 10:00 AM Mon, Wed IP - In Person Monday, November 30th 8:30 AM 10:30 AM
+ENGL R301 1 Development of Reading Skills Zahraa Alkefawi 11:30 AM 1:00 PM Mon, Wed IP - In Person Monday, November 30th 11:30 AM 1:30 PM
+FINA 1311 1 Personal Finance John Topuz 2:30 PM 4:00 PM Mon H - Hybrid Monday, November 30th 2:30 PM 4:30 PM
+FINA 1312 1 Principles of Finance TBD 2:30 PM 4:00 PM Tues, Thur IP - In Person Tuesday, December 1st 2:30 PM 4:30 PM
+FINA 3312 1 Business Finance TBD 10:00 AM 11:30 AM Mon, Wed IP - In Person Wednesday, December 2nd 10:00 AM 12:00 PM
+FINA 4314 1 Investments Riaz Mahmood OF - Online Flexible
+FINA 4315 1 Financial Analysis and Valuation John Topuz 1:00 PM 2:30 PM Mon, Wed IP - In Person Wednesday, December 2nd 1:00 PM 3:00 PM
+FINA 4316 1 International Finance John Topuz 2:30 PM 4:00 PM Wed H - Hybrid Monday, November 30th 2:30 PM 4:30 PM
+FORS 3332 1 Forensic Biology Mike Fulton OS - Online Synchronous
+FORS 4334 1 Forensic Studies Experience Mike Fulton H - Hybrid
+FRSH 1311 1 Freshman Seminar TBD 10:00 AM 11:30 AM Tues, Thur IP - In Person Thursday, December 3rd 10:00 AM 12:00 PM
+FRSH 1311 2 Freshman Seminar James Keller 11:30 AM 1:00 PM Mon, Wed IP - In Person Monday, November 30th 11:30 AM 1:30 PM
+GEOG 2312 1 Regional Geography in the World Suleyman Incekara OF - Online Flexible
+GEOL 1311 1 Earth Science Suleyman Incekara OF - Online Flexible
+GOVT 2311 1 U.S. Government I Matt Efe Caman 2:30 PM 4:00 PM Thu H - Hybrid Tuesday, December 1st 2:30 PM 4:30 PM
+GOVT 2312 1 U.S. Government II Matt Efe Caman 4:00 PM 5:30 PM Thu H - Hybrid Thursday, December 3rd 4:00 PM 6:00 PM
+HIST 1311 1 U.S. History I Christopher Gerdes 5:30 PM 7:00 PM Wed IP - In Person Monday, November 30th 5:30 PM 7:30 PM
+HIST 1312 1 U.S. History II Gul Musavi 11:30 AM 1:00 PM Tue H - Hybrid Tuesday, December 1st 11:30 AM 1:30 PM
+HIST 2311 1 World History Gul Musavi OF - Online Flexible
+HIST 2314 1 History of Texas Christopher Gerdes OF - Online Flexible
+MATH 1311 1 College Algebra Micheal Baker 11:30 AM 1:00 PM Mon, Wed IP - In Person Monday, November 30th 11:30 AM 1:30 PM
+MATH 1311 2 College Algebra Alina Rajbhandari 9:00 AM 11:00 AM Fri OS - Online Synchronous
+MATH 1312 1 Statistics Micheal Baker 10:00 AM 11:30 AM Tues, Thur IP - In Person Thursday, December 3rd 10:00 AM 12:00 PM
+MATH 1313 1 Precalculus Alina Rajbhandari 8:30 AM 10:00 AM Wed H - Hybrid Monday, November 30th 8:30 AM 10:30 AM
+MATH 2314 1 Calculus I Micheal Baker 8:30 AM 10:00 AM Tues, Thur IP - In Person Tuesday, December 1st 8:30 AM 10:30 AM
+MATH 2317 1 Discrete Mathematics Micheal Baker 10:00 AM 11:30 AM Mon, Wed IP - In Person Wednesday, December 2nd 10:00 AM 12:00 PM
+MATH 3328 1 Teaching Elementary School Mathematics I Karman Kurban 3:00 PM 4:30 PM Thu H - Hybrid Tuesday, December 1st 3:00 PM 5:00 PM
+MATH R300 1 Fundamentals of Mathematics Micheal Baker 11:30 AM 1:00 PM Tues, Thur IP - In Person Tuesday, December 1st 11:30 AM 1:30 PM
+MNGT 4314 1 Small Business Management Richard Alrayes 1:00 PM 2:30 PM Tues, Thur IP - In Person Thursday, December 3rd 1:00 PM 3:00 PM
+MNGT 4315 1 Leadership in Organizations Richard Alrayes 8:30 AM 10:00 AM Tues, Thur IP - In Person Tuesday, December 1st 8:30 AM 10:30 AM
+MNGT 4318 1 Project Management Richard Alrayes 4:00 PM 5:30 PM Tues, Thur IP - In Person Thursday, December 3rd 4:00 PM 6:00 PM
+MRKT 2311 1 Principles of Marketing Yaseen Bhutto 4:00 PM 5:30 PM Tues, Thur IP - In Person Thursday, December 3rd 4:00 PM 6:00 PM
+MRKT 4312 1 International Marketing Yaseen Bhutto OF - Online Flexible
+PHED 1112 1 Varsity Track/Field Kenneth Apande TBA TBA TBA IP - In Person
+PHED 1114 1 Varsity Basketball Bryan Doze TBA TBA TBA IP - In Person
+PHED 1115 1 Varsity Soccer Kenneth Apande TBA TBA TBA IP - In Person
+PHED 2312 1 The concepts of Health, Fitness and Wellness Tomas Green 8:30 AM 10:00 AM Mon, Wed IP - In Person Monday, November 30th 8:30 AM 10:30 AM
+PHED 2314 1 Motor Learning and Development Tomas Green 10:00 AM 11:30 AM Wed, Fri IP - In Person Friday, December 4th 10:00 AM 12:00 PM
+PHED 3318 1 Scientific Principles of Tomas Green 2:30 PM 4:00 PM Tues, Thur IP - In Person Tuesday, December 1st 2:30 PM 4:30 PM
+PHED 4320 1 Physical Education Teaching Methods Tomas Green 11:30 AM 1:00 PM Tues, Thur IP - In Person Tuesday, December 1st 11:30 AM 1:30 PM
+PHIL 1311 1 Introduction to Logic and Critical Thinking Stacy Burleson OF - Online Flexible
+PHIL 1312 1 Professional Ethics Stacy Burleson OF - Online Flexible
+PSYC 2311 1 General Psychology Deborah McGinty 10:00 AM 11:30 AM Wed H - Hybrid Wednesday, December 2nd 10:00 AM 12:00 PM
+PSYC 2311 2 General Psychology Deborah McGinty 11:30 AM 1:00 PM Wed H - Hybrid Monday, November 30th 11:30 AM 1:30 PM
+SOCI 2311 1 Introduction to Sociology Muhammed Cetin 10:00 AM 11:30 AM Wed H - Hybrid Wednesday, December 2nd 10:00 AM 12:00 PM
+SPAN 1311 1 Elementary Spanish Orlando Bruzual OF - Online Flexible
+Course Meeting Types
+H - Hybrid:
+I - Internship:
+IP - In Person
+OF - Online Flexible:
+OS - Online Synchronous: Attend class via live webinar during scheduled class time.
+Attend class in-person and via webinar on an alternating basis.
+Attend supervised experience in the field at an approved site.
+Attend class in-person during scheduled class time.
+Attend class via live webinar scheduled by instructor or view recorded webinar and submit summary of webinar by due date set 
+by instructor.

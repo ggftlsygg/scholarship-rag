@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd",
+   "postdoc"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "basic biomedical research",
+  "funding_type": [
+   "travel"
+  ],
+  "other_hard": "at least a BSc; good academic standing; experimental doctoral (MD or PhD) or postdoc project in basic biomedical research; stay of up to 3 months; non-Europeans must carry out their project in Europe or use the grant to work in Europe",
+  "evidence_sentence": "The travel grant programme is open to all Europeans and to non-Europeans working in Europe to go to institutes or courses worldwide.",
+  "host_country": "",
+  "notes": "Listing is from a DAAD database page; the page text describes the Boehringer Ingelheim Fonds travel grants. Destinations are worldwide, so no single host country. Nationality set to ALL because the text covers Europeans and non-Europeans, with the location condition for non-Europeans placed in other_hard. Application is welcome at any time, submitted 6 weeks to 6 months before the planned departure. Target group also includes graduates who have applied for an experimental PhD project. The page gives no numeric GPA; 'good academic standing' is not a grade and was left out of min_gpa."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3128,
+  "output_tokens": 1596
+ },
+ "hash": "6228182ab882d117"
+}

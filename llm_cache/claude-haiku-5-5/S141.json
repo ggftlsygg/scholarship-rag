@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [
+   "2027-01-05"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [],
+  "other_hard": "legal resident of the 50 United States and D.C. or dependent child of an active duty U.S. military member; previously received a Live Más Scholarship and have not reached the maximum of four total awards; prior award used or substantially depleted (75% or more) by January 5, 2027; currently enrolled and in good academic standing in an accredited post-secondary or master's/graduate program located in the 50 United States or D.C.; willing to work with the Taco Bell Foundation's Scholarship Management Company",
+  "evidence_sentence": "Applicant must be a legal resident of the 50 United States and the District of Columbia (“D.C.”) located within the United States or D.C., or the dependent child of an active duty member of the U.S. military.",
+  "host_country": "USA",
+  "notes": "Page is for the Renewal Program (previous recipients, renewal may be by invitation with a renewal code), while the name is the general Live Más Scholarship; the page also gives criteria for New Applicants (age 16 to 26, holistic review, financial need considered as one factor), which are not extracted as hard criteria because they apply to a different group. Renewal has no age restriction. No GPA or test score is required to apply. Renewal is not automatic, may be renewed up to three times, and award amounts vary by Program Period. Award amounts and funding type are not stated. Other factors such as educational paths and geographic locations may be considered, which is a preference. Residence requirement is stated as residence, not citizenship, so nationality_rule is empty. Application window is October 13, 2026 to January 5, 2027 at 5:00 PM PST."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4667,
+  "output_tokens": 2174
+ },
+ "hash": "66107f8a37b8e4ae"
+}

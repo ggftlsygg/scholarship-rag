@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "other",
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "financial difficulty or unforeseen costs as demonstrated by applicant; registered for current academic year at University of London's School of Advanced Study, Institute in Paris (ULIP) or University of London Worldwide",
+  "evidence_sentence": "The grant is open to students who are registered for the current academic year at the University of London’s School of Advanced Study or at the Institute in Paris (ULIP) and the University of London Worldwide, whether studying full time or part time, with home or international fee status, at Foundation year, diploma, undergraduate, postgraduate (taught and research) including research students who are writing up their thesis.",
+  "host_country": "UK",
+  "notes": "No application deadline stated in the text. Grant amounts: maximum £500 within 12 months; grant applications usually capped at £1,500 per student. The page is a hardship form PDF and does not state a deadline. Degree levels inferred from list of eligible programme types (foundation year, diploma, undergraduate, postgraduate taught and research, research students)."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2868,
+  "output_tokens": 428
+ },
+ "hash": "416e53cf6d90ceb4"
+}

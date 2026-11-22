@@ -1,0 +1,16 @@
+{
+ "hash": "458e6ba27c51278d",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S117",
+    "type": "missed_barrier",
+    "answer_quote": "Funding is partial, and financial need is required.",
+    "explanation": "The answer omits the NAACP membership requirement listed in the other conditions. It also does not flag that the requirement is for U.S. citizens or residents while the student is a Chinese national.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. Deadlines are correctly judged against today's date (2026-11-21), unknown criteria are labelled UNKNOWN, and funding is described accurately. The only gap is the omitted NAACP membership condition for S117."
+ }
+}

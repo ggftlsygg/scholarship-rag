@@ -1,0 +1,8 @@
+{
+ "hash": "c9285faf1932602e",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer matches the CONTEXT. Amounts, deadlines and UNKNOWN criteria are handled correctly. The passed deadlines for S216, S045 and S206 are flagged as passed, and the S197 deadline of 2026-12-01 is correctly described as about 10 days away. The Blacks at Microsoft remark about Black students is explicitly labelled as an inference, and the answer tells the student to check the official page. Financial need, Pell eligibility and African American status are all left as undetermined rather than confirmed."
+ }
+}

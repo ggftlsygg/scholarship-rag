@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "minimum TOEFL score of 81 iBT or IELTS 6.5 (not required for degrees from accredited institutions in the USA, Canada, UK, Ireland, Australia or New Zealand); three letters of recommendation required; official transcripts from every previously attended institution required",
+  "evidence_sentence": "KAUST requires a minimum TOEFL score of 81 on the IBT (Internet Based Test) or 6.5 on the IELTS (International English Language Testing System).",
+  "host_country": "Saudi Arabia",
+  "notes": "The page is a general KAUST application requirements page, not a page describing a scholarship; no scholarship, award amount or funding criteria are stated, so funding_type and deadline are empty. Degree levels and nationality are inferred only from the university admissions context and the page's silence on restrictions; the page does not explicitly list degree levels. Application deadlines section heading appears without dates."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3104,
+  "output_tokens": 387
+ },
+ "hash": "1bfc9fd69ddf1cb6"
+}

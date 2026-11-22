@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "2027-05-31"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "Candidates must have an excellent academic background and show considerable promise.",
+  "evidence_sentence": "The scholarship is open to candidates from all nationalities, although priority is given to applicants of Lebanese descent.",
+  "host_country": "UK",
+  "notes": "Page is for the Cambridge MBA scholarship from Boustany Foundation; priority to applicants of Lebanese descent is a preference, not a requirement. Scholars must complete a two-month internship in Monaco, which is a condition of the award but not a study location. Field of study not stated. Award amount not stated, so funding_type is empty. Verbal academic requirement 'excellent academic background' is not a numeric GPA, so min_gpa is empty; it is recorded in other_hard."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3021,
+  "output_tokens": 334
+ },
+ "hash": "6d12cdce65a8c185"
+}

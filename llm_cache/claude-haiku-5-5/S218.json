@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [],
+  "field_of_study": "Refugee Protection and Forced Migration Studies; Postgraduate Laws",
+  "funding_type": [],
+  "other_hard": "new students only, not a registered student; must hold an offer for the MA Refugee Protection and Forced Migration Studies or a Postgraduate Laws programme",
+  "evidence_sentence": "The UNHCR Bursary is only available to new students, you cannot be considered for the bursary as a registered student.",
+  "host_country": "UK",
+  "notes": "No application deadline date is given; the page says to apply at least 2 weeks before the programme's registration deadline. Bursary amount and eligibility details are in a Terms and Conditions PDF that was not provided. Postgraduate Laws level is inferred as master from the postgraduate wording."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2689,
+  "output_tokens": 954
+ },
+ "hash": "a24b044445a81fee"
+}

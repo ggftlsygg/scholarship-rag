@@ -1,0 +1,24 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "stipend"
+  ],
+  "other_hard": "meet Monash English language proficiency requirements; meet Monash's competitive scholarship selection process requirements",
+  "evidence_sentence": "You must be one of the following: An Australian citizen A New Zealand citizen Australian permanent resident Australian humanitarian visa holder An International student You must meet the following criteria: meet Monash's competitive scholarship selection process requirements; and meet Monash English language proficiency requirements.",
+  "host_country": "Australia",
+  "notes": "The page does not state the degree level, application deadline, enrollment status, minimum GPA or field of study. The name refers to the Research Training Program, which suggests research study, but the text does not name a degree level. Nationality is listed as open to all categories, including international students. Awards are based on academic excellence, research outputs and prior research experience, which are selection criteria rather than stated minimums. Domestic students receive an RTP Fees Offset and international students can package tuition scholarships with the stipend; these were not coded as funding types beyond the stipend."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2852,
+  "output_tokens": 1278
+ },
+ "hash": "868e19c7a1d5ce0d"
+}

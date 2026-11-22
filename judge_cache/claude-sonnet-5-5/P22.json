@@ -1,0 +1,30 @@
+{
+ "hash": "8e2f0768f41a6e07",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S193",
+    "type": "unknown_as_confirmed",
+    "answer_quote": "Your nationality and master's goal are compatible with international applicants (MATCH, S193).",
+    "explanation": "The degree level for S193 is UNKNOWN (not stated), so the master's goal is not confirmed as compatible. The SAT/ACT requirements may point to undergraduate awards.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S136",
+    "type": "unsupported_claim",
+    "answer_quote": "the 3.00 GPA is required in your major field and in your bachelor's degree",
+    "explanation": "For the Master level the context lists only a 3.00 GPA in the major field. The B.S. and M.S. GPA requirement applies to the PhD track.",
+    "severity": "low"
+   },
+   {
+    "scholarship_id": "S185",
+    "type": "unsupported_claim",
+    "answer_quote": "aimed at graduates and final-year students who want to work in the energy industry",
+    "explanation": "The context says the programme aims to develop people who want to transform the energy industry. It does not say the students must want to work in it.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. It flags the UNKNOWN GPA and deadline items correctly, notes that the S185 deadline has passed, and gets the S193 date arithmetic right. The main problem is that S193's master's level is treated as a match when it is UNKNOWN. There are also minor misattributions on S136 and S185."
+ }
+}

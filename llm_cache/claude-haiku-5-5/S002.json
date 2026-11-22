@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "annual:05-24"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "full",
+   "tuition",
+   "stipend"
+  ],
+  "other_hard": "refugee status in the UK or an active asylum application in the UK; must be eligible to study in the UK; immigration bail must not prohibit study; specific university: Goldsmiths",
+  "evidence_sentence": "Have refugee status in the UK, or have an active application for asylum in the UK (you will be required to provide documentation to demonstrate your status).",
+  "host_country": "United Kingdom",
+  "notes": "Page text is contradictory: the summary says Eligible Countries: All Countries, but the eligibility list requires refugee status or an active UK asylum application, and the page title says International Students. The page says distinguished students with outstanding academic performance can apply, but this is not stated as a formal grade condition, so min_gpa is empty. Deadline 'May 24' has no year, so it is recorded as annual. Field of study is not stated. Accommodation is mentioned in the reward summary but not as a condition."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3059,
+  "output_tokens": 1556
+ },
+ "hash": "eeb9240b1f6b02c5"
+}

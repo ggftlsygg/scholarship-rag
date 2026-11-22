@@ -1,0 +1,36 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "admitted",
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:05-15",
+   "annual:10-15"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial",
+   "tuition"
+  ],
+  "other_hard": "F1 visa holder; financial need; strong academic history",
+  "evidence_sentence": "The Humboldt International Student Scholarship is awarded to full-time, degree-seeking international students (F1 visa holders) with strong academic history and financial need.",
+  "host_country": "USA",
+  "notes": "Award is a partial out-of-state tuition waiver of 1-6 units per academic year (about $471 to $2,500). Priority is given to undergraduate students first. Scholarships are not automatically renewed and must be applied for each year. The page lists no minimum GPA. Deadlines are May 15 for the academic year award and October 15 for spring-only awards; both dates are past for 2026, so they are shown as annual. Enrollment: admitted for next available term or currently enrolled in good immigration status. The page also includes other unrelated scholarships such as athletic scholarships and external resources, which are not covered here. Funding type is tuition waiver, not full tuition plus living costs."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3726,
+  "output_tokens": 447
+ },
+ "hash": "054040193c77fb00"
+}

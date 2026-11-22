@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:Nigeria",
+  "min_gpa": "3.0/4 or 3.5/5 (STS, universities and colleges of education); 3.0 (STS, polytechnic OND); 2.5 (SBS, universities and colleges of education); 2.0 (SBS, polytechnic OND)",
+  "gpa_scale": "4.0; 5.0",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "Science and technology related courses and medicine for the STS award; any course for the SBS award (blind students only); Top 10 UTME award has no course restriction",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Study at a Nigerian public tertiary institution (universities, teaching hospitals, polytechnics, colleges of education); STS for 300 level students and 400 level medical students; SBS for blind students at 200 and 300 level; Top 10 UTME award for the top 10 UTME scorers as announced by JAMB, entering from 100 level; Top 10 UTME award applies irrespective of course or private or public institution",
+  "evidence_sentence": "The MTN Science and Technology Scholarship (STS) is open to Nigerian students in Nigerian Public Tertiary Institution (Universities, Teaching Hospitals, Polytechnics, and Colleges of Education).",
+  "host_country": "Nigeria",
+  "notes": "Page describes three separate awards (MTN STS, MTN SBS, Top 10 UTME) with different criteria; the name does not match a single award, so criteria shown are for all awards combined and per-award differences are given above. The Top 10 UTME award is automatic and has no GPA or deadline stated. Award amounts are fixed at N300,000 (partial). Grade and upskilling requirements are conditions to keep the award, so they are not entry requirements. No application deadline is stated on the page. The text refers to the 2026 edition but gives no application dates."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4222,
+  "output_tokens": 1959
+ },
+ "hash": "88aa408c526917f0"
+}

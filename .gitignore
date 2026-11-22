@@ -1,0 +1,16 @@
+# Python / IDE
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+
+# embeddings: recomputed automatically on the first run
+cache/
+
+# output of a single ask.py run
+ask_result.md
+
+# secrets (the API key lives in the ANTHROPIC_API_KEY environment variable, never in files)
+.env
+*.key

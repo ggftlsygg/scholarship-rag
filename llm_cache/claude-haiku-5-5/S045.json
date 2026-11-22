@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:03-16"
+  ],
+  "field_of_study": "engineering, computer science, computer and information systems security, business and management, finance and accounting, marketing",
+  "funding_type": [],
+  "other_hard": "demonstrated financial need; location country: US",
+  "evidence_sentence": "The Blacks at Microsoft (BAM) Scholarship is open to high school seniors who demonstrate financial need and are pursuing studies in engineering, computer science, or business.",
+  "host_country": "",
+  "notes": "Page shows Not Open Yet with dates 1/22/2026 to 3/16/2026, which are past as of 2026-11-21, so the text is outdated and the deadline is annualized. Location US is listed under requirements but no citizenship rule is stated, so nationality_rule is left empty. Academic standing, interest in the software business, and leadership are selection criteria, not stated requirements. No funding amount or type is stated. Host country is not stated on the page."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2808,
+  "output_tokens": 1182
+ },
+ "hash": "56b811dfff6424f4"
+}

@@ -1,0 +1,34 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "EXCLUDE:China",
+  "min_gpa": "3.0",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:01-31"
+  ],
+  "field_of_study": "quantum information, artificial intelligence, nanomaterials, green energy, computer science, mathematics, physics, chemistry, electronic information engineering, nuclear engineering, materials science, environmental science, mechanical and aerospace engineering, management science, biomedical engineering, earth and planetary science, advanced computer systems",
+  "funding_type": [
+   "full",
+   "tuition",
+   "stipend"
+  ],
+  "other_hard": "age under 25 for Bachelor's applicants (18-25); age under 35 for Master's applicants; age under 40 for PhD applicants; HSK 5 (score 180+) for undergraduate programmes; English Proficiency Certificate or IELTS/TOEFL for English-taught programmes",
+  "evidence_sentence": "Applicants must be non-Chinese citizens with a minimum GPA of 3.0/4.0 (75%+).",
+  "host_country": "China",
+  "notes": "Page is a third-party aggregator (chinascholerships.org) with promotional and inconsistent text: the page describes CSC Type B, USTC Fellowship Level A/B, ANSO and Anhui provincial awards together, so criteria may not apply to every award; the named award is a general USTC scholarship page. Deadline stated as October 16 to January 31 for the autumn intake, so the annual deadline is given as 01-31. Stipend and funding amounts vary (3,000-7,000 RMB) and differ by award and level. Age limits and GPA are stated as strict but apply to the whole page. Preference for applicants with a supervisor contact is not a requirement and is not recorded as such. Page text contradicts itself on Level A/B funding and on whether the 1-year Chinese preparatory course is a degree; the Bachelor's age limit of 25 is the page's own figure. Enrollment status 'applicant' is inferred from the admissions process. Gender, residence and language requirements are not otherwise stated. Degree level 'other' is not included since the Chinese language preparatory year is not the funded level. The ANSO scholarship description mentions developing-nation applicants, which is not a stated requirement for the general page. The 'non-Chinese citizens' phrase is used as the nationality rule."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 8124,
+  "output_tokens": 810
+ },
+ "hash": "3317eb1238f6283f"
+}

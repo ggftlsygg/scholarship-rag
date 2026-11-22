@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "3.0",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "enrolled",
+   "admitted"
+  ],
+  "deadline": [
+   "annual:04-11"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "Current member of NAACP; African American; U.S. resident; demonstrate financial need based on federal poverty guidelines",
+  "evidence_sentence": "Currently enrolled or accepted to an accredited college or university in the U.S. (graduate student applicants may be full or part time)",
+  "host_country": "USA",
+  "notes": "Sponsored by NAACP and offered in memory of Agnes Jones Jackson. Bachelor level is inferred from 'college or university' and master level from 'graduate student applicants'; the page does not state the levels explicitly. No citizenship rule is stated, so nationality_rule is empty. The listed deadline 'April 11' has no year and is in the past, so it is recorded as annual; the page says some deadlines are not yet announced and should be confirmed with the provider. The page gives no award amount or funding type and no field restriction."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2767,
+  "output_tokens": 1583
+ },
+ "hash": "6ae58230fdbba49c"
+}

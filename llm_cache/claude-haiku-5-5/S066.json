@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "upper second-class",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2026-12-06"
+  ],
+  "field_of_study": "Digital Economy and Society – Computer Science",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "IELTS 6.5 overall with no individual component below 6.5 or Swansea University recognised equivalent; applicants must approach a potential supervisor prior to submitting an application",
+  "evidence_sentence": "WGSSS studentships are available to home and international students.",
+  "host_country": "UK",
+  "notes": "Page lists the PhD award for the Digital Economy pathway (WGSSS DTP) at Swansea University; the minimum degree requirement is an honours degree at first or upper second-class level, or a masters from a UK academic research organisation, with students of non-traditional backgrounds also welcome (treated as a preference). Up to 30% of the cohort may be international students, which is a cohort quota rather than an applicant rule. Funding covers tuition fees and a tax-free stipend at UKRI minimum rates (£21,805 for 2026/27). Study mode: full or part-time possible, with award-holder employment restrictions. Required 3-month Research in Practice placement. Applicants should satisfy UKRI eligibility requirements, which the page does not specify. Start date October 2027, with possible deferral. Visa and EDI form requirements are not eligibility criteria."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4517,
+  "output_tokens": 1722
+ },
+ "hash": "6c67f3e7979fdf83"
+}

@@ -1,0 +1,5 @@
+criteria,label_full: false_exclusion_rate,label_full: ineligible_caught,label_core: false_exclusion_rate,label_core: ineligible_caught,pairs_passing_filter
+oracle (gold criteria),0.0004,0.885,0.0003,0.9814,3099
+regex,0.281,0.6602,0.2772,0.7032,4132
+haiku,0.0436,0.8341,0.0491,0.9177,3379
+no filter,0.0,0.0,0.0,0.0,9650

@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "part-time"
+  ],
+  "deadline": [],
+  "field_of_study": "Business",
+  "funding_type": [],
+  "other_hard": "Registered part-time in the Master of Business Administration",
+  "evidence_sentence": "Awarded to a student registered part-time in any year of the Master of Business Administration.",
+  "host_country": "Canada",
+  "notes": "Page does not state an application deadline, funding amount, or minimum grade; selection is based on academic achievement without a stated threshold. Enrollment status is inferred from 'registered part-time' as a currently studying requirement. Host country taken from the university name (University of Alberta) and URL."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2572,
+  "output_tokens": 249
+ },
+ "hash": "2c935302e4d6fa7a"
+}

@@ -1,0 +1,25 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "other"
+  ],
+  "nationality_rule": "ONLY:USA (citizen, permanent resident, refugee or asylee, conditional permanent resident)",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "residence in Calhoun County, Michigan (US)",
+  "evidence_sentence": "Citizenship Status Asylum-Seeker or Asylee, Conditional Permanent Resident, Refugee, U.S. Citizen, Permanent Resident",
+  "host_country": "USA",
+  "notes": "Page is a College Board metadata listing with no description, award amount, deadline or GPA. Students in community service or extracurricular activities are encouraged to apply, which is a preference and not a requirement. Degree levels come from the Pursued Degree Level field (Professional Certification, 1-year Certificate, Associate Degree, Bachelor's Degree). Citizenship list is a set of immigration status categories, mapped to ONLY:USA with qualifiers. Enrollment status and field of study are not stated. The name refers to a high school alumni association, but the page does not describe any link to it."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2783,
+  "output_tokens": 1690
+ },
+ "hash": "cd0b276bf5ffe4ba"
+}

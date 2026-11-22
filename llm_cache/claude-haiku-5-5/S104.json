@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-06-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial",
+   "stipend",
+   "tuition"
+  ],
+  "other_hard": "completed first degree (Bachelor's or equivalent) required; age cap 28 for Master's-level study; age cap 30 for PhD",
+  "evidence_sentence": "The main requirements are strict gates rather than guidelines: A completed first degree (Bachelor's or equivalent) is required; MAECI applies age caps: 28 for Master's-level study, 30 for PhD; The annual call lists the eligible countries — check the Study in Italy portal.",
+  "host_country": "Italy",
+  "notes": "Page describes Italian government grants for international students in Master's, PhD, AFAM arts programmes and research projects; AFAM arts programmes and research projects not mapped to degree levels beyond master and phd. Eligible countries are not listed on the page; the annual call lists them (nationality_rule set to INTERNATIONAL based on the 'international students' wording, which may be incomplete). Funding: €900 monthly allowance (stipend) plus tuition/enrolment fee exemption at most institutions (tuition); full funding not stated, so partial is listed as the page describes the award as having gaps. Deadline 2027-06-01 is for the 2027–28 call; page says 'typically due May–June 2027'. Page text repeats sections; 'last verified 2 July 2026'. Award is offered by Italian Ministry of Foreign Affairs. Page lacks a clear field of study statement."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3909,
+  "output_tokens": 567
+ },
+ "hash": "7ed7edb64b2c6eea"
+}

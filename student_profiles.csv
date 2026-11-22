@@ -1,0 +1,51 @@
+student_id,age,gender,nationality,residence,target_degree,enrollment_status,study_mode,gpa_4,field,field_cats,query
+P01,21,M,Kazakhstan,Kazakhstan,master,applicant,full-time,3.7,data science,CS,I'm a final-year bachelor student from Kazakhstan with a GPA of 3.7/4.0. I want a fully funded master's in data science abroad.
+P02,22,F,Kazakhstan,Japan,master,applicant,full-time,3.4,computer science,CS,"Kazakh citizen currently living in Tokyo, GPA 3.4. Looking for scholarships for a master's in computer science starting next year."
+P03,18,M,Kazakhstan,Kazakhstan,bachelor,applicant,full-time,3.9,mechanical engineering,ENG,"High school graduate from Kazakhstan, GPA 3.9, applying for an undergraduate degree in mechanical engineering. Which scholarships can I get?"
+P04,26,F,Kazakhstan,Kazakhstan,phd,applicant,full-time,3.6,environmental science,SCI,I have a master's in ecology from Kazakhstan (GPA 3.6) and I'm looking for PhD funding in environmental science.
+P05,24,M,Kazakhstan,Germany,master,enrolled,full-time,3.2,economics,BUS;SOC,"Kazakh student already enrolled in an economics master's in Germany, GPA 3.2. Are there scholarships for current master's students?"
+P06,29,F,Kazakhstan,Kazakhstan,master,applicant,part-time,3.1,business administration (MBA),BUS,"I work full time in Almaty and want to do a part-time MBA. I'm from Kazakhstan, GPA 3.1. What funding is available?"
+P07,23,M,Uzbekistan,Uzbekistan,master,applicant,full-time,3.5,finance,BUS,"Uzbek graduate, GPA 3.5, looking for a scholarship for a master's in finance."
+P08,19,F,Uzbekistan,Uzbekistan,bachelor,applicant,full-time,3.0,computer science,CS,"I'm from Uzbekistan, GPA 3.0, and I want to study computer science at bachelor level abroad with a scholarship."
+P09,22,M,India,India,master,applicant,full-time,3.8,artificial intelligence,CS,Indian engineering graduate (GPA 3.8/4.0) looking for funded master's programmes in artificial intelligence or machine learning.
+P10,27,F,India,India,phd,admitted,full-time,3.6,biomedical sciences,MED;SCI,I have an offer for a PhD in biomedical sciences. I'm an Indian citizen with GPA 3.6. Which PhD scholarships can I still apply for?
+P11,24,M,India,UK,master,admitted,full-time,3.3,law,LAW,"Indian student living in the UK with a 2:1 (about 3.3 GPA), admitted to an LLM. Looking for law scholarships."
+P12,20,F,India,USA,bachelor,enrolled,full-time,3.4,electrical engineering,ENG,"I'm an Indian international student in my second year of electrical engineering in the US, GPA 3.4. Any scholarships for current undergraduates?"
+P13,25,M,Pakistan,Pakistan,master,applicant,part-time,3.2,law,LAW,Lawyer from Pakistan (GPA 3.2) who wants to study an LLM part-time or by distance learning. What bursaries exist?
+P14,23,F,Pakistan,Pakistan,master,applicant,full-time,3.5,public health,MED,"Pakistani woman, GPA 3.5, applying for a master's in public health. Looking for full scholarships."
+P15,24,M,Bangladesh,Bangladesh,master,applicant,full-time,3.4,civil engineering,ENG,"From Bangladesh, GPA 3.4, want a master's in civil engineering with funding."
+P16,20,M,Nigeria,Nigeria,bachelor,enrolled,full-time,3.2,engineering,ENG,I'm a 300-level engineering student at a Nigerian university with CGPA 3.2/4.0. Which undergraduate scholarships can I apply for?
+P17,26,F,Nigeria,Nigeria,master,applicant,full-time,3.7,development policy,SOC,"Nigerian graduate with a first class degree (GPA 3.7), looking for a master's scholarship in development policy or politics."
+P18,30,M,Nigeria,UK,phd,applicant,full-time,3.5,computer science,CS,Nigerian living in the UK with a master's in computing (GPA 3.5). I want a funded PhD in computer science.
+P19,17,F,Nigeria,Nigeria,bachelor,applicant,full-time,3.8,medicine,MED,Secondary school student in Lagos with excellent grades (3.8). I want to study medicine abroad with a scholarship.
+P20,25,F,Kenya,Kenya,master,applicant,full-time,3.4,human rights,SOC,Kenyan woman with an upper second class degree (3.4) looking for a master's scholarship in human rights or international law.
+P21,28,M,Kenya,Kenya,phd,applicant,full-time,3.3,plant and crop science,SCI,"Kenyan agronomist with an MSc, GPA 3.3, looking for PhD funding in plant or crop science."
+P22,24,M,Ghana,Ghana,master,applicant,full-time,3.6,electrical engineering,ENG,Ghanaian electrical engineering graduate (GPA 3.6) looking for master's scholarships in energy or electrical engineering.
+P23,18,F,Egypt,Egypt,bachelor,applicant,full-time,3.9,engineering,ENG,"Egyptian high school student with 98% in Thanaweya Amma, want to study engineering abroad. Which scholarships fit me?"
+P24,26,M,Egypt,Egypt,master,applicant,full-time,3.3,international relations,SOC,"Egyptian graduate in political science, GPA 3.3, looking for a master's scholarship in international relations."
+P25,23,F,Indonesia,Indonesia,master,applicant,full-time,3.5,economics,BUS;SOC,"Indonesian economics graduate, GPA 3.5, looking for a fully funded master's in economics."
+P26,18,M,Indonesia,Indonesia,bachelor,applicant,full-time,3.6,computer science,CS,"High school student from Indonesia, GPA 3.6, want to do a bachelor's in computer science abroad on a scholarship."
+P27,22,F,Vietnam,Vietnam,master,applicant,full-time,3.7,data science,CS,Vietnamese student with GPA 3.7 looking for master's scholarships in data science.
+P28,27,M,Vietnam,Vietnam,phd,applicant,full-time,3.5,physics,SCI,I'm from Vietnam with a master's in physics (GPA 3.5). Looking for PhD scholarships in physics.
+P29,25,F,Philippines,Philippines,master,applicant,full-time,3.2,psychiatric nursing,MED,"Filipino nurse, GPA 3.2, looking for scholarships for a master's in mental health or psychiatric nursing."
+P30,23,M,China,China,master,applicant,full-time,3.6,computer science,CS,"Chinese student, GPA 3.6, want to do a master's in computer science abroad. What scholarships can I apply for?"
+P31,21,F,China,USA,bachelor,enrolled,full-time,3.8,mathematics,SCI,"Chinese international student majoring in mathematics at a US university, GPA 3.8. Looking for scholarships for current students."
+P32,24,M,South Korea,South Korea,master,applicant,full-time,3.5,sport management,BUS,"Korean student, GPA 3.5, want to study a master's in sport management abroad."
+P33,23,F,Japan,Japan,master,applicant,full-time,3.4,international development,SOC,"Japanese student, GPA 3.4, looking for scholarships for a master's in international development."
+P34,17,F,USA,USA,bachelor,applicant,full-time,3.6,computer science,CS,US high school senior with a 3.6 GPA planning to major in computer science. What college scholarships can I apply for?
+P35,18,M,USA,USA,bachelor,admitted,full-time,2.6,engineering,ENG,"American student admitted to an engineering program, GPA 2.6. Are there scholarships I can still get?"
+P36,22,F,USA,USA,master,applicant,full-time,3.3,psychology,SOC,US citizen with a psychology bachelor's (GPA 3.3) applying to master's programs in psychology. Looking for funding.
+P37,20,M,USA,USA,other,applicant,full-time,2.4,welding technology,ENG,"American, finished high school, GPA 2.4, want to enroll in a career and technical program in welding at a community college."
+P38,25,M,USA,Japan,phd,applicant,full-time,3.7,history,HUM,US citizen living in Japan with an MA in history (GPA 3.7). Looking for PhD scholarships in history.
+P39,18,F,UK,UK,bachelor,admitted,full-time,3.6,engineering,ENG,British student with a confirmed place for an undergraduate engineering degree. Are there scholarships for women in engineering?
+P40,23,M,UK,UK,phd,applicant,full-time,3.3,linguistics,HUM,UK student with a 2:1 in linguistics looking for a funded PhD in linguistics or bilingualism.
+P41,24,F,Germany,Germany,phd,applicant,full-time,3.7,biomedical research,SCI;MED,"German master's graduate (grade 1.3, about 3.7) about to start a PhD in basic biomedical research. Looking for PhD fellowships."
+P42,22,M,Germany,Germany,master,applicant,full-time,3.0,computer science,CS,"German student, GPA around 3.0, want to do a master's in computer science abroad. Which scholarships are open to me?"
+P43,21,F,France,France,master,applicant,full-time,3.5,political science,SOC,"French student, GPA 3.5, looking for master's scholarships in political science."
+P44,28,F,Canada,Canada,master,admitted,part-time,3.4,business administration (MBA),BUS,"Canadian woman admitted to a part-time MBA, GPA 3.4. What MBA awards can I apply for?"
+P45,30,M,Canada,Canada,postdoc,,full-time,,chemistry,SCI,Canadian with a recently completed PhD in chemistry looking for postdoctoral fellowships.
+P46,24,M,Brazil,Brazil,master,applicant,full-time,3.4,economics,BUS;SOC,"Brazilian economics graduate, GPA 3.4, looking for a scholarship for a master's in economics."
+P47,26,F,Mexico,Mexico,master,applicant,full-time,3.1,environmental engineering,ENG;SCI,"Mexican engineer, GPA 3.1, looking for funding for a master's in environmental engineering."
+P48,25,F,Iran,Iran,master,applicant,full-time,3.8,computer science,CS,Iranian woman with a 3.8 GPA looking for master's scholarships in computer science.
+P49,32,M,Turkey,Turkey,postdoc,,full-time,,mechanical engineering,ENG,Turkish researcher with a PhD in mechanical engineering looking for postdoctoral or research fellowships abroad.
+P50,22,F,Netherlands,Netherlands,master,applicant,full-time,3.4,finance,BUS,Dutch student graduating from a bachelor's this year (GPA 3.4). I want to do a full master's in finance abroad. What funding is there?

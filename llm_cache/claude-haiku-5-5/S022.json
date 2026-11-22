@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "3.5",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "stipend"
+  ],
+  "other_hard": "gender: women only; non-U.S. citizen or non-immigrant visa holder to the U.S.; intending to return to home country to pursue a professional career; must be pursuing first master's, professional or academic doctorate degree",
+  "evidence_sentence": "The International Fellowship Program is specifically designed for women who are non-U.S. citizens or permanent residents, with a track record of academic excellence and empowering other women and girls.",
+  "host_country": "USA",
+  "notes": "Page text does not state an application deadline; the 'Some application deadlines have not yet been announced' line gives no date. Page text says non-U.S. citizens or permanent residents in the opening sentence but the eligibility list says non-U.S. citizen or non-immigrant visa holder, which conflicts; nationality_rule set to INTERNATIONAL per the eligibility list. GPA 3.5 scale not stated. Stipend amounts ($20,000 master's/professional, $25,000 academic doctorate) not captured as numeric fields; funding_type stipend only. Degree-level stipend differences noted here."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2853,
+  "output_tokens": 459
+ },
+ "hash": "552636c54506bd19"
+}

@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "3.3",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "business administration (MBA)",
+  "funding_type": [],
+  "other_hard": "specific university or course: Alberta School of Business MBA Program",
+  "evidence_sentence": "Awarded annually to a full-time student entering their second year of studies in the Alberta School of Business MBA Program.",
+  "host_country": "Canada",
+  "notes": "The 3.3 GPA is required after completing first-year MBA studies, so it is treated as a condition for the award, not a renewal rule. Term is Fall. Selection is based on extra-curricular involvement and personal growth, which is a preference, not a hard criterion. No deadline, funding amount, or nationality rule is stated. Host country taken from the university name and URL."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2669,
+  "output_tokens": 1258
+ },
+ "hash": "fc73e9864b017fa6"
+}

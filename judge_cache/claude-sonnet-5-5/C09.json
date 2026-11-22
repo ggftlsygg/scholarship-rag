@@ -1,0 +1,16 @@
+{
+ "hash": "cf964abb581ea836",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S124",
+    "type": "missed_barrier",
+    "answer_quote": "The page also says residents educated in Germany cannot be funded, and your profile does not say where you were educated, so check this.",
+    "explanation": "The answer omits the condition that the student must be enrolled in, or at least accepted to, a master's or doctorate at a German university. The student is only an applicant, so this needs checking.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "yes",
+  "overall": "The answer follows the expected behaviour. It says no listed evidence mentions sanctions and does not invent any embargo rules. Its eligibility and deadline statements match the context and it handles UNKNOWN criteria correctly. The only gap is a minor omitted condition for S124."
+ }
+}

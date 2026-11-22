@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:MM-DD"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "demonstrated financial need; must file both the Profile and FAFSA applications by required deadlines",
+  "evidence_sentence": "Awarded to students who meet all eligibility criteria for need-based financial aid.",
+  "host_country": "USA",
+  "notes": "Name refers to a need-based scholarship page covering several awards (BU Promise, BU Community Leader, Charles River Housing, University Scholarship, International Student Need-Based Scholarships) with different criteria; the name does not match one specific award. Award amounts are based on demonstrated need, so funding_type partial is inferred from 'up to full financial need'. Deadline date not stated on page; financial aid deadline is referenced but not given. Degree level bachelor inferred from undergraduate references (BU Promise: maximum eight undergraduate semesters; Community Leader: first-year and transfer students). Renewal GPA of 2.00 and 75% course completion apply only to keep the award and are not entry requirements. Priority/selection by availability of funds for program of study is not a requirement. International Student need-based scholarships are limited to select partnership programs; nationality not explicitly restricted for other awards."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3741,
+  "output_tokens": 472
+ },
+ "hash": "869093f81a2d4575"
+}

@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ONLY:Afghanistan;Albania;Algeria;Andorra;Angola;Anguilla;Antigua and Barbuda;Argentina;Armenia;Australia;Austria;Azerbaijan;Bahamas;Bahrain;Bangladesh;Barbados;Belarus;Belgium;Belize;Benin;Bermuda;Bhutan;Bolivia;Bosnia and Herzegovina;Botswana;Brazil;British Virgin Islands;Brunei;Bulgaria;Burkina Faso;Burundi;Cambodia;Cameroon;Canada;Cape Verde;Cayman Islands;Central African Republic;Chad;Chile;China;Colombia;Comoros;Congo;DR Congo;Costa Rica;Cote d'Ivoire;Croatia;Cuba;Cyprus;Czech Republic;Denmark;Djibouti;Dominica;Dominican Republic;East Timor;Ecuador;Egypt;El Salvador;Equatorial Guinea;Eritrea;Estonia;Eswatini;Ethiopia;Falkland Islands;Fiji;Finland;France;Gabon;Gambia;Georgia;Germany;Ghana;Greece;Grenada;Guatemala;Guinea;Guinea Bissau;Guyana;Haiti;Honduras;Hong Kong;Hungary;Iceland;India;Indonesia;Iran;Iraq;Ireland;Israel;Italy;Jamaica;Japan;Jordan;Kazakhstan;Kenya;Kiribati;North Korea;South Korea;Kosovo;Kuwait;Kyrgyzstan;Laos;Latvia;Lebanon;Lesotho;Liberia;Libya;Liechtenstein;Lithuania;Luxembourg;Macedonia;Madagascar;Malawi;Malaysia;Maldives;Mali;Malta;Marshall Islands;Mauritania;Mauritius;Mexico;Micronesia;Moldova;Monaco;Mongolia;Montenegro;Morocco;Mozambique;Myanmar;Namibia;Nauru;Nepal;Netherlands;New Zealand;Nicaragua;Niger;Nigeria;Norway;Oman;Pakistan;Palau;Palestine;Panama;Papua New Guinea;Paraguay;Peru;Philippines;Poland;Portugal;Qatar;Romania;Russia;Rwanda;Samoa;San Marino;Sao Tome and Principe;Saudi Arabia;Senegal;Serbia;Seychelles;Sierra Leone;Singapore;Slovakia;Slovenia;Solomon Islands;Somalia;South Africa;South Sudan;Spain;Sri Lanka;St Kitts and Nevis;St Lucia;St Vincent and the Grenadines;Sudan;Suriname;Sweden;Switzerland;Syria;Taiwan;Tajikistan;Tanzania;Thailand;Togo;Tonga;Trinidad and Tobago;Tunisia;Turkmenistan;Turks and Caicos Islands;Tuvalu;Türkiye;Uganda;Ukraine;United Arab Emirates;USA;Uruguay;Uzbekistan;Vanuatu;Vatican City;Venezuela;Vietnam;Yemen;Zambia;Zimbabwe",
+  "min_gpa": "UK 1st Class Honours",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "admitted",
+   "full-time"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "International or EU fee status; 1-year full-time in-person Masters programme only; diplomas and certificates not eligible",
+  "evidence_sentence": "The University of Glasgow has several Global Leadership Scholarships available to International and EU fee students starting a postgraduate taught Masters programme in any discipline for Academic Session 2027/2028.",
+  "host_country": "UK",
+  "notes": "Country list is the page's eligible countries/regions; the stated eligibility condition is International or EU fee status, and the UK itself is not in the list. Award is a tuition fee discount of 10,000 GBP for one year only, 350 scholarships. Closing date to be confirmed, usually late August; awards are rolling with decisions within 6 weeks. Cannot be combined with other UofG discounts or scholarships (except Alumni Discount). Book and Paper Conservation MPhil and Textile Conservation MPhil get the discount for 1st year only. Page is for session 2027/2028 and states the scholarship is now open."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4210,
+  "output_tokens": 4716
+ },
+ "hash": "07c600bacc838150"
+}

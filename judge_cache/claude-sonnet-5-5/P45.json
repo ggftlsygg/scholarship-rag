@@ -1,0 +1,8 @@
+{
+ "hash": "87f6a4df240baa13",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "n/a",
+  "overall": "No problems found. The answer sticks to the CONTEXT. It keeps UNKNOWN criteria marked as UNKNOWN, describes funding accurately (stipend, travel, partial), and handles the S193 deadline correctly. It also flags the likely mismatches for S047, S193 and S163 and tells the student to check the official pages."
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "Ours (haiku)": 0.85,
+ "Ours (regex)": 0.85,
+ "Ours (oracle)": 0.95,
+ "Ablation: no Stage A": 0.6
+}

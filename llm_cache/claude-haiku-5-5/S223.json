@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "REGION:outside EU/EEA and Switzerland",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial",
+   "tuition"
+  ],
+  "other_hard": "liable for tuition fees (non-EU/EEA citizens without permanent residence status in Finland); meets requirements for entry visa and residence permit for Finland; excellent results in previous studies",
+  "evidence_sentence": "Scholarships are intended for excellent tuition fee-liable students from outside the EU/EEA and Switzerland who want to complete a Master's programme at the University of Helsinki.",
+  "host_country": "Finland",
+  "notes": "Page covers tuition fee waivers of 50% or 100% for master's students; no application deadline is stated for the waiver (31 August 2027 is a tuition payment deadline and was ignored). No field of study restriction is stated. Page says no scholarships cover living expenses; the scholarship lasts two years and requires full-time study (at least 55 ECTS per year) to continue. Separate GPA thresholds (3.8/5 for 100%, 3.4-3.7/5 for 50%) apply only to graduates of English-language bachelor's programmes at Helsinki applying for the master's waiver, so min_gpa was left empty. A Dean's award (1,000 EUR) exists for bachelor's students but is not this scholarship. Many other scholarships on the page (Brazil, Chile, Colombia, US, Indonesia LPDP, India Education Future) are not for this award. Tuition fee liability rules changed on 1 December 2024 and are complex; the residence-permit-based exemptions were summarised only briefly."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 8532,
+  "output_tokens": 2311
+ },
+ "hash": "77ebdbe6ef31c644"
+}

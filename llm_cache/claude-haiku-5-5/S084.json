@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ONLY:Canada",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "female; Alberta residence",
+  "evidence_sentence": "Awarded annually on the basis of academic achievement to an outstanding female student, who is Canadian citizen and an Alberta resident, registered full-time.",
+  "host_country": "Canada",
+  "notes": "Page lists no application deadline and no award amount or funding type. Term is Spring/Summer. Nominee must be in first year of MBA; scholarship granted for two years subject to review after first year (renewal criteria not specified). Academic excellence required but no numeric GPA stated; 'academically outstanding' is a selection basis, not a verbal grade threshold. Eligibility text says 'Canadian citizen' so nationality is ONLY:Canada. Enrollment status set to enrolled because the nominee must be registered full-time in the MBA program."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2651,
+  "output_tokens": 357
+ },
+ "hash": "374c2f12d53e6f88"
+}

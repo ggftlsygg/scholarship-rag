@@ -1,0 +1,16 @@
+{
+ "hash": "548be5669a96e221",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S178",
+    "type": "missed_barrier",
+    "answer_quote": "Other conditions to verify include B2 German, social or political engagement in the foundation's spirit, and not being eligible for BAföG, which the profile does not cover [S178].",
+    "explanation": "The international programme requires a completed bachelor's degree or completed undergraduate studies. The student is a bachelor applicant, so this is a likely barrier. It is not mentioned, and the 'possible but uncertain fit' framing understates it.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. It handles the UNKNOWN criteria, the passed deadlines and the funding correctly. Its one real gap is that it omits the Rosa-Luxemburg international programme's requirement of a completed bachelor's degree."
+ }
+}

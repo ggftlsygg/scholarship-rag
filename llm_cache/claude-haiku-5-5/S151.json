@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "SAT or ACT test scores must be submitted; FAFSA must be completed; transfer students must graduate from a 2-year community or junior college and attend only 1 college before Miles",
+  "evidence_sentence": "If you elect not to send a test score, you will not be eligible.",
+  "host_country": "USA",
+  "notes": "Page lists several awards (Presidential, Dean's, Bridge) with different required GPA, test scores and award amounts, so per-award criteria are not filled; Presidential covers tuition, room/board and books, Dean's total $20,000 and Bridge total $10,000. Required GPA figures (3.7, 3.2, 2.75) and the 3.5/3.3/2.5 cumulative GPAs apply to renewal or per-award thresholds and are not whole-page entry requirements. Renewal requires 15 hours per semester and a cumulative GPA. Page also describes the Alabama G.I. Dependents' Scholarship Program, a separate program with its own residency and FAFSA rules; it is not included. No deadline or nationality rule is stated. Page text is truncated at the end."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3459,
+  "output_tokens": 1560
+ },
+ "hash": "603180a0b0b5ab84"
+}

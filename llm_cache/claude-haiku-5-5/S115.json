@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "other"
+  ],
+  "nationality_rule": "ONLY:USA",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-06-15"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "completed high school (or equivalency) by July 1; demonstrate financial need (household income of $100,000 or less); under the age of 35; not enrolled in pre-requisite courses; plan to attend a not-for-profit community college or trade/vocational school",
+  "evidence_sentence": "Be a United States citizen",
+  "host_country": "USA",
+  "notes": "Page lists several awards under the Horatio Alger Career & Technical Scholarship Program with different criteria; the common criteria above apply to all. Hudiburg award requires full-time high school senior enrollment in listed Texas districts. Rollins award requires a school in Delaware and Delaware residence. Valencia award requires attending Valencia College in Orlando FL. Warren Webster award requires listed Ohio institutions and listed fields (business administration, construction trades, engineering, graphic design, manufacturing/production/welding, sales/marketing), so field_of_study ANY applies only to the National award. Funding is a fixed amount per award ($2,500 or $4,000) and the page says the maximum depends on program length. Deadline taken from the application window ending June 15, 2027; the page says the application becomes available March 15, and an interest form is offered for updates. Four-year programs and for-profit institutions are excluded. Testimonials and ambassador text were ignored."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3883,
+  "output_tokens": 1840
+ },
+ "hash": "f4845c72ad2345f4"
+}

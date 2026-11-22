@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [],
+  "other_hard": "Jewish (patrilineality acknowledged); professionally recognized doctoral candidate; admission to doctoral studies at a state or state-recognized university in Germany, or in an EU member state or Switzerland if German citizen, or at a non-European university in justified cases; non-German citizens pursuing doctorate in Germany must reside in Germany for funding duration; last degree completed no more than five years before application; German language skills at level B2; excludes medicine",
+  "evidence_sentence": "We support professionally recognized Jewish doctoral candidates in all subject areas and all disciplines (except medicine).",
+  "host_country": "Germany",
+  "notes": "Non-Jewish doctoral candidates can apply only for research projects in Germany dealing with Jewish topics (this is a separate route). Special circumstances and periods of childcare or care for relatives are considered in selection, not as requirements. Funding is three years standard plus possible six-month extension. Deadline not stated on page; rolling is inferred from the text saying applications should be submitted in the initial phase of dissertation writing, not a fixed date. Funding type not specified."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2910,
+  "output_tokens": 454
+ },
+ "hash": "df54bbdbd3a75a3b"
+}

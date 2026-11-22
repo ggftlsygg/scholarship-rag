@@ -1,0 +1,23 @@
+{
+ "hash": "a81d55cee4f56ee3",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S107",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "your 3.7 GPA was marked as meeting it, though the page says foreign certificates are assessed separately",
+    "explanation": "The 1.5 threshold is on the German scale, where lower is better, so the 3.7 US GPA is not comparable. The answer repeats the filter's MATCH instead of saying the grade fit is really unverified, although it does add a caveat.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S177",
+    "type": "missed_barrier",
+    "answer_quote": "The main obstacle is residence: applicants must reside in Germany for their studies and plan to return to their home country afterward",
+    "explanation": "The answer omits the context's BAföG §8 condition (German passport or immigrants with prospects of permanent residence), which a US citizen living in Japan would likely fail for the study scholarships.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer follows the context closely, with correct deadlines, funding descriptions and flagged unknowns. The only problems are the unqualified grade match for S107 on a German-scale threshold and the omitted BAföG §8 condition for S177."
+ }
+}

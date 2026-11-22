@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ONLY:Canada",
+  "min_gpa": "3.5",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "Business",
+  "funding_type": [],
+  "other_hard": "",
+  "evidence_sentence": "Awarded annually to a Canadian citizen or permanent resident with superior academic standing (GPA of 3.5 or greater on a course load of 30 credits) who is being admitted to the first year of a Master of Business Administration degree program in the Faculty of Business.",
+  "host_country": "Canada",
+  "notes": "Canadian citizen or permanent resident is stated as ONLY Canada; permanent residence status is included in the eligibility text, so nationality_rule kept as ONLY:Canada without the qualifier. Community involvement and student association participation may be considered (preference, not requirement). Award is for students being admitted to MBA first year; applicant status used. Study mode is full-time or part-time, so neither is restricted. No application deadline stated on the page. Funding amount and type not stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2690,
+  "output_tokens": 361
+ },
+ "hash": "7f4d76288ab56725"
+}

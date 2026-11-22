@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "2.0",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:03-31",
+   "annual:06-30",
+   "annual:09-30",
+   "2026-12-31"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "legal U.S. resident of one of the Eligible States (AL, AR, FL, GA, IA, IL, IN, KY, LA, MS, MO, NC, SC, TN, TX); age 16 or older; at least one year (or 18 semester hours) remaining before undergraduate graduation; if not yet in college, begin freshman year no later than the start of the 2027-2028 academic year; cumulative GPA of at least 2.0 in school; written essay (500 words or less) or video essay in English about an individual known personally who lives in the applicant's community; prize must be used toward tuition and undergraduate expenses at an accredited nonprofit two- or four-year college in the US",
+  "evidence_sentence": "Quarterly Contest prizes may not be used toward graduate school (post graduate) tuition or other post-undergraduate program expenses.",
+  "host_country": "USA",
+  "notes": "Name and URL say Black History Scholarship but the page describes the 2026 Regions Riding Forward Scholarship Contest, with four quarterly contests (Q-1 to Q-4) and four $8,000 awards per contest; the page does not state a nationality rule, only U.S. residence in listed states, which is placed in other_hard; the Q-1 to Q-3 deadlines have passed as of 2026-11-21 and Q-4 closes 2026-12-31; the page gives no subject restriction; the GPA scale is not stated; page text includes winner announcement dates and essay/AI rules that were not treated as eligibility criteria."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4743,
+  "output_tokens": 2220
+ },
+ "hash": "624b3dbd75667ea6"
+}

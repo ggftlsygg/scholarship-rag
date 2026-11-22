@@ -1,0 +1,16 @@
+{
+ "hash": "8ec3e589d53e7f85",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S136",
+    "type": "missed_barrier",
+    "answer_quote": "meets most of your profile: master's level, nationality open to all international students, applicant status, and a minimum GPA of 3.00 for the master's, which your 3.7 exceeds",
+    "explanation": "The context lists a four-year bachelor's degree and a GPA of 3.00 in the major field as master's conditions. The profile does not confirm either, and the answer never says they need checking.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer stays close to the context. Deadlines are read correctly against today's date (2026-11-21), UNKNOWN criteria are flagged as unknown, and funding is described accurately. The only gap is that the S136 bachelor's-degree and major-field GPA conditions are not flagged for checking."
+ }
+}

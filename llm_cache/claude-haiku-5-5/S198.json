@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "",
+  "min_gpa": "3.0",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-01-15",
+   "2027-07-31"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "30 transferable GPA hours; minimum 12 credit hours enrolled per term with 9 of them TTU hours; AP, CLEP, or military credits do not count toward transferable hours",
+  "evidence_sentence": "Presidential Transfer Scholarship | 30 Transferable GPA Hours; 3.0 GPA",
+  "host_country": "USA",
+  "notes": "List page with several awards: the name matches the Presidential Transfer Scholarship ($3,000 per year, 3.0 GPA, 30 transferable hours), but the Proven Achievers Scholarship has different criteria (60 transferable hours, 3.5 GPA, $4,000 per year). The page does not state degree level or nationality rules. Renewal requires a 3.0 GPA and 12 hours earned per term (3.25 for Proven Achievers), which is a keep-criterion, not an entry requirement. Deadlines are Fall entry July 31 and Spring entry January 15, shown without a year, so the next future dates were used. The GPA scale is not stated. Non-residents awarded $1,000 or more qualify for in-state tuition, which is a benefit, not a criterion."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2947,
+  "output_tokens": 2200
+ },
+ "hash": "21bcb9ac8a6fbb7b"
+}

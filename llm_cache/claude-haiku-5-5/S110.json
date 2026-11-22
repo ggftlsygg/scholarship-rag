@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "3.50",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:11-01",
+   "annual:05-31"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "Your application for admission also serves as your application for these eligible UCO international admission scholarships.",
+  "host_country": "USA",
+  "notes": "Page lists several UCO international admission scholarships; criteria here are for the Distinguished Graduate Scholar award only. Degree level inferred from 'Graduate' in the name and the required Bachelor's degree; the page does not explicitly state master's study. Renewal requires a 3.25 GPA or higher and full-time enrollment at UCO; these apply only to keeping the award and are not entry requirements. Priority deadlines given as Nov. 1 (Spring) and May 31 (Fall) without a year. Scholarship credits are applied from the 2nd to 4th semester. GPA scale is not stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2745,
+  "output_tokens": 1218
+ },
+ "hash": "8cb031c9afc11f1c"
+}

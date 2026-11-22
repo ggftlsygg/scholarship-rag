@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "natural science; pharmacy; data science; pharmaceutical and consumer healthcare relevant fundamental or applied studies",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "Students from Germany who are going abroad for a study project or practical work experience or students from abroad who are studying, researching or doing an internship in Germany can apply.",
+  "host_country": "Germany",
+  "notes": "Page gives no concrete deadline, only a link to updated deadlines. Funding is described as individual financial funding up to 10,000 EUR, so funding_type is partial. Duration up to 6 months. Stated target group is students enrolled in Master's or PhD programmes. Page is a DAAD database listing for the Bayer Foundation scholarship; the page does not state a specific host university. Field list taken from target group subjects; 'all scientific disciplines' in description is broader and not fully reflected."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2870,
+  "output_tokens": 369
+ },
+ "hash": "26673b450785fb9f"
+}

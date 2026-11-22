@@ -1,0 +1,8 @@
+{
+ "hash": "a7a3ac0c3fb406e8",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer stays within the CONTEXT. It reports UNKNOWN criteria as unknown, states funding types accurately (stipend and travel, partial, stipend and tuition), and does not invent a scholarship. It flags the main barriers: the biomedicine focus and Europe condition for S047, the degree-seeking and admitted requirement for S193, and the RHD enrolment requirement for S061. No problems found."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "excellent academic background",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "2027-05-31"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "",
+  "evidence_sentence": "Candidates must have an excellent academic background and show considerable promise.",
+  "host_country": "USA",
+  "notes": "Page says the scholarship is open to candidates worldwide, so nationality_rule is ALL; priority to Lebanese descent is a preference and is not a requirement. Page says the scholarship is awarded once every two years, and the text mixes in unrelated internship wording, so the page may be unreliable. Field of study not stated. Funding type not stated. Applicants must already hold an Harvard MBA admission offer."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3001,
+  "output_tokens": 278
+ },
+ "hash": "307b24c56fe181a1"
+}

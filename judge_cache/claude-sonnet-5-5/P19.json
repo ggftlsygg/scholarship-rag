@@ -1,0 +1,16 @@
+{
+ "hash": "a219f4ab7e98c46d",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S133",
+    "type": "unsupported_claim",
+    "answer_quote": "Other conditions include medical fitness, good conduct, and an English exam for non-English first-language applicants (IELTS 5, or equivalent)",
+    "explanation": "The context ties the listed English exam thresholds to Masters and PhD applicants only, but the answer presents the exam as a requirement for this bachelor's applicant.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. It reports deadlines, funding types, and barriers correctly, including the EU residence rule, the Bond Medical Program exclusion, the mahram requirement, and the German B2 requirement. The only error found is a small overgeneralisation of the English exam requirement for King Abdulaziz University."
+ }
+}

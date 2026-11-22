@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "current high school seniors not eligible to apply; academic excellence is the main criterion",
+  "evidence_sentence": "Recipients of the Coolidge Scholarship are notified of their award late in their junior year, before college application (note: current high school seniors are not eligible to apply).",
+  "host_country": "USA",
+  "notes": "Page does not state nationality or citizenship rules. No deadline stated. Academic excellence is described as the main criterion but no minimum GPA is given. Secondary criteria (interest in public policy, humility, service) are preferences and not listed as requirements. The scholarship may be used at any accredited US college; host country taken from that statement. Finalists not named Coolidge Scholars receive a smaller one-time scholarship, not covered here. Source URL has a trailing period. Page does not explicitly say applicants must be enrolled in or applying to a specific college, so enrollment status is taken as applicant based on the college application reference."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3107,
+  "output_tokens": 391
+ },
+ "hash": "66d02abb860f95b8"
+}

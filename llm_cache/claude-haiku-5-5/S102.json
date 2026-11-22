@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:UK",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [],
+  "field_of_study": "Engineering",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "Identify as female (any ethnicity) or as male with one of the listed ethnicities: Bangladeshi, Pakistani, Black African, Black Caribbean, Black Other, Mixed White/Black; confirmed place at the University of Cambridge for a first undergraduate Engineering degree starting October 2026; assessed as home fee status; applied to Student Finance for tuition fee and maintenance loans with an income assessment completed",
+  "evidence_sentence": "Be a UK student and have been assessed for fee status as 'home'.",
+  "host_country": "UK",
+  "notes": "Page states applications for 2026 are now closed and gives no future deadline; the page refers to 2026 entry and is outdated as of 2026-11-21. Demonstrating strong motivation for a career in Formula 1 or motorsports is stated as an assessment condition, so it is recorded here as a doubt rather than in other_hard. Scholarship is listed as covering the maximum tuition fee plus maximum maintenance loan amount, which is treated as full funding."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3255,
+  "output_tokens": 1214
+ },
+ "hash": "a674878dfbc6b398"
+}

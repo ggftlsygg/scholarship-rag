@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "Reside in one of the following countries: Denmark, Latvia, Slovenia, Poland, Greece, Malta, Germany, Bulgaria, Portugal, Slovakia, Hungary, Czechia, Croatia, Montenegro, Serbia, North Macedonia, Turkiye, Italy, Romania; be a new student",
+  "evidence_sentence": "The programme being undertaken must be a full undergraduate or postgraduate degree.",
+  "host_country": "UK",
+  "notes": "Residence in listed countries is not a nationality rule, so nationality_rule is left empty and the residence condition is in other_hard. Page states applications for the 2026/7 academic year are closed and gives no future deadline; page appears outdated relative to today (2026-11-21). No award amount or funding type is stated. No field of study restriction is stated. Host country taken from the University of London name and URL."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2762,
+  "output_tokens": 1353
+ },
+ "hash": "972da5c0553f087d"
+}

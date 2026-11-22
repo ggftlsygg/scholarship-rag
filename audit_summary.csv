@@ -1,0 +1,24 @@
+check,severity,count
+J contradicts_context,medium,3
+J deadline_error,low,4
+J deadline_error,medium,2
+J ignored_rule,high,1
+J missed_barrier,high,1
+J missed_barrier,low,13
+J missed_barrier,medium,9
+J other,low,2
+J unknown_as_confirmed,low,2
+J unknown_as_confirmed,medium,5
+J unsupported_claim,low,14
+J unsupported_claim,medium,4
+J wrong_fit_judgement,low,3
+J wrong_fit_judgement,medium,7
+R03 order,low,2
+R04 unsupported_number,high,7
+R05 unverified_quote,high,48
+R06 fully_funded_claim,high,1
+R07 unknown_not_flagged,medium,11
+R08 annual_deadline,medium,3
+R09 gender_age,medium,1
+R10 residence,medium,14
+R12 entity_not_in_context,high,1

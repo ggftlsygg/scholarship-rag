@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "2.3",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "computer science, engineering, robotics, automation engineering, electrical engineering, mechanical engineering, industrial engineering, data science, information systems",
+  "funding_type": [],
+  "other_hard": "high school senior in the U.S. or completed/enrolled in a high school or college dual degree course in computer science, engineering or robotics (students without this course may opt in to an Amazon assessment); must be authorized to work in the U.S. (EAD holder, permanent resident or U.S. citizen); must demonstrate financial need; plan to attain a bachelor's degree in a related field",
+  "evidence_sentence": "Be a high school senior in the U.S. who is currently enrolled in or who has completed a high school or college dual degree course where computer science, engineering, or robotics is the subject.",
+  "host_country": "USA",
+  "notes": "The page gives no application deadline dates, only labels such as Application Deadline. Nationality is not stated; the work authorization requirement was put in other_hard. Host country is inferred from the U.S. high school senior requirement. The page lists several sub-fields for Automation Engineering and Software Development Engineering, which were combined into field_of_study. No award amount or funding type is stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2960,
+  "output_tokens": 1534
+ },
+ "hash": "5d1d94d15464a9ba"
+}

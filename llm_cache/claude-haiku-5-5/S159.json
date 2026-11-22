@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [],
+  "field_of_study": "Refugee Protection and Forced Migration Studies",
+  "funding_type": [],
+  "other_hard": "current staff member employed directly by the Norwegian Refugee Council; must be a new student, not a registered student; specific programme: MA Refugee Protection and Forced Migration Studies",
+  "evidence_sentence": "You must be a current staff member employed directly by the Norwegian Refugee Council.",
+  "host_country": "UK",
+  "notes": "Page gives no concrete deadline, only that the bursary must be requested at least 2 weeks before the programme's registration deadline. Bursary amount and nationality rules are not stated. Host country taken from the University of London name and URL. Page is a university-level bursary page, so the programme and institution details come from the page's own text."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2846,
+  "output_tokens": 950
+ },
+ "hash": "082f3954b628e743"
+}

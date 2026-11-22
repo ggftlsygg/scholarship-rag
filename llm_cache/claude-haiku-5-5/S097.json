@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "good",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2026-12-01",
+   "annual:06-01"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "stipend"
+  ],
+  "other_hard": "Membership in a Protestant church (exceptions in justified cases); Completion of first university degree in a short period of time; Final grades at least good (law: fully satisfactory); Qualification which entitles doctoral studies; Foreign students may apply if admitted to a doctoral programme at a university in Germany",
+  "evidence_sentence": "Every year Studienwerk supports 200 doctoral students of all types of subjects with scholarships and a comprehensive range of educational programmes.",
+  "host_country": "Germany",
+  "notes": "Nationality not explicitly stated as open to all; the text only says foreign students may apply if admitted to a German doctoral programme, so nationality_rule left empty. Financial criteria (students' own earnings and living situation) follow Federal Ministry guidelines and are not clearly a hard requirement. Deadline 1 June is given without a year, so recorded as annual. Applications from students in the final stages of their PhD are no longer considered. Scholarship is granted for one year and can be extended to a maximum of three years; the GPA condition for keeping the award is not stated. Protestant membership exceptions apply in justified cases. Listed deadline page is for a PhD scholarship, matching the name in substance but the page title differs."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3851,
+  "output_tokens": 1781
+ },
+ "hash": "379433edc3d34f84"
+}

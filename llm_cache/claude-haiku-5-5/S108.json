@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "other"
+  ],
+  "nationality_rule": "REGION:USA, France, Israel, Central, Eastern and South Eastern Europe and Arab region",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:07"
+  ],
+  "field_of_study": "International Affairs; Public Policy; Public Service",
+  "funding_type": [
+   "stipend",
+   "travel"
+  ],
+  "other_hard": "Very good knowledge of German; Under the age of 30 at the start of the scholarship; University degree",
+  "evidence_sentence": "This gives well qualified young people with a strong interest in politics from the USA, France, Israel and Central, Eastern and South Eastern Europe and Arab region the opportunity to gain first-hand experience of Germany's system of parliamentary government.",
+  "host_country": "Germany",
+  "notes": "Name mismatch: the page describes the International Parliamentary Scholarship (IPS) for Germany, not a general German Bundestag Scholarship. The page lists a 13-week work placement with a Member of the Bundestag, not degree study, so degree level is other. Eligibility lists 'Citizenship of participant country' but the page names USA, France, Israel and regions without a full country list, so the nationality rule is a best reading. Page also lists fourth-year+ undergrads and undergraduate alumni as eligible applicants, which conflicts with the 'University degree' criterion. Deadline 'July' has no year and is past, so annual:07. Benefits: 500 euros per month, free accommodation, insurance and travel expenses. Enrollment status 'applicant' is inferred from the application process. Points to bundestag.de/ips for details. Page includes ASU-internal citizenship status and nomination fields (no nomination required)."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3136,
+  "output_tokens": 2233
+ },
+ "hash": "b7aa360a5d836a3f"
+}

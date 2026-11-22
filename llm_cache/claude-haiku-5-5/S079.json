@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd",
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "stipend",
+   "partial"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "To be eligible for an RTP Stipend, RTP Fees Offset, RTP Allowance or DUPRS an applicant must be a domestic or international student enrolled in a graduate research course of study at Deakin University.",
+  "host_country": "Australia",
+  "notes": "Page covers several awards (RTP Stipend, RTP Fees Offset, RTP Allowance, DUPRS) under one name; the text does not specify which is named. No application deadline stated. Relocation allowance and OSHC are benefits, not funding types. Fees offset is a partial tuition offset, not full tuition. Text is duplicated on the page. Field of study not stated. Page mentions graduate research courses only; master level inferred from 'Research masters degree' duration."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3135,
+  "output_tokens": 349
+ },
+ "hash": "c937950adeb3a3ee"
+}

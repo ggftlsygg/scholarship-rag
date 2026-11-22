@@ -1,0 +1,24 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "REGION:ASEAN member states and Timor-Leste",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "",
+  "evidence_sentence": "Australia for ASEAN scholarships are prestigious international scholarships provided by the Australian Government for students from ASEAN member states and Timor-Leste.",
+  "host_country": "Australia",
+  "notes": "Overview page only. No deadline, GPA, funding, enrollment status, or application details are stated. The four priority areas (maritime, connectivity, economic development, sustainable development goals 2030) are described as the focus of study, not as eligibility requirements, so field_of_study is left empty. The ASEAN member states are not listed in the text."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2642,
+  "output_tokens": 870
+ },
+ "hash": "eefc236699c03bd8"
+}

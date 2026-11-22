@@ -1,0 +1,37 @@
+{
+ "hash": "b7e257434003d538",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S136",
+    "type": "contradicts_context",
+    "answer_quote": "is the only listed scholarship with a deadline still open",
+    "explanation": "S107 (Gerda Henkel) has a rolling deadline marked MATCH, so it is also open. S235's deadline is not stated, so it is not shown to be closed either.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S136",
+    "type": "unknown_as_confirmed",
+    "answer_quote": "the minimum GPA of 3.00 in both your bachelor's and master's, since your 3.5 is above that",
+    "explanation": "The PhD condition requires a GPA of at least 3.00 in both the B.S. and the M.S. The profile gives only one GPA of 3.5, so the bachelor's GPA is unknown and is presented as met.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S107",
+    "type": "unsupported_claim",
+    "answer_quote": "the listed fields are archaeology, history of art and history",
+    "explanation": "The context lists only 'Archaeology - History of Art', and the list is truncated. 'History' as a listed field is not in the context.",
+    "severity": "low"
+   },
+   {
+    "scholarship_id": "S189",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "is a strong match on paper",
+    "explanation": "The answer later notes the Singapore autonomous-university degree requirement, which is unconfirmed and likely a barrier for a student from Vietnam. It also does not mention the A*STAR supervisor endorsement or the requirement to gain admission to a PhD programme at an autonomous university. 'Strong match' overstates the fit.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer mostly follows the context and flags UNKNOWN criteria, passed deadlines and the Gerda Henkel history focus. Its main errors are calling S136 the only scholarship with an open deadline, which ignores S107's rolling deadline. It also treats the bachelor's GPA requirement for S136 as met when only one GPA is known."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:05-20"
+  ],
+  "field_of_study": "finance",
+  "funding_type": [],
+  "other_hard": "English proficiency: IELTS 6.5 or TOEFL 90 for applicants from non-English speaking countries; recommendation letters from two associate professors, experts, or scholars with equal title",
+  "evidence_sentence": "Applicants from non-English speaking countries must provide IELTS (6.5 or above), new TOEFL (90 points or above) or other comparable certification of English proficiency.",
+  "host_country": "China",
+  "notes": "Page describes the Financial Master for International Students (English taught, two-year program) and its application period (April 1 to May 20 every year), not a specific scholarship's criteria. The scholarship name is not clearly matched: quota of 10 persons for the scholarship is stated, but no amount, funding type, or GPA requirement is given. A Shandong Provincial Scholarship is mentioned as needing an extra form, with details only on an external link. Nationality INTERNATIONAL is inferred from the programme title 'for International Students'. Page may be outdated (mentions 2016 statistics)."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4525,
+  "output_tokens": 1388
+ },
+ "hash": "993ed79d98945b5f"
+}

@@ -1,0 +1,23 @@
+{
+ "hash": "f78339d0f68f44ab",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S177",
+    "type": "unknown_as_confirmed",
+    "answer_quote": "passes the checks for degree level, German nationality, applicant status, and the requirement that PhD students be accepted at a German university",
+    "explanation": "The profile shows an applicant who is not yet stated to be accepted at a German university, so presenting this requirement as passed is unsupported.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S107",
+    "type": "other",
+    "answer_quote": "your 3.7 grade is above the 1.5 cutoff",
+    "explanation": "The 1.5 cutoff is on the German scale, where lower is better, while 3.7 is on the 4.0 scale. The student's German grade is 1.3. Comparing 3.7 with 1.5 as 'above' mixes the scales and is misleading.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer follows the context closely. It flags UNKNOWN criteria, funding limits, passed deadlines and the main barriers. The main problems are that it presents the Rosa-Luxemburg-Stiftung acceptance-at-a-German-university requirement as passed, and it compares the grade across two different scales for the Gerda Henkel Stiftung scholarship."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "hash": "b3206c5c3c0d33e1",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S241",
+    "type": "unknown_as_confirmed",
+    "answer_quote": "The page lists Asian countries as eligible, and Kazakhstan is in that region.",
+    "explanation": "The evidence says only 25 specific countries in Africa, Asia and Latin America are eligible, and the list is not shown. Region membership does not confirm Kazakhstan is one of them, yet the answer presents nationality as a match without a caveat.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S136",
+    "type": "unsupported_claim",
+    "answer_quote": "the master's requirement is a GPA of at least 3.00 in the major field, which your profile meets",
+    "explanation": "The profile gives only an overall GPA of 3.7, not a GPA in the major field, so meeting this condition is not confirmed.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. It flags UNKNOWN items for S069, S016, S199 and S241 and does not overstate funding. The remaining problems are the unqualified nationality match for S241 and the assumption that the major-field GPA requirement for S136 is met."
+ }
+}

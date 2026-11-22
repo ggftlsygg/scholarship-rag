@@ -1,0 +1,16 @@
+{
+ "hash": "1a3edf377633b037",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S124",
+    "type": "missed_barrier",
+    "answer_quote": "It requires Muslim religion, which your profile does not state, so you must confirm this [S124].",
+    "explanation": "Does not mention the other listed conditions: enrolment or acceptance at a German university, and above-average potential with social, cultural or political involvement. The student is only an applicant, so these need checking.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "yes",
+  "overall": "The answer follows the expected behaviour. It gives exact amounts only for S124 (844 + 100 + 100 = 1,044 € per month, with correct arithmetic) and says no amounts are stated for the others. It does not rank by invented amounts and keeps UNKNOWN criteria and the missing deadlines as unknown. The only gap is that it leaves out some S124 conditions that need checking."
+ }
+}

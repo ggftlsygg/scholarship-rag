@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "other"
+  ],
+  "nationality_rule": "REGION:Europe",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:09-15"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [],
+  "other_hard": "Master's or PhD degree obtained within the last ten years of applying; older degrees considered if further supporting information is provided",
+  "evidence_sentence": "All Europeans are eligible to apply (including UK, Israel, Switzerland, Turkey, Balkan and Baltic countries).",
+  "host_country": "Japan",
+  "notes": "Page states 'no limitations or restrictions' but also lists European-only eligibility. The listed deadline (15 September 2026) is in the past; the next deadline is not stated. Level 'other' is used because this is a research fellowship for holders of a Master's or PhD, not degree study. No funding amount or type is stated. Applications from members of commercial, industrial, governmental or professional organisations are also accepted. Research period can end in 2028."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2828,
+  "output_tokens": 1294
+ },
+ "hash": "122c8a9e037c276d"
+}

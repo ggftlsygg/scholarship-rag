@@ -1,0 +1,8 @@
+{
+ "hash": "cd0a329669a0aa45",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer matches the CONTEXT. Amounts, funding types, nationality and level checks, and the UNKNOWN criteria are reported correctly. It flags the real barriers: financial need and PBS programme eligibility for S142, the research-degree focus of S232, the need for an offer for S235, the Native American requirement of the Sappenfield Scholarship, and the unconfirmed eligibility of Brazil for S031. Its deadline handling is sound: it treats April 25, 2026 as passed and 2027-04 as still ahead of 2026-11-21."
+ }
+}

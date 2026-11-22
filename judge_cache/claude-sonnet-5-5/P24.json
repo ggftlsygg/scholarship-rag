@@ -1,0 +1,16 @@
+{
+ "hash": "a68d1862ebe95d90",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S134",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "the Mo Ibrahim Foundation Scholarship and King Abdullah University Scholarship look the most promising for an IR master's",
+    "explanation": "The context gives no field information for S134, and its passage names a University of Science and Technology; the answer admits the field fit is unchecked yet still ranks it as promising for IR.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. It handles UNKNOWN criteria correctly, reports deadlines and funding accurately, and notes the barriers. The one flaw is the closing recommendation of KAUST for an IR master's, which has no support in the context."
+ }
+}

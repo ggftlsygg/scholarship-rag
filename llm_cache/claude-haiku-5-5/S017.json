@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ONLY:Canada (citizen or permanent resident)",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:11-30"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Alberta resident (parent or guardian residence in Canada, or Alberta as last place lived for 12 consecutive months, or spouse/partner is an Alberta resident); study at a post-secondary institution outside Alberta; research-focused master's or doctoral program (professional doctorates such as MD or JD not eligible); doctoral award requires at least one full year of graduate study or a master's degree; doctoral students without one year of graduate study receive $15,000",
+  "evidence_sentence": "Applicants must be: - a Canadian citizen, Permanent Resident of Canada or Protected Person under Canada’s Immigration and Refugee Protection Act, (Visa students are not eligible).",
+  "host_country": "",
+  "notes": "Award values: master's 7 awards of $15,000, doctoral 8 awards of $20,000. Deadline year not stated; application window is August 1 to November 30. Up to fifteen students may be eligible each year. Lifetime maximum of two awards. Recipients may hold other awards depending on institution policy. Host institution country not stated (anywhere in the world outside Alberta). No minimum GPA stated. Page mentions paper application option."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3754,
+  "output_tokens": 1792
+ },
+ "hash": "0f8f7b120c0d03fa"
+}

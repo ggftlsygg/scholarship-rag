@@ -1,0 +1,23 @@
+{
+ "hash": "8d84ea3557aad11e",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S018",
+    "type": "missed_barrier",
+    "answer_quote": "The profile does not state whether the student meets these conditions",
+    "explanation": "The enrollment condition requires the student to be already admitted (UNKNOWN for an applicant), and the answer never says admission to a programme is needed first. It also omits the 'not previously studied outside country of residence' and 'not combinable with other funding' conditions.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S153",
+    "type": "missed_barrier",
+    "answer_quote": "Degree level (master), enrollment status (applicant) and the under-30 age condition are consistent with the profile (age 26)",
+    "explanation": "The answer omits the condition that the first degree must be in a listed relevant subject, and the English-language test requirement, both of which need checking for this student.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. It flags UNKNOWN items, correctly states partial versus full funding, and gives deadlines correctly. The only gaps are some omitted conditions for S018 (admission requirement) and S153 (relevant first degree, English test)."
+ }
+}

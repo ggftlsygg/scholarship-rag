@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-01-15"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "full",
+   "tuition",
+   "stipend"
+  ],
+  "other_hard": "Applicants must have Bachelors Degree Certificate to apply; Final year undergraduate students are also eligible to apply for admission",
+  "evidence_sentence": "All National and International Students from any part of the world are eligible to apply for Doha Institute Scholarships.",
+  "host_country": "Qatar",
+  "notes": "Page lists two awards (Tamim Scholarships merit-based and SANAD Grant financial need); both described with similar benefits. Page is titled 2024 in URL but content refers to 2027-2028 session; contains unrelated promotional links to other scholarships (KAUST, OIST, BYD) which were ignored. Encouraged to apply for Master's or PhD is a preference, not a requirement. Schools listed as Public Administration & Development Economics, Social Sciences and Humanities, Conflict and Humanitarian Studies; field restrictions not clearly stated since applicants can take admission in any field. Degree level stated as Masters, PhD in details table; 'Full Free' and 'Fully Funded' used for funding; monthly allowance and tuition covered for both awards."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3991,
+  "output_tokens": 466
+ },
+ "hash": "d8405cf6fc93cf60"
+}

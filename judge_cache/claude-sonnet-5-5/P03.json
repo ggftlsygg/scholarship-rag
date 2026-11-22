@@ -1,0 +1,8 @@
+{
+ "hash": "aa68a4e12b59bf17",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer stays within the context. It reports UNKNOWN criteria as unknown, correctly treats the passed deadlines for S178 and S058 and the closed S243 cycle, and describes the S031 deadline and funding accurately. It also flags the main barriers: US residence and work authorisation for S021, European residence for S243, and the completed-undergraduate and BAföG conditions for S178. No problems found."
+ }
+}

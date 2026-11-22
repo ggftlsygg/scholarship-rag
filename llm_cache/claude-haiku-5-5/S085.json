@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "energy, environment and public policy",
+  "funding_type": [],
+  "other_hard": "experience working in the field of energy/environment",
+  "evidence_sentence": "Awarded annually to a student(s) entering their first year of full-time or part-time study in the MBA program at the Alberta School of Business.",
+  "host_country": "Canada",
+  "notes": "Page gives no application deadline and no nationality restriction; 'Application: Required' and selection on academic standing and letter of application; demonstrated interest in public policy is a stated requirement but was not added to other_hard beyond energy/environment experience; the award amount is not stated; the nationality_rule of ALL is inferred from the absence of restrictions, not an explicit statement, so it is a doubt; the page is a general awards page, so the entry is one of several awards listed on it; superior academic standing is not given as a numeric grade."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2691,
+  "output_tokens": 345
+ },
+ "hash": "9ee236b06b72fb81"
+}

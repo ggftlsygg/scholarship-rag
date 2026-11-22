@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "other"
+  ],
+  "nationality_rule": "ONLY:USA",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "career or technical education leading to employment",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Have completed high school (or earned high school equivalency credential); Attend a not-for-profit post-secondary institution; Demonstrate financial need; applicants must be eligible to receive the Federal Pell grant; Be under the age of 30",
+  "evidence_sentence": "Be a United States Citizen",
+  "host_country": "USA",
+  "notes": "The page is hosted on a college site and describes the Horatio Alger National Career and Technical Scholarship Program, which differs slightly from the name given. No application deadline, GPA or study-mode restriction is stated. Host country is inferred from the .edu URL. Page says to visit scholars.horatioalger.org for full details and to apply."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2718,
+  "output_tokens": 1131
+ },
+ "hash": "084033dd72809175"
+}

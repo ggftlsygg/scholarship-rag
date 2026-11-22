@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "ATAR of at least 85.00 (undergraduate); WAM of at least 65 (postgraduate)",
+  "gpa_scale": "ATAR; WAM",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "holds or is eligible for an Australian student visa (subclass 500) or other visa category with study rights; applied to commence an eligible course specified in Schedule 1; have not discontinued an equivalent level course with an immediate break in enrolment; must take up the scholarship in the semester for which it is awarded",
+  "evidence_sentence": "The University of Western Australia ('the University') provides a fee discount scholarship to encourage and assist eligible high-achieving international students to commence and pursue an undergraduate or postgraduate qualification at the University.",
+  "host_country": "Australia",
+  "notes": "Page title is UWA Global Excellence Scholarship [F19/1756]. Value tiers: 20% tuition discount for 90+ ATAR (undergraduate) or 75+ WAM (postgraduate); 10% discount for 85-89.95 ATAR or 65-74.99 WAM. Applicants are automatically considered, so no separate application is needed; no application deadline is stated. Eligible courses are listed in Schedule 1, which is not reproduced on the page, so field of study is not stated. WAM of 60 is required only to continue the award, not as an entry requirement. Funding period stated as 2027-2029. Offer must be accepted within 30 days. Award is a fee discount, not a full scholarship."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3843,
+  "output_tokens": 1845
+ },
+ "hash": "c7c91a94ba697ea1"
+}

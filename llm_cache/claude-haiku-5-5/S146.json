@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "2.00",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:03-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "child of a Marine or Navy Corpsman, Chaplain or Religious Programs specialist attached to a Marine unit; adjusted gross income at or below the financial eligibility threshold set annually by the Foundation (stated as $134,000 for tax year 2025); no prior bachelor's degree or completed undergraduate courses; not still in high school (dual enrollment excluded); school must be listed on College Navigator and eligible for federal funding; transcript must show Fall 2026 grades or be dated after January 1, 2027",
+  "evidence_sentence": "In short, all applicants must be the child of a Marine or a Navy Corpsman, Chaplain or Religious Programs specialist attached to a Marine unit, have a cumulative GPA of 2.00, and have an adjusted gross income at or below the financial eligibility threshold determined by the Foundation on an annual basis.",
+  "host_country": "",
+  "notes": "Page is a shared FAQ for the foundation's undergraduate, associate and career/technical (certificate) scholarships; the name covers undergraduate and associate degrees, while the CTE non-degree certificate program is also described. Nationality is not stated (only the parent's military service is required). GPA scale is not stated. Host country is not stated; schools must appear on College Navigator. Deadline conflicts: the timeline lists March 1 as the application deadline, but the page also says the application is available all year and processed monthly. Award is need-based and applicants above the income threshold may still apply but are not guaranteed. Renewal is allowed for up to four paid awards with reapplication each year; GPA needed to keep the award is not stated. Preferences, documents and payment timing are not eligibility rules and are not included as hard criteria."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 6746,
+  "output_tokens": 2346
+ },
+ "hash": "7676ef011d187f34"
+}

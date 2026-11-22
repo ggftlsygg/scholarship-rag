@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "tuition",
+   "stipend"
+  ],
+  "other_hard": "recommended for admission by the Admissions Committee of the relevant NU programme; demonstrated English language proficiency required",
+  "evidence_sentence": "The Abay Kunanbayev Scholarship is exclusively for international applicants — citizens of countries other than Kazakhstan.",
+  "host_country": "Kazakhstan",
+  "notes": "No separate application; scholarship considered automatically within the admission review. No deadline, GPA or field of study stated. Programme-specific academic entry thresholds apply but are not given on the page. Stipend amount is not stated (set by the Government and available from the Bursar). Accommodation, meals and personal expenses are not covered. Dual citizens with Kazakh citizenship are excluded."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3175,
+  "output_tokens": 1290
+ },
+ "hash": "865d7be16e98c4eb"
+}

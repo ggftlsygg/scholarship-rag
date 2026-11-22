@@ -1,0 +1,16 @@
+{
+ "hash": "d347ecff509b1b82",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S178",
+    "type": "unknown_as_confirmed",
+    "answer_quote": "is open to foreign nationals, and as a Dutch citizen you would count as one [S178]",
+    "explanation": "The nationality criterion is marked UNKNOWN in the context. The answer treats Dutch eligibility as settled, although the evidence only says foreign nationals can apply to the international programme.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. Deadlines are correctly identified as passed or not stated, funding is not overstated, and the main barriers are flagged (Muslim religion, B2 German, BAföG, guarantor, financial need, work experience). The only problem is a minor treatment of S178 nationality as confirmed when the context marks it UNKNOWN."
+ }
+}

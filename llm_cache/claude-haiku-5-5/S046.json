@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "REGION:non-European scientists and European junior scientists",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:02-01",
+   "annual:06-01",
+   "annual:10-01"
+  ],
+  "field_of_study": "basic biomedical research",
+  "funding_type": [
+   "stipend",
+   "travel"
+  ],
+  "other_hard": "first university entrance qualification within 8 years (96 months) before the application deadline; must start doctoral project or have just started, preliminary results not expected; no more than 6 months since project start at deadline",
+  "evidence_sentence": "Target Group Outstanding European junior scientists who want to do research worldwide, and non-European scientists wishing to do research in Europe.",
+  "host_country": "",
+  "notes": "Target group text describes European and non-European junior scientists rather than a list of eligible nationalities, so nationality_rule is a best-fit REGION label; host country not stated as a single country (research at internationally leading laboratory, Germany and US examples given); page is a DAAD listing and the award may be described for the whole programme; criteria include outstanding academic record, research proposal quality and laboratory excellence; minimum GPA not stated; deadlines listed as 1 February, 1 June and 1 October each year; funding amounts include base amount 1,650 EUR plus country allowance; priority/selection criteria not treated as requirements."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3316,
+  "output_tokens": 464
+ },
+ "hash": "39727a448aefc363"
+}

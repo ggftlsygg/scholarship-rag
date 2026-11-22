@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "80%",
+  "gpa_scale": "percentage average",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "nutrition; HIV/AIDS research; infant nutrition; donor human milk",
+  "funding_type": [
+   "full",
+   "stipend"
+  ],
+  "other_hard": "knowledge related to HIV/AIDS, infant nutrition, and donor human milk; experience working with Indigenous communities",
+  "evidence_sentence": "Eligibility Requirements for University of Saskatchewan Graduate Scholarship To be considered for the University of Saskatchewan Graduate Scholarship, you must meet the following criteria: A cumulative weighted average from your undergraduate degree of at least 80% Knowledge related to HIV/AIDS, infant nutrition, and donor human milk, and experience working with Indigenous communities Qualitative research experience, including experience conducting focus groups, private interviews, and thematic analysis, is an asset (but not a requirement) Strong organizational and time management skills Ability to work independently and meet deadlines Strong writen and verbal communication skills Benefits of University of Saskatchewan Graduate Scholarship The candidate will be provided with a stipend and will also be expected to apply for internal and external scholarships.",
+  "host_country": "Canada",
+  "notes": "The page is a specific research position (Cochrane Laboratory, Department of Nutrition) rather than a general scholarship; it describes a single opportunity with a stipend and tuition waiver. Nationality is stated as 'All Countries' in the summary, but the page also says 'from all origin'. Deadline is not stated; rolling is inferred from absence of a date, so treat with caution. Qualitative research experience is an asset, not a requirement. The 80% is described as cumulative weighted average from undergraduate degree, which is a condition of entry. Full scholarship is listed in summary while benefits section mentions only a stipend; funding_type includes full per summary."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3178,
+  "output_tokens": 676
+ },
+ "hash": "b333645b52fa7f2e"
+}

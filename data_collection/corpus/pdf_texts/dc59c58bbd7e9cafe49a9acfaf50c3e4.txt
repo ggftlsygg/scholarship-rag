@@ -1,0 +1,113 @@
+ 
+As of: December 2025 
+ 
+  
+The use of generative AI in the Alexander von 
+Humboldt Foundation’s selection area  
+  
+Preamble 
+Since the introduction of ChatGPT at the latest, generative artificial 
+intelligence has been increasingly shaping the academic system, being 
+used in, e.g., students’ and academics’ texts as well as in funding 
+applications. Thus, it certainly has an impact on the academic system 
+and its self-image. The best approach for science organisations is to 
+support the positive effects of this influence and prevent foreseeable 
+negative consequences as far as possible. To do so, the Humboldt 
+Foundation is reinforcing the strengths of its selection procedures and 
+continually developing them in order to future-proof itself. Against this 
+backdrop, we are continuing to monitor the development of AI 
+technologies and to share experiences with other science organisations 
+(including the DFG) and subject specialists so that, based on sound, 
+factual knowledge, any potentially necessary decisions can be 
+made. For this, an informed and responsible approach to AI is crucial, 
+in the knowledge of its possibilities and limitations, including on the 
+part of applicants and reviewers.  
+  
+Generative AI in applications  
+In principle, the Humboldt Foundation welcomes the use of AI as an 
+aid, also in the application process. For the time being, we do not 
+require applicants to identify use. Essentially, text-generating AI is a 
+tool that, historically, can be seen in the context of a series of 
+innovations, such as electronic word processing, automatic text 
+correction, and machine translation, each of which offers different 
+benefits. Generative AI can be used meaningfully and productively, for 
+example as a formulation aid. In the international academic system 
+that is dominated by the English language, it is particularly helpful for 
+non-native speakers who constitute a large proportion of the Humboldt 
+Foundation’s global target group.  
+  
+ 
+As of: December 2025 
+ 
+All the Humboldt Foundation’s programmes are designed to promote 
+people, not projects. Outlines of the research proposal, which offer the 
+greatest potential for using text-generating AI, are only one element of 
+the application documents in the fellowship programmes. In 
+accordance with the selection criteria, the proposals are evaluated by 
+subject specialists, especially concerning their originality and 
+innovative strength. In a number of tests the Humboldt Foundation 
+conducted, it was able to confirm the impression that current AI 
+systems are not able to independently develop a convincing application 
+proposal that meet these criteria.  
+As other, equally important criteria (including career history and 
+previous scientific performance) based on other documents (e.g., 
+curriculum vitae, key publications) also determine the selection 
+decision, the Foundation identified no significant risk of misuse of 
+generative AI in the application process in the sense of a potentially 
+successful attempt to intentionally deceive. To further improve the 
+basis for the decision-making, hosts are asked to describe in their 
+statements how they came into contact with the applicant and the 
+research proposal as this process may give insight into the applicant's 
+personal contribution and thus about the likelihood of an attempted 
+deceptive misuse of AI.  
+  
+Relevance for the review and selection procedure   
+To further counteract the risk of misuse, the Foundation strives even 
+more to ensure that the applicants’ innovative strength and creativity 
+are examined intensively and taken into account in the selection 
+committees’ decision-making process. In the Humboldt Foundation's 
+view, however, an attempt to prevent the potential misuse of AI by 
+means of a detection of AI-generated texts is neither expedient nor 
+feasible. Firstly, because the Foundation is basically open to the use of 
+AI as a helpful tool, as already noted. Secondly, because the rapid 
+technological progress is calling reliable detection into question. As AI 
+systems continue to be developed, it is to be expected that known 
+shortcomings in current systems regarding logical reasoning and the 
+reliability of source information will be pursued as a priority and quickly 
+ 
+As of: December 2025 
+ 
+rectified. A technical solution would also be invalid as no reliable AI 
+detection software exists as yet and would quickly become obsolete 
+anyway.  
+In order to assess the scientific quality of applications, their evaluation 
+by human subject specialists is still indispensable for the Foundation. 
+Generative AI may be used as a supporting tool in the review process, 
+insofar as confidentiality is maintained and AI is used in a reflective 
+and responsible manner. Thus, reviewers may use AI tools as an aid 
+only when it is guaranteed that no information from application 
+documents (especially personal data and information about research 
+proposals) will be processed, stored or shared for any purpose other 
+than the review, particularly not for the training of an AI system. For a 
+reflective use, it is crucial that reviewers personally assure the quality 
+of all outputs of generative AI systems that contribute to their 
+assessment. Regardless of the use of AI tools, reviewers bear full 
+responsibility for all parts of their assessment.  
+With respect to its own application of AI, the Humboldt Foundation’s 
+top priority is also maintaining confidentiality, ensuring quality, and to 
+assume responsibility for all work results produced with the help of AI 
+tools. Under no circumstances are human subject specialists to be 
+replaced with AI systems in the selection process. Instead, the 
+selection department is continually exploring whether and how AI can 
+support an equitable, case-by-case selection and deliver additional 
+information that would further underpin the selection decision.  
+It should also be mentioned that, in a different context, the Humboldt 
+Foundation is currently piloting an alternative review system, the peer- 
+circle procedure. Under this collaborative procedure a group of 
+academics reviews applications online and communicates amongst 
+themselves. In this way, comments that are technically unsound or 
+inconclusive can be challenged directly. It is conceivable that a 
+potential misuse of AI would be recognised more easily during this 
+discourse. This would, however, have to be analysed specifically, which 
+in turn assumes well-founded (scientific) knowledge about the 
+possibilities of use and misuse of AI in science.  

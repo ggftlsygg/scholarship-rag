@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "other"
+  ],
+  "nationality_rule": "ONLY:USA (citizen or permanent resident)",
+  "min_gpa": "2.5",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "applicant",
+   "part-time",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:02-28"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "high school senior; must enroll in the upcoming Fall semester as a freshman or 1st-year student; must attend an accredited U.S. institution listed on the U.S. Department of Education website; must not be a relative or dependent child of an employee of Talking Rain or any of its retail customers",
+  "evidence_sentence": "Must be a U.S. citizen or permanent legal resident of the United States.",
+  "host_country": "USA",
+  "notes": "Page lists a 2-year or 4-year program covering trade, vocational, or academic study; 'other' level included for 2-year and vocational programs. Deadline February 28th has no year, so treated as annual. The page says 'Page updated' with no date, so it may be outdated. Video submission is a required step but not an eligibility criterion. Focus pillars are not criteria. Funding amount is a $5,000 scholarship, stated as partial. Nationality rule is written as 'U.S. citizen or permanent legal resident' so ONLY:USA with qualifier. The deadline is listed on a February deadlines page URL, consistent with the annual date."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2993,
+  "output_tokens": 483
+ },
+ "hash": "13abecde250d922f"
+}

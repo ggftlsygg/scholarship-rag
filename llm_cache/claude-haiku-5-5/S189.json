@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "Second-Class (Upper) Honours",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:02-01",
+   "annual:08-10"
+  ],
+  "field_of_study": "biomedical sciences, chemistry, physics, engineering and related STEM fields",
+  "funding_type": [
+   "full",
+   "stipend"
+  ],
+  "other_hard": "international students must have completed or be on track to obtain a Bachelor's or Master's degree in a Singapore Autonomous University; obtained or on track to obtain at least Second-Class (Upper) Honours or equivalent in a relevant discipline; in the last semester of final studies to apply; satisfy the criteria for and gain admission to a PhD programme in an autonomous university; endorsement from proposed A*STAR supervisor; research conducted in whole or part at an A*STAR Research Institute",
+  "evidence_sentence": "Open to applicants of all nationalities.",
+  "host_country": "Singapore",
+  "notes": "Page also describes a Mid-Term AGS track with extra criteria (enrolled and completed at least 1 semester, on track for excellent academic standing, good research potential, current supervisor as academic referee); these are not applied here as the award is the general AGS. Application windows are given without years, so annual dates are used. Service commitment for non-SPR foreigners (3 years in Singapore-based companies) is a post-award condition, not an entry requirement. Page says criteria are not exhaustive and A*STAR may add selection criteria. Specialised tracks (Semiconductor, Quantum, Computing) receive a higher stipend. Bond-free for Singapore citizens and SPRs."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4292,
+  "output_tokens": 2080
+ },
+ "hash": "b212e31ea9bf0ca5"
+}

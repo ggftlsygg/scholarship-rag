@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [
+   "annual:04-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial",
+   "travel"
+  ],
+  "other_hard": "female students; Canadian residents (Canada awards only)",
+  "evidence_sentence": "The CREW Network Foundation scholarship program supports female students as they pursue higher education that will lead to careers in commercial real estate.",
+  "host_country": "",
+  "notes": "Page lists several awards: US undergraduate ($5,000) and graduate ($10,000) scholarships, and Canadian awards for Canadian residents ($5,000 CAD undergraduate, $10,000 CAD graduate). Graduate is read as master because no doctoral study is mentioned. Page does not state nationality, GPA, enrollment status, or field of study. Application window is Jan 5 to April 1 with no year, and the text refers to 2026 awards, so the deadline is annual. Funding is a fixed amount for tuition and books, plus a travel stipend for the convention. The page does not give the study location, so host_country is empty."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3119,
+  "output_tokens": 1371
+ },
+ "hash": "9eb4c0d881201d5e"
+}

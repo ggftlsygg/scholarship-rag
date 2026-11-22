@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "REGION:South Asia;Africa;Latin America",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:04-25"
+  ],
+  "field_of_study": "psychology and behavioural science",
+  "funding_type": [
+   "full",
+   "tuition",
+   "stipend"
+  ],
+  "other_hard": "financial need; enrolment in a one-year taught master's programme from listed PBS master's programmes; residence in or citizenship of South Asia, Africa, or Latin America",
+  "evidence_sentence": "Reside in or be citizens of South Asia, Africa, or Latin America.",
+  "host_country": "UK",
+  "notes": "Deadline 'April 25' has no year, so recorded as annual. The page refers to the '/25 academic year' and may be outdated. The summary says 'Eligible Countries: Developing Countries', but the requirements list specific regions, so the regional list was used. Residence is also accepted as an alternative to citizenship, which is a residence condition rather than nationality. Applicants must show how their study will contribute to societal impact in their home region; this is an expectation, not a stated requirement. No minimum GPA is stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3268,
+  "output_tokens": 1267
+ },
+ "hash": "66b03022b1f17813"
+}

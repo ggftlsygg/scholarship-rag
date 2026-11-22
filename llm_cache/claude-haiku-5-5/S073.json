@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ONLY:Australia;Brunei;Cambodia;China;India;Indonesia;Japan;Kazakhstan;South Korea;Laos;Malaysia;Mongolia;Myanmar;New Zealand;Pakistan;Philippines;Russia;Singapore;Thailand;Vietnam",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:05-18"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "must be part of a paired exchange under an academic cooperative arrangement between a Swedish and an Asian institution; exchange must last at least one semester (minimum 24 ECTS/16 weeks); intensive language courses are not honored; Swedish side must be an EU national student",
+  "evidence_sentence": "The host institution shall be resided in 20 Asian countries.",
+  "host_country": "",
+  "notes": "The page covers the 2026/27 cycle; the stated application period (April 6 through May 18, 2026) is in the past relative to today's date, so the deadline is recorded as annual and the text may be outdated. The programme is a two-way exchange: an Asian student goes to Sweden and an EU national student from a Swedish home institution goes to Asia, so host_country is left empty. Amounts are 4,000 EUR for the Asian student and 3,000 EUR for the Swedish student, for Middle and Low income countries only. Field of study is not stated. Selection criteria are at the discretion of the Swedish Selection Committee. The 20-country list is taken from the page, with Korea written as South Korea."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4712,
+  "output_tokens": 2137
+ },
+ "hash": "a1c1b84640b4a67c"
+}

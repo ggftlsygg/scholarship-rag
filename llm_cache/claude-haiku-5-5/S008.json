@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:USA (citizen or PR)",
+  "min_gpa": "3.0",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [
+   "2027-01-31"
+  ],
+  "field_of_study": "atmospheric and related oceanic or hydrologic sciences (marine biology excluded)",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "entering freshman year of college in fall 2027; plan to pursue a degree in atmospheric or related oceanic or hydrologic sciences",
+  "evidence_sentence": "Applicants must be U.S. citizens or hold permanent resident status.",
+  "host_country": "",
+  "notes": "The page says the program is open to all high school students, but the eligibility list restricts it to U.S. citizens or permanent residents; the eligibility list was used. Named scholarships are sponsored by partners under one program, so the criteria apply to the whole program. Stipend is $5000 in total, paid as $2500 per year for freshman and sophomore years; second-year funding depends on completing the first year. Encouragement to apply from women, minorities and disabled students is a preference, not a requirement. One recommendation letter is required. Host university is not named on the page."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3428,
+  "output_tokens": 1382
+ },
+ "hash": "1e30499555e7e621"
+}

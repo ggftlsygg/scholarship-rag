@@ -1,0 +1,16 @@
+{
+ "hash": "b9cd4f0dce9ae31a",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S134",
+    "type": "unsupported_claim",
+    "answer_quote": "because Kenya is not among the countries whose degrees are exempt from this requirement",
+    "explanation": "The exemption depends on the institution that awarded the degree (USA, Canada, UK, Ireland, Australia, New Zealand), not on nationality. The profile does not say where her degree is from, so this reason is unsupported and misstates the rule.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. It flags UNKNOWN criteria correctly, including the grade, the Kenya check for Sheffield, and refugee status. The only clear error is the misstated English-test exemption rule for KAUST."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ONLY:Belize;Botswana;Cameroon;Dominica;Eswatini;Fiji;Gabon;Ghana;Grenada;Guyana;Jamaica;Kenya;Kiribati;Lesotho;Malawi;Malaysia;Maldives;Mauritius;Mozambique;Namibia;Nauru;Papua New Guinea;Rwanda;Samoa;Saint Helena;Saint Lucia;Saint Vincent and the Grenadines;Sierra Leone;Solomon Islands;South Africa;Sri Lanka;Tanzania;The Gambia;Togo;Tonga;Tuvalu;Uganda;Vanuatu;Zambia",
+  "min_gpa": "upper second class honours degree",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2026-03-31"
+  ],
+  "field_of_study": "Human Rights",
+  "funding_type": [],
+  "other_hard": "financial need; English language requirements",
+  "evidence_sentence": "Scholarships for the MA Human Rights programmes are available for applicants in the following countries: • Belize • Botswana • Cameroon • Dominica • Eswatini • Fiji • Gabon • Ghana • Grenada • Guyana • Jamaica • Kenya • Kiribati • Lesotho • Malawi • Malaysia • Maldives • Mauritius • Mozambique • Namibia • Nauru • Papua New Guinea • Rwanda • Samoa • Saint Helena • Saint Lucia • Saint Vincent and the Grenadines • Samoa • Sierra Leone • Solomon Islands • South Africa • Sri Lanka • Tanzania • The Gambia • Togo • Tonga • Tuvalu • Uganda • Vanuatu • Zambia To qualify, you must meet the entry requirements by holding an undergraduate degree (e.g. bachelor) comparable to a UK upper second class honours degree, plus English language requirements.",
+  "host_country": "UK",
+  "notes": "Page is a general Commonwealth Scholarships page from the University of London; the listed countries apply to the MA Human Rights scholarships only, and the page refers to full requirements on another page. The deadline shown is the CSC application deadline, dated 31 March 2026, which is in the past relative to today (2026-11-21), so the page appears outdated. Selection prioritises financial need and academic merit; encouragement to apply for inclusive practice and marginalised-group experience is a preference only. The 'upper second class' entry requirement is stated as a condition for holding a bachelor's degree, not a GPA. Funding type is not explicitly stated as a value on the page. The evidence sentence is a verbatim excerpt combining the country list heading and the qualification sentence, since no single sentence contains the full country list."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3307,
+  "output_tokens": 970
+ },
+ "hash": "9ac50fd85fd3798c"
+}

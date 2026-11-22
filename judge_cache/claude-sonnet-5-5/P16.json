@@ -1,0 +1,23 @@
+{
+ "hash": "6ad0f39211836dc0",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S027",
+    "type": "deadline_error",
+    "answer_quote": "so check whether that window is still open",
+    "explanation": "The context lists an annual deadline of 11-12, which has already passed (today is 2026-11-21). The answer leaves the window as possibly open and never mentions the November 12 deadline, unlike the other scholarships where it says the deadline has passed.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S177",
+    "type": "unsupported_claim",
+    "answer_quote": "with only a limited portion for other international students",
+    "explanation": "The context says a limited portion of international students who meet the BAföG §8 criteria, and limited funding for other EU citizens. It does not say there is a portion for other international students generally.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer follows the context closely. It handles the unknown deadline for S009 correctly and flags the barriers for S058, S178 and S177. The weaknesses are that it does not say the S027 deadline of Nov 12 has passed, and that it slightly overstates what S177 offers to non-BAföG international students."
+ }
+}

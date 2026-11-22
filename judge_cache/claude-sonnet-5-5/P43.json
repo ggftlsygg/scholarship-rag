@@ -1,0 +1,30 @@
+{
+ "hash": "6538c6b3b451168d",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S069",
+    "type": "unsupported_claim",
+    "answer_quote": "The listed eligible countries shown in the evidence do not include France",
+    "explanation": "Nationality is UNKNOWN and the country list in the passage is truncated, so absence of France cannot be concluded.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S177",
+    "type": "deadline_error",
+    "answer_quote": "The annual deadline of 10-01 has already passed for 2026, so check the next cycle",
+    "explanation": "The deadline is marked UNKNOWN in the context, with only a recurring 10-01 date given. Stating it as passed for 2026 is an inference presented as fact.",
+    "severity": "low"
+   },
+   {
+    "scholarship_id": "S087",
+    "type": "missed_barrier",
+    "answer_quote": "Confirmed matches are the master's level, the applicant status, the French nationality entry, and the 2026-12-15 deadline",
+    "explanation": "The answer omits other conditions the student needs to check, such as at least one year of undergraduate study at a foreign university and not having previously applied. The answer also says nothing about the requirement to be enrolled in master 1 at ENS-PSL.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer mostly follows the context. It handles the residence and field mismatches, the passed S208 deadline, and the partial and full funding labels correctly. Minor issues: the claim that France is absent from the DAAD list is unsupported, the S177 deadline is stated more firmly than the context allows, and some ENS conditions are not mentioned."
+ }
+}

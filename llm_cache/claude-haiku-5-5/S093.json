@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "stipend"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "Erasmus Mundus Joint Masters are high-level and integrated study programmes, at master level.",
+  "host_country": "",
+  "notes": "The page is mainly written for higher education institutions applying to run an EMJM programme, not for individual students. Individual criteria are not stated: the only scholarship detail is EU scholarship for individuals of €1,400 per month (max. 24 months), with no nationality, GPA, field, or enrollment rules. The page says scholarships go to the best students worldwide, which is not an explicit statement that all nationalities are eligible, so nationality_rule is left empty. It also says there are no calls open at the moment and the next round opens towards the end of the year, with no specific deadline date. Host country is empty because the programme involves study periods in several countries. The page does not describe individual eligibility, so the scholarship's criteria may be incomplete."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3134,
+  "output_tokens": 957
+ },
+ "hash": "a6dfe244144e1df5"
+}

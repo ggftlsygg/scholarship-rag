@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "admitted",
+   "enrolled"
+  ],
+  "deadline": [
+   "annual:10-01"
+  ],
+  "field_of_study": "ANY (PhD funding excludes medicine, dentistry and veterinary medicine)",
+  "funding_type": [],
+  "other_hard": "Applicants must reside in Germany for their course of study; plan to return to their home country after completing their education; German language proficiency B2 or above; political and social engagement in line with the aims of the Rosa-Luxemburg-Stiftung; proof of above-average academic achievement; Master's students must be enrolled at a state or state-recognized German university; students in state examination or diploma courses must have completed basic studies; PhD students must be accepted at a German university; for study scholarships, German passport holders or immigrants with prospects of permanent residence in Germany under BAfoeG §8 (a limited portion of international students meeting these criteria; limited funding for other EU citizens)",
+  "evidence_sentence": "Funding is available to students from all disciplines and all state-approved institutions of higher education who meet the requirements sets out in §8 of the German Federal Law on Education and Training (Bundesausbildungsförderungsgesetz, BAföG), namely students holding a German passport and immigrants with prospects of residing in Germany permanently.",
+  "host_country": "Germany",
+  "notes": "Scholarship Department page covers several programmes with different criteria: International Scholarships (foreign Master and PhD students temporarily residing in Germany), Study Scholarships (undergraduate and Master, mainly German nationals and BAfoeG §8 groups; starting from second semester), Lux like Studium (school students from non-academic backgrounds, from first semester) and PhD Scholarships (funding usually three years). Nationality_rule ALL reflects the page intro ('from Germany and abroad'), but undergraduate study scholarships are restricted by BAfoeG §8. Preference (not requirement) for women, students of non-academic and migrant backgrounds, the socially needy and people with disabilities; applications from scientific and technical disciplines and technical college graduates actively encouraged. No minimum GPA or grade stated; 'above-average academic achievement' is a selection criterion only. Deadline 1 October for grants starting the following summer semester (1 April); no year given, so annual. Direct application principle; documents cannot be sent by post. Page is only available in German. Enrollment status varies by programme (applicant for school students, enrolled for Master, accepted for PhD). Funding type not specified in text."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3732,
+  "output_tokens": 3064
+ },
+ "hash": "99af1f54123318b9"
+}

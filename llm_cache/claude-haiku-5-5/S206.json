@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:USA (citizen or PR)",
+  "min_gpa": "3.3",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:09-15"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "high school senior; Pell-eligible; from a low-income household; enrolling full-time in a four-year degree program at a US accredited, not-for-profit college or university",
+  "evidence_sentence": "To apply, students must be: - A high school senior - Pell-eligible - A US citizen or permanent resident - In good academic standing with a minimum cumulative weighted GPA of 3.3 on a 4.0 scale (or equivalent).",
+  "host_country": "USA",
+  "notes": "Page lists the 2026 deadline of Sept 15 2026, which is past as of today, so the annual date is used. Top 10% class rank, leadership and personal success skills are described as an ideal candidate, so they are preferences, not requirements. Funding covers the full cost of attendance not already covered by other aid and the Student Aid Index. The 3.3 GPA is an entry requirement under basic eligibility."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3053,
+  "output_tokens": 1616
+ },
+ "hash": "268c1f8262ac8b4c"
+}

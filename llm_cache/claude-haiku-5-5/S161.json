@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:Egypt",
+  "min_gpa": "3.5 or 90%",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:07-31"
+  ],
+  "field_of_study": "Engineering (excluding computer engineering and computer science); Economics; Finance; Management",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "Residence in Egypt; English test TOEFL iBT 100 or IELTS Academic 7.5; SAT I 1450 or ACT 32 within 2 years; involvement in extracurricular activities; planning to start studies in the U.S. in 2027; study only at University of Chicago, Stanford University, University of Pennsylvania, Harvard University or MIT; commitment to return to Egypt for two years after graduation",
+  "evidence_sentence": "Through the Onsi Sawiris Scholarship Program, Orascom Construction provides fully funded scholarships for Egyptian students to pursue bachelor’s degree programs at prestigious universities in the United States in fields that will promote the economic prosperity of Egypt.",
+  "host_country": "USA",
+  "notes": "Deadline July 31, 2026 is already past as of 2026-11-21, so the page text appears outdated; the annual date is given. Preference (not requirement) given to applicants who have not resided, worked or studied abroad for more than two years, and dual nationality applicants are not preferred. Applicants completing grade 11 or 12 are eligible; the GPA 3.5 or 90% can be replaced by an equivalent national or international high school score. Computer science and computer engineering programmes are not covered. Scholarship award is made once university acceptance is obtained."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3956,
+  "output_tokens": 1634
+ },
+ "hash": "9e15418dea1c96ef"
+}

@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [
+   "annual:05-01"
+  ],
+  "field_of_study": "STEM",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "U.S. military personnel; accredited four-year college or university in the U.S.",
+  "evidence_sentence": "Recipients must be currently enrolled and attending classes in an undergraduate program part time or full time in an eligible STEM major degree program at an accredited four-year college or university in the U.S.",
+  "host_country": "USA",
+  "notes": "Page lists a $2,500 award amount but does not say whether it is a fixed amount; funding_type set to partial based on the fixed sum. Nationality not explicitly stated; the page describes support for U.S. military personnel, which is not a citizenship rule, so nationality_rule left empty. Deadline May 1 has no year, so recorded as annual. Page text is a summary listing and may not reflect the full AFCEA program terms."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2642,
+  "output_tokens": 348
+ },
+ "hash": "36a528360ea00d36"
+}

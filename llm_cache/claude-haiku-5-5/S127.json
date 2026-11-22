@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-01-14"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "minority high school student; demonstrated financial need",
+  "evidence_sentence": "The JRF scholarship is awarded to outstanding high school graduates who plan to earn a baccalaureate degree from an accredited, four-year college or university.",
+  "host_country": "",
+  "notes": "Page lists Academic Disciplines as Medical Sciences, but no eligibility text restricts the field, so field_of_study is left empty. The page tags the program as Funds International Students, but no nationality rule is stated in the text. The page mentions leadership potential as a selection factor, which is not a hard requirement. Award is up to $30,000 over four years. The page text contains a typo in the foundation name (Roinson). The host institution is chosen by the applicant, so host_country is unknown. The page says the program was recently updated, so the deadline may need checking."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2888,
+  "output_tokens": 1247
+ },
+ "hash": "6d10e3f4e4d5df49"
+}

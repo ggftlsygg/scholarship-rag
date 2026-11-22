@@ -1,0 +1,8 @@
+{
+ "hash": "4d59bba450f1019b",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "yes",
+  "overall": "The answer follows the expected behaviour. It recommends only S136, whose stated deadline of 2026-12-15 falls in the window. It excludes S134 (3 Jan 2027, Round 1 already passed), S082 (15 Jan 2027) and S104 (1 Jun 2027) as outside the window. It treats S208's 2 August 2026 deadline as passed and points to the next annual cycle, and it invents no dates. Unknown criteria are labelled unknown, and funding is described accurately."
+ }
+}

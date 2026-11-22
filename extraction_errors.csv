@@ -1,0 +1,571 @@
+extractor,id,field,gold,pred
+regex,S009,degree_levels,bachelor;other,bachelor
+regex,S016,degree_levels,master,
+regex,S047,degree_levels,phd;postdoc,bachelor;phd;postdoc
+regex,S055,degree_levels,bachelor;other,bachelor;master;other
+regex,S057,degree_levels,bachelor;master,bachelor
+regex,S066,degree_levels,phd,master;phd
+regex,S067,degree_levels,master,bachelor;master
+regex,S070,degree_levels,master;phd;postdoc;other,master;phd;postdoc
+regex,S073,degree_levels,bachelor;master,bachelor;master;other
+regex,S082,degree_levels,master;phd,bachelor;master;phd
+regex,S088,degree_levels,bachelor;master,bachelor
+regex,S097,degree_levels,phd,bachelor;master;phd
+regex,S099,degree_levels,phd,bachelor;master;phd
+regex,S107,degree_levels,phd,bachelor;master;phd
+regex,S110,degree_levels,master,bachelor
+regex,S111,degree_levels,phd,master;phd
+regex,S112,degree_levels,master;phd,bachelor;master;phd;other
+regex,S114,degree_levels,bachelor;master,master
+regex,S120,degree_levels,phd,master;phd
+regex,S125,degree_levels,bachelor,
+regex,S136,degree_levels,master;phd,bachelor;master;phd
+regex,S141,degree_levels,bachelor;master;other,master;other
+regex,S145,degree_levels,other,bachelor;other
+regex,S157,degree_levels,bachelor,bachelor;master
+regex,S159,degree_levels,master,
+regex,S168,degree_levels,master,
+regex,S170,degree_levels,master,bachelor;master;phd
+regex,S174,degree_levels,bachelor;other,bachelor;master
+regex,S188,degree_levels,bachelor,
+regex,S204,degree_levels,master,bachelor;master
+regex,S213,degree_levels,master;other,master
+regex,S223,degree_levels,master,bachelor;master;phd
+regex,S224,degree_levels,bachelor,bachelor;master
+regex,S235,degree_levels,master;phd,bachelor;master;phd
+regex,S035,degree_levels,bachelor;master;phd,bachelor;phd
+regex,S053,degree_levels,bachelor;other,bachelor;master
+regex,S068,degree_levels,master,bachelor;master
+regex,S069,degree_levels,master;phd,phd
+regex,S091,degree_levels,bachelor;master,bachelor;master;phd
+regex,S092,degree_levels,master,bachelor;master
+regex,S115,degree_levels,other,bachelor;other
+regex,S179,degree_levels,master;other,master
+regex,S225,degree_levels,bachelor;master,bachelor;master;other
+regex,S231,degree_levels,master;phd,master;phd;postdoc
+regex,S242,degree_levels,master,bachelor;master
+regex,S007,degree_levels,bachelor;other,bachelor;master;phd;other
+regex,S014,degree_levels,bachelor;master,master
+regex,S020,degree_levels,bachelor;master,bachelor;master;phd
+regex,S028,degree_levels,bachelor,bachelor;master;phd
+regex,S030,degree_levels,master,bachelor;master
+regex,S034,degree_levels,master;phd,
+regex,S037,degree_levels,master;phd,bachelor;master;phd;postdoc
+regex,S046,degree_levels,phd,bachelor;master;phd
+regex,S060,degree_levels,postdoc;other,master;phd
+regex,S061,degree_levels,master;phd,
+regex,S063,degree_levels,master,bachelor;master
+regex,S064,degree_levels,bachelor,bachelor;master
+regex,S074,degree_levels,phd,master;phd
+regex,S104,degree_levels,master;phd;other,bachelor;master;phd
+regex,S108,degree_levels,other,bachelor
+regex,S113,degree_levels,master,bachelor;master
+regex,S124,degree_levels,master;phd,bachelor;master;phd;other
+regex,S127,degree_levels,bachelor,
+regex,S132,degree_levels,bachelor;other,
+regex,S139,degree_levels,master;other,master
+regex,S144,degree_levels,bachelor,other
+regex,S151,degree_levels,bachelor,
+regex,S166,degree_levels,bachelor,master
+regex,S171,degree_levels,,bachelor
+regex,S177,degree_levels,bachelor;master;phd,bachelor;master;phd;other
+regex,S178,degree_levels,bachelor;master,bachelor;master;other
+regex,S185,degree_levels,master,bachelor;master
+regex,S189,degree_levels,phd,bachelor;master;phd
+regex,S193,degree_levels,bachelor,
+regex,S198,degree_levels,bachelor,
+regex,S200,degree_levels,bachelor;master,bachelor
+regex,S201,degree_levels,bachelor,
+regex,S210,degree_levels,master,bachelor;master;phd
+regex,S218,degree_levels,master,
+regex,S230,degree_levels,bachelor;master;phd;other,bachelor
+regex,S236,degree_levels,master,bachelor;master
+regex,S240,degree_levels,master,master;phd;other
+regex,S009,nationality_rule,ONLY:Nigeria,
+regex,S021,nationality_rule,"ONLY:USA (work-authorized: citizen, PR or EAD)",
+regex,S031,nationality_rule,REGION:Australia Awards participating (developing) countries,ONLY:Australia
+regex,S038,nationality_rule,ALL,
+regex,S039,nationality_rule,ALL,
+regex,S041,nationality_rule,ALL,INTERNATIONAL
+regex,S047,nationality_rule,REGION:Europe (non-Europeans eligible if working in or travelling to Europe),INTERNATIONAL
+regex,S048,nationality_rule,INTERNATIONAL,ALL
+regex,S055,nationality_rule,,ONLY:Canada;USA
+regex,S065,nationality_rule,ONLY:Belize;Botswana;Cameroon;Dominica;Eswatini;Fiji;Gabon;Ghana;Grenada;Guyana;Jamaica;Kenya;Kiribati;Lesotho;Malawi;Malaysia;Maldives;Mauritius;Mozambique;Namibia;Nauru;Papua New Guinea;Rwanda;Samoa;Saint Helena;Saint Lucia;Saint Vincent and the Grenadines;Sierra Leone;Solomon Islands;South Africa;Sri Lanka;Tanzania;The Gambia;Togo;Tonga;Tuvalu;Uganda;Vanuatu;Zambia,
+regex,S066,nationality_rule,ALL,INTERNATIONAL
+regex,S070,nationality_rule,EXCLUDE:Germany,
+regex,S073,nationality_rule,"REGION:EU nationals (Swedish side) / 20 listed Asian countries incl. Japan, Kazakhstan (Asian side)",
+regex,S079,nationality_rule,ALL,INTERNATIONAL
+regex,S088,nationality_rule,,INTERNATIONAL
+regex,S093,nationality_rule,ALL,
+regex,S094,nationality_rule,ALL,ONLY:Germany
+regex,S097,nationality_rule,ALL,INTERNATIONAL
+regex,S099,nationality_rule,ALL,INTERNATIONAL
+regex,S110,nationality_rule,INTERNATIONAL,
+regex,S111,nationality_rule,ALL,INTERNATIONAL
+regex,S112,nationality_rule,ALL,INTERNATIONAL
+regex,S114,nationality_rule,"ONLY:USA (citizen, PR or DACA)",
+regex,S120,nationality_rule,EXCLUDE:US-embargoed countries,
+regex,S149,nationality_rule,INTERNATIONAL,ALL
+regex,S167,nationality_rule,ONLY:Hong Kong (permanent resident),
+regex,S172,nationality_rule,ONLY:India,
+regex,S191,nationality_rule,ONLY:UK (home fee status),
+regex,S215,nationality_rule,,EXCLUDE:UK
+regex,S223,nationality_rule,EXCLUDE:EU;EEA;Switzerland (fee-liable non-EU students only),INTERNATIONAL
+regex,S224,nationality_rule,"ONLY:Canada (citizen, PR, protected person or refugee)",ONLY:Bangladesh;Canada;China;India;Indonesia;South Korea;Vietnam (citizen or PR)
+regex,S227,nationality_rule,INTERNATIONAL,ONLY:Sri Lanka
+regex,S229,nationality_rule,INTERNATIONAL,
+regex,S241,nationality_rule,"REGION:25 eligible countries in Africa, Asia and Latin America (nationality and residence)",
+regex,S018,nationality_rule,INTERNATIONAL,REGION:developing countries
+regex,S035,nationality_rule,,ALL
+regex,S042,nationality_rule,ALL,
+regex,S053,nationality_rule,INTERNATIONAL,ALL
+regex,S068,nationality_rule,,INTERNATIONAL
+regex,S069,nationality_rule,REGION:DAAD list of eligible developing countries,
+regex,S091,nationality_rule,EXCLUDE:EU;Switzerland;Norway (and EU dual citizens),INTERNATIONAL
+regex,S092,nationality_rule,ONLY:USA (citizen or PR),
+regex,S102,nationality_rule,ONLY:UK (home fee status),
+regex,S115,nationality_rule,ONLY:USA (citizen),
+regex,S152,nationality_rule,ONLY:Canada (citizen),
+regex,S154,nationality_rule,ALL,ONLY:Australia (citizen or PR)
+regex,S176,nationality_rule,ALL,INTERNATIONAL
+regex,S195,nationality_rule,INTERNATIONAL,EXCLUDE:Australia
+regex,S242,nationality_rule,ONLY:Netherlands,INTERNATIONAL
+regex,S002,nationality_rule,,ALL
+regex,S010,nationality_rule,ONLY:South Korea;Austria;Belgium;Bulgaria;Croatia;Czech Republic;Cyprus;Denmark;Estonia;Finland;France;Germany;Greece;Hungary;Ireland;Italy;Latvia;Lithuania;Luxembourg;Malta;Netherlands;Norway;Poland;Portugal;Romania;Slovakia;Slovenia;Spain;Sweden;Switzerland;UK,
+regex,S022,nationality_rule,EXCLUDE:USA (citizens and permanent residents),INTERNATIONAL
+regex,S032,nationality_rule,REGION:ASEAN member states and Timor-Leste,
+regex,S036,nationality_rule,"ONLY:USA (citizen, PR, refugee or asylee)",
+regex,S037,nationality_rule,ALL,INTERNATIONAL
+regex,S046,nationality_rule,REGION:Europe (non-Europeans eligible for research in Europe),
+regex,S049,nationality_rule,ALL,ONLY:USA (citizen or PR)
+regex,S050,nationality_rule,,INTERNATIONAL
+regex,S051,nationality_rule,ALL,
+regex,S056,nationality_rule,ONLY:Canada (citizen or PR),
+regex,S060,nationality_rule,"REGION:Europe (incl. UK, Israel, Switzerland, Turkey, Balkan and Baltic countries)",
+regex,S061,nationality_rule,ALL,
+regex,S063,nationality_rule,REGION:Chevening-eligible countries and territories (excl. British/dual British citizens),EXCLUDE:UK
+regex,S074,nationality_rule,ALL,INTERNATIONAL
+regex,S075,nationality_rule,ONLY:Iran,
+regex,S084,nationality_rule,ONLY:Canada (citizen),
+regex,S096,nationality_rule,,EXCLUDE:Germany
+regex,S108,nationality_rule,"REGION:participant countries (USA, France, Israel, Central/Eastern/South-Eastern Europe, Arab region)",INTERNATIONAL
+regex,S113,nationality_rule,ALL,INTERNATIONAL
+regex,S116,nationality_rule,ONLY:USA (citizen),
+regex,S117,nationality_rule,ONLY:USA (citizen or resident),
+regex,S124,nationality_rule,INTERNATIONAL,
+regex,S127,nationality_rule,,INTERNATIONAL
+regex,S130,nationality_rule,,ONLY:USA
+regex,S132,nationality_rule,ALL,
+regex,S140,nationality_rule,EXCLUDE:USA (citizens and permanent residents),INTERNATIONAL
+regex,S144,nationality_rule,ALL,INTERNATIONAL
+regex,S171,nationality_rule,ONLY:Australia;India;Japan;USA;10 Southeast Asian countries (citizens or LPR),REGION:asian countries
+regex,S177,nationality_rule,ALL,INTERNATIONAL
+regex,S178,nationality_rule,ALL,INTERNATIONAL
+regex,S192,nationality_rule,INTERNATIONAL,
+regex,S197,nationality_rule,ONLY:USA (citizen or PR),
+regex,S199,nationality_rule,REGION:selected AKF ISP countries,INTERNATIONAL
+regex,S201,nationality_rule,,INTERNATIONAL
+regex,S210,nationality_rule,REGION:Middle East (home country),INTERNATIONAL
+regex,S212,nationality_rule,ALL,INTERNATIONAL
+regex,S216,nationality_rule,"ONLY:USA (citizen, national or PR)",
+regex,S222,nationality_rule,EXCLUDE:USA (participating countries only),ONLY:USA
+regex,S246,nationality_rule,EXCLUDE:China,ONLY:China
+regex,S047,min_gpa,good academic standing,
+regex,S090,min_gpa,far above average,
+regex,S097,min_gpa,good,
+regex,S099,min_gpa,,2:1
+regex,S107,min_gpa,1.5,
+regex,S110,min_gpa,3.50,
+regex,S114,min_gpa,3.0,4.0
+regex,S125,min_gpa,3.2,
+regex,S133,min_gpa,very good,
+regex,S134,min_gpa,excellent academic standing,
+regex,S233,min_gpa,,3.0
+regex,S235,min_gpa,,2.5
+regex,S053,min_gpa,80%,
+regex,S068,min_gpa,excellent,
+regex,S069,min_gpa,top third,
+regex,S152,min_gpa,top half of class,
+regex,S239,min_gpa,85 (ATAR) / 65 (WAM),
+regex,S050,min_gpa,,75%
+regex,S080,min_gpa,above-average degree,
+regex,S144,min_gpa,2.8,
+regex,S151,min_gpa,2.75,3.5
+regex,S180,min_gpa,2:1,
+regex,S189,min_gpa,2:1,
+regex,S212,min_gpa,3.50,
+regex,S003,enrollment_status,applicant;full-time,applicant;admitted
+regex,S008,enrollment_status,applicant;full-time,full-time
+regex,S009,enrollment_status,enrolled,
+regex,S016,enrollment_status,enrolled;full-time,enrolled
+regex,S017,enrollment_status,enrolled;full-time,enrolled
+regex,S021,enrollment_status,applicant,applicant;enrolled
+regex,S025,enrollment_status,enrolled,
+regex,S031,enrollment_status,applicant;full-time,
+regex,S039,enrollment_status,enrolled,
+regex,S041,enrollment_status,admitted,
+regex,S044,enrollment_status,admitted;full-time,applicant;full-time
+regex,S047,enrollment_status,enrolled,
+regex,S048,enrollment_status,applicant,
+regex,S055,enrollment_status,applicant;full-time,applicant;enrolled;part-time
+regex,S065,enrollment_status,admitted,
+regex,S066,enrollment_status,applicant,part-time
+regex,S067,enrollment_status,applicant,
+regex,S073,enrollment_status,enrolled;full-time,admitted;enrolled
+regex,S079,enrollment_status,enrolled,
+regex,S081,enrollment_status,enrolled;full-time,full-time
+regex,S082,enrollment_status,admitted,applicant;enrolled
+regex,S085,enrollment_status,admitted,applicant;part-time
+regex,S088,enrollment_status,applicant,
+regex,S090,enrollment_status,enrolled,
+regex,S094,enrollment_status,admitted,
+regex,S095,enrollment_status,enrolled,
+regex,S101,enrollment_status,applicant,applicant;full-time
+regex,S107,enrollment_status,full-time,admitted
+regex,S110,enrollment_status,applicant,applicant;full-time
+regex,S111,enrollment_status,applicant,applicant;part-time
+regex,S112,enrollment_status,applicant;full-time,
+regex,S114,enrollment_status,applicant;full-time,
+regex,S120,enrollment_status,enrolled;full-time,enrolled
+regex,S125,enrollment_status,applicant,
+regex,S135,enrollment_status,applicant,
+regex,S142,enrollment_status,applicant,
+regex,S145,enrollment_status,applicant,
+regex,S146,enrollment_status,applicant,part-time
+regex,S157,enrollment_status,applicant,
+regex,S159,enrollment_status,admitted,applicant;admitted
+regex,S168,enrollment_status,applicant;enrolled,enrolled
+regex,S172,enrollment_status,enrolled;full-time,applicant
+regex,S174,enrollment_status,applicant;enrolled,
+regex,S182,enrollment_status,,enrolled
+regex,S183,enrollment_status,applicant,
+regex,S187,enrollment_status,enrolled;part-time,
+regex,S196,enrollment_status,enrolled;full-time,
+regex,S204,enrollment_status,applicant,admitted
+regex,S206,enrollment_status,applicant;full-time,applicant
+regex,S213,enrollment_status,admitted,applicant;admitted
+regex,S215,enrollment_status,admitted;full-time,admitted
+regex,S220,enrollment_status,admitted,
+regex,S221,enrollment_status,applicant;enrolled;full-time,applicant;enrolled
+regex,S223,enrollment_status,,applicant;admitted
+regex,S224,enrollment_status,admitted;full-time,admitted;enrolled;full-time
+regex,S227,enrollment_status,applicant,
+regex,S229,enrollment_status,admitted;full-time,admitted
+regex,S233,enrollment_status,applicant;full-time,
+regex,S235,enrollment_status,admitted,applicant;admitted;enrolled
+regex,S237,enrollment_status,,full-time
+regex,S241,enrollment_status,,admitted
+regex,S244,enrollment_status,enrolled,part-time
+regex,S018,enrollment_status,admitted;full-time,admitted
+regex,S035,enrollment_status,enrolled,
+regex,S042,enrollment_status,applicant;enrolled,
+regex,S068,enrollment_status,applicant;enrolled,
+regex,S069,enrollment_status,applicant,
+regex,S091,enrollment_status,admitted,admitted;enrolled
+regex,S115,enrollment_status,applicant,applicant;enrolled
+regex,S152,enrollment_status,enrolled,part-time
+regex,S179,enrollment_status,applicant;enrolled,
+regex,S195,enrollment_status,applicant;full-time,applicant;admitted
+regex,S207,enrollment_status,admitted;enrolled,enrolled
+regex,S225,enrollment_status,enrolled,
+regex,S231,enrollment_status,admitted;full-time,admitted
+regex,S234,enrollment_status,admitted;enrolled,applicant;admitted;enrolled
+regex,S239,enrollment_status,applicant;full-time,admitted;enrolled;full-time
+regex,S242,enrollment_status,enrolled;full-time,full-time
+regex,S007,enrollment_status,applicant;enrolled;full-time,applicant;enrolled
+regex,S010,enrollment_status,enrolled,admitted;enrolled
+regex,S011,enrollment_status,enrolled;full-time,
+regex,S022,enrollment_status,enrolled;full-time,full-time
+regex,S024,enrollment_status,admitted,applicant;enrolled
+regex,S027,enrollment_status,enrolled,
+regex,S028,enrollment_status,admitted,applicant;admitted;enrolled;full-time
+regex,S030,enrollment_status,applicant,
+regex,S033,enrollment_status,applicant;enrolled,applicant;enrolled;part-time
+regex,S034,enrollment_status,applicant;enrolled,applicant
+regex,S036,enrollment_status,applicant;enrolled,applicant
+regex,S037,enrollment_status,enrolled,
+regex,S043,enrollment_status,applicant,admitted
+regex,S046,enrollment_status,applicant;enrolled,
+regex,S049,enrollment_status,applicant,
+regex,S050,enrollment_status,,applicant
+regex,S056,enrollment_status,admitted,admitted;part-time
+regex,S058,enrollment_status,admitted;enrolled;full-time,applicant;enrolled;part-time
+regex,S060,enrollment_status,,enrolled
+regex,S061,enrollment_status,enrolled,
+regex,S063,enrollment_status,applicant,admitted
+regex,S064,enrollment_status,applicant,applicant;admitted
+regex,S074,enrollment_status,applicant;enrolled,
+regex,S075,enrollment_status,enrolled;full-time,enrolled
+regex,S080,enrollment_status,applicant,
+regex,S084,enrollment_status,enrolled;full-time,
+regex,S087,enrollment_status,applicant,admitted;enrolled
+regex,S098,enrollment_status,enrolled,
+regex,S113,enrollment_status,applicant,applicant;admitted;enrolled;part-time
+regex,S117,enrollment_status,admitted;enrolled;full-time,applicant;admitted;enrolled
+regex,S123,enrollment_status,enrolled;full-time,
+regex,S124,enrollment_status,admitted;enrolled;full-time,admitted;part-time
+regex,S127,enrollment_status,applicant,
+regex,S132,enrollment_status,applicant;admitted;enrolled,enrolled;part-time
+regex,S139,enrollment_status,admitted,admitted;enrolled
+regex,S143,enrollment_status,admitted,applicant;admitted
+regex,S144,enrollment_status,admitted;full-time,applicant;admitted
+regex,S151,enrollment_status,admitted;full-time,
+regex,S161,enrollment_status,applicant,
+regex,S163,enrollment_status,admitted;enrolled,enrolled
+regex,S166,enrollment_status,admitted,
+regex,S177,enrollment_status,admitted;enrolled,enrolled
+regex,S178,enrollment_status,admitted;enrolled,enrolled;full-time
+regex,S180,enrollment_status,enrolled,
+regex,S185,enrollment_status,applicant,enrolled
+regex,S186,enrollment_status,applicant,
+regex,S189,enrollment_status,applicant;enrolled,
+regex,S192,enrollment_status,admitted;full-time,applicant;admitted
+regex,S193,enrollment_status,applicant,admitted
+regex,S198,enrollment_status,admitted;full-time,applicant
+regex,S199,enrollment_status,admitted;full-time,applicant;admitted;enrolled;part-time
+regex,S200,enrollment_status,admitted;enrolled,applicant;admitted
+regex,S201,enrollment_status,applicant,
+regex,S208,enrollment_status,admitted,applicant;admitted;enrolled
+regex,S212,enrollment_status,applicant,applicant;admitted
+regex,S218,enrollment_status,admitted,applicant;admitted
+regex,S222,enrollment_status,,enrolled
+regex,S230,enrollment_status,enrolled,
+regex,S232,enrollment_status,applicant;enrolled,enrolled;full-time
+regex,S240,enrollment_status,admitted,
+regex,S246,enrollment_status,applicant,
+regex,S247,enrollment_status,applicant;enrolled,
+regex,S017,deadline,annual:11-30,annual:08-01
+regex,S041,deadline,annual:03-01;annual:09-01,annual:03-01
+regex,S045,deadline,annual:03-16,
+regex,S055,deadline,2026-12-15,rolling
+regex,S057,deadline,annual:04-01,
+regex,S065,deadline,annual:03-31,annual:03-31;annual:03-16;annual:06
+regex,S073,deadline,annual:05-18,annual:06
+regex,S090,deadline,annual:11-11,
+regex,S097,deadline,annual:12-01;annual:06-01,2026-12-01;annual:12-01;annual:06-01
+regex,S110,deadline,annual:11-01;annual:05-31,annual:11-01
+regex,S134,deadline,2027-01-03,2027-01-03;annual:09-27
+regex,S141,deadline,2027-01-05,
+regex,S146,deadline,annual:03-01,annual:05-31;2027-01-01;annual:11-01
+regex,S149,deadline,annual:11-01,annual:11-01;2027-01-15
+regex,S156,deadline,annual:01-15;annual:03-01,
+regex,S167,deadline,,rolling
+regex,S170,deadline,annual:05-20,
+regex,S174,deadline,2026-12-31,
+regex,S204,deadline,,rolling
+regex,S223,deadline,,2027-08-31;annual:08-01
+regex,S224,deadline,,annual:01-28;annual:03-31;annual:10-16;annual:03-15
+regex,S227,deadline,2027-03-19,2027-05;2027-07
+regex,S229,deadline,annual:08,rolling
+regex,S235,deadline,2027-02-06,2027-02-06;2027-03-28
+regex,S237,deadline,annual:01-31,annual:10-16;annual:01-31
+regex,S018,deadline,2027-06-01,2027-06-01;2027-09
+regex,S042,deadline,2027-03,
+regex,S068,deadline,annual:05-19;annual:06-30,annual:05-19
+regex,S091,deadline,2027-01-13;2027-04-01;annual:10-18;annual:11-29,2027-01-13;2027-04-01;annual:10-18
+regex,S115,deadline,2027-06-15,
+regex,S209,deadline,annual:02,
+regex,S234,deadline,annual:06-15;annual:11-01;annual:04-01,annual:06-15
+regex,S010,deadline,,annual:06
+regex,S028,deadline,2027-04-01,2027-04-01;2027-05-27;annual:03-26;2026-12-10
+regex,S030,deadline,annual:01-23,
+regex,S034,deadline,annual:08-31;annual:10-31;annual:04-15,annual:08-31;annual:04-15
+regex,S043,deadline,annual:07-12,
+regex,S046,deadline,annual:02-01;annual:06-01;annual:10-01,annual:02-01
+regex,S049,deadline,annual:12-01,
+regex,S051,deadline,2027-05-31,2027-05-31;annual:05-31
+regex,S058,deadline,annual:05-15;annual:10-15,annual:05-15
+regex,S074,deadline,,annual:02-01
+regex,S087,deadline,annual:12-15,2026-12-15
+regex,S104,deadline,2027-06-01,2027-06
+regex,S108,deadline,annual:07,
+regex,S117,deadline,annual:05-22,
+regex,S123,deadline,rolling,
+regex,S127,deadline,2027-01-14,
+regex,S140,deadline,2027-04-09,annual:04-09;annual:05-01
+regex,S189,deadline,annual:02-01;annual:08-10,
+regex,S193,deadline,annual:12-01,
+regex,S197,deadline,2026-12-01,
+regex,S201,deadline,annual:11-01;2027-02-01;2027-06-01,annual:11-01;2027-02-01
+regex,S208,deadline,annual:08-02,annual:08-28;annual:10-12;annual:07-15
+regex,S212,deadline,annual:12-04,annual:11-02;annual:12-04
+regex,S216,deadline,annual:04-15,
+regex,S240,deadline,annual:03-31,annual:03-25;annual:03-31
+regex,S246,deadline,annual:03-01,
+haiku,S009,degree_levels,bachelor;other,bachelor
+haiku,S031,degree_levels,bachelor;master;phd,bachelor;master
+haiku,S070,degree_levels,master;phd;postdoc;other,bachelor;master;phd;postdoc;other
+haiku,S088,degree_levels,bachelor;master,bachelor
+haiku,S112,degree_levels,master;phd,master;phd;other
+haiku,S135,degree_levels,,master;phd
+haiku,S174,degree_levels,bachelor;other,bachelor
+haiku,S182,degree_levels,master,master;other
+haiku,S235,degree_levels,master;phd,master;phd;other
+haiku,S053,degree_levels,bachelor;other,bachelor
+haiku,S069,degree_levels,master;phd,master
+haiku,S242,degree_levels,master,bachelor;master
+haiku,S024,degree_levels,bachelor,
+haiku,S060,degree_levels,postdoc;other,other
+haiku,S061,degree_levels,master;phd,
+haiku,S104,degree_levels,master;phd;other,master;phd
+haiku,S139,degree_levels,master;other,master
+haiku,S144,degree_levels,bachelor,
+haiku,S166,degree_levels,bachelor,
+haiku,S193,degree_levels,bachelor,
+haiku,S198,degree_levels,bachelor,
+haiku,S222,degree_levels,master;phd,master;phd;other
+haiku,S021,nationality_rule,"ONLY:USA (work-authorized: citizen, PR or EAD)",
+haiku,S047,nationality_rule,REGION:Europe (non-Europeans eligible if working in or travelling to Europe),ALL
+haiku,S055,nationality_rule,,ONLY:USA;Canada;Puerto Rico;Guam
+haiku,S070,nationality_rule,EXCLUDE:Germany,INTERNATIONAL
+haiku,S073,nationality_rule,"REGION:EU nationals (Swedish side) / 20 listed Asian countries incl. Japan, Kazakhstan (Asian side)",ONLY:Australia;Brunei;Cambodia;China;India;Indonesia;Japan;Kazakhstan;South Korea;Laos;Malaysia;Mongolia;Myanmar;New Zealand;Pakistan;Philippines;Russia;Singapore;Thailand;Vietnam
+haiku,S085,nationality_rule,,ALL
+haiku,S088,nationality_rule,,INTERNATIONAL
+haiku,S093,nationality_rule,ALL,
+haiku,S097,nationality_rule,ALL,
+haiku,S120,nationality_rule,EXCLUDE:US-embargoed countries,EXCLUDE:U.S. embargoed countries
+haiku,S135,nationality_rule,,ALL
+haiku,S167,nationality_rule,ONLY:Hong Kong (permanent resident),
+haiku,S215,nationality_rule,,REGION:developing countries
+haiku,S221,nationality_rule,INTERNATIONAL,
+haiku,S223,nationality_rule,EXCLUDE:EU;EEA;Switzerland (fee-liable non-EU students only),REGION:outside EU/EEA and Switzerland
+haiku,S229,nationality_rule,INTERNATIONAL,ONLY:Afghanistan;Albania;Algeria;Andorra;Angola;Anguilla;Antigua and Barbuda;Argentina;Armenia;Australia;Austria;Azerbaijan;Bahamas;Bahrain;Bangladesh;Barbados;Belarus;Belgium;Belize;Benin;Bermuda;Bhutan;Bolivia;Bosnia and Herzegovina;Botswana;Brazil;British Virgin Islands;Brunei;Bulgaria;Burkina Faso;Burundi;Cambodia;Cameroon;Canada;Cape Verde;Cayman Islands;Central African Republic;Chad;Chile;China;Colombia;Comoros;Congo;DR Congo;Costa Rica;Cote d'Ivoire;Croatia;Cuba;Cyprus;Czech Republic;Denmark;Djibouti;Dominica;Dominican Republic;East Timor;Ecuador;Egypt;El Salvador;Equatorial Guinea;Eritrea;Estonia;Eswatini;Ethiopia;Falkland Islands;Fiji;Finland;France;Gabon;Gambia;Georgia;Germany;Ghana;Greece;Grenada;Guatemala;Guinea;Guinea Bissau;Guyana;Haiti;Honduras;Hong Kong;Hungary;Iceland;India;Indonesia;Iran;Iraq;Ireland;Israel;Italy;Jamaica;Japan;Jordan;Kazakhstan;Kenya;Kiribati;North Korea;South Korea;Kosovo;Kuwait;Kyrgyzstan;Laos;Latvia;Lebanon;Lesotho;Liberia;Libya;Liechtenstein;Lithuania;Luxembourg;Macedonia;Madagascar;Malawi;Malaysia;Maldives;Mali;Malta;Marshall Islands;Mauritania;Mauritius;Mexico;Micronesia;Moldova;Monaco;Mongolia;Montenegro;Morocco;Mozambique;Myanmar;Namibia;Nauru;Nepal;Netherlands;New Zealand;Nicaragua;Niger;Nigeria;Norway;Oman;Pakistan;Palau;Palestine;Panama;Papua New Guinea;Paraguay;Peru;Philippines;Poland;Portugal;Qatar;Romania;Russia;Rwanda;Samoa;San Marino;Sao Tome and Principe;Saudi Arabia;Senegal;Serbia;Seychelles;Sierra Leone;Singapore;Slovakia;Slovenia;Solomon Islands;Somalia;South Africa;South Sudan;Spain;Sri Lanka;St Kitts and Nevis;St Lucia;St Vincent and the Grenadines;Sudan;Suriname;Sweden;Switzerland;Syria;Taiwan;Tajikistan;Tanzania;Thailand;Togo;Tonga;Trinidad and Tobago;Tunisia;Turkmenistan;Turks and Caicos Islands;Tuvalu;Türkiye;Uganda;Ukraine;United Arab Emirates;USA;Uruguay;Uzbekistan;Vanuatu;Vatican City;Venezuela;Vietnam;Yemen;Zambia;Zimbabwe
+haiku,S018,nationality_rule,INTERNATIONAL,
+haiku,S035,nationality_rule,,ALL
+haiku,S091,nationality_rule,EXCLUDE:EU;Switzerland;Norway (and EU dual citizens),REGION:non-European Union states
+haiku,S195,nationality_rule,INTERNATIONAL,EXCLUDE:Australia
+haiku,S225,nationality_rule,,ALL
+haiku,S002,nationality_rule,,ALL
+haiku,S022,nationality_rule,EXCLUDE:USA (citizens and permanent residents),INTERNATIONAL
+haiku,S033,nationality_rule,ALL,
+haiku,S063,nationality_rule,REGION:Chevening-eligible countries and territories (excl. British/dual British citizens),ONLY:Chevening-eligible countries
+haiku,S098,nationality_rule,,ALL
+haiku,S140,nationality_rule,EXCLUDE:USA (citizens and permanent residents),INTERNATIONAL
+haiku,S144,nationality_rule,ALL,
+haiku,S171,nationality_rule,ONLY:Australia;India;Japan;USA;10 Southeast Asian countries (citizens or LPR),ONLY:Australia;India;Japan;USA (citizen or PR)
+haiku,S173,nationality_rule,,ALL
+haiku,S178,nationality_rule,ALL,
+haiku,S192,nationality_rule,INTERNATIONAL,
+haiku,S201,nationality_rule,,ALL
+haiku,S212,nationality_rule,ALL,
+haiku,S230,nationality_rule,,ALL
+haiku,S246,nationality_rule,EXCLUDE:China,INTERNATIONAL
+haiku,S016,min_gpa,3.3,
+haiku,S041,min_gpa,,very good
+haiku,S047,min_gpa,good academic standing,
+haiku,S099,min_gpa,,outstanding and highly successful academic record
+haiku,S134,min_gpa,excellent academic standing,
+haiku,S149,min_gpa,3.5,
+haiku,S157,min_gpa,2.50,excellent academic records
+haiku,S224,min_gpa,85%,
+haiku,S152,min_gpa,top half of class,
+haiku,S176,min_gpa,,excellent academic record
+haiku,S007,min_gpa,2.75,
+haiku,S051,min_gpa,,excellent academic background
+haiku,S144,min_gpa,2.8,
+haiku,S151,min_gpa,2.75,
+haiku,S178,min_gpa,,excellent
+haiku,S189,min_gpa,2:1,Second-Class (Upper) Honours
+haiku,S199,min_gpa,,excellent academic records
+haiku,S246,min_gpa,,excellent academic record
+haiku,S016,enrollment_status,enrolled;full-time,applicant;enrolled;full-time
+haiku,S044,enrollment_status,admitted;full-time,applicant
+haiku,S047,enrollment_status,enrolled,applicant
+haiku,S055,enrollment_status,applicant;full-time,applicant
+haiku,S065,enrollment_status,admitted,applicant
+haiku,S078,enrollment_status,admitted,applicant
+haiku,S082,enrollment_status,admitted,applicant
+haiku,S085,enrollment_status,admitted,applicant
+haiku,S086,enrollment_status,,applicant
+haiku,S090,enrollment_status,enrolled,applicant
+haiku,S094,enrollment_status,admitted,applicant
+haiku,S097,enrollment_status,admitted,applicant
+haiku,S107,enrollment_status,full-time,applicant
+haiku,S112,enrollment_status,applicant;full-time,applicant
+haiku,S133,enrollment_status,,applicant
+haiku,S134,enrollment_status,,applicant
+haiku,S136,enrollment_status,,applicant
+haiku,S156,enrollment_status,admitted,applicant
+haiku,S170,enrollment_status,,applicant
+haiku,S172,enrollment_status,enrolled;full-time,applicant;full-time
+haiku,S174,enrollment_status,applicant;enrolled,applicant
+haiku,S182,enrollment_status,,enrolled
+haiku,S213,enrollment_status,admitted,
+haiku,S221,enrollment_status,applicant;enrolled;full-time,applicant
+haiku,S223,enrollment_status,,applicant;full-time
+haiku,S224,enrollment_status,admitted;full-time,applicant;full-time
+haiku,S235,enrollment_status,admitted,
+haiku,S237,enrollment_status,,applicant
+haiku,S241,enrollment_status,,applicant
+haiku,S042,enrollment_status,applicant;enrolled,applicant
+haiku,S068,enrollment_status,applicant;enrolled,applicant
+haiku,S091,enrollment_status,admitted,applicant
+haiku,S179,enrollment_status,applicant;enrolled,applicant
+haiku,S209,enrollment_status,,applicant
+haiku,S225,enrollment_status,enrolled,applicant
+haiku,S231,enrollment_status,admitted;full-time,applicant;full-time
+haiku,S234,enrollment_status,admitted;enrolled,admitted
+haiku,S007,enrollment_status,applicant;enrolled;full-time,applicant;full-time
+haiku,S022,enrollment_status,enrolled;full-time,applicant;full-time
+haiku,S024,enrollment_status,admitted,
+haiku,S033,enrollment_status,applicant;enrolled,applicant
+haiku,S034,enrollment_status,applicant;enrolled,applicant
+haiku,S036,enrollment_status,applicant;enrolled,
+haiku,S037,enrollment_status,enrolled,applicant
+haiku,S046,enrollment_status,applicant;enrolled,applicant
+haiku,S050,enrollment_status,,applicant
+haiku,S056,enrollment_status,admitted,applicant
+haiku,S058,enrollment_status,admitted;enrolled;full-time,applicant;admitted;enrolled;full-time
+haiku,S060,enrollment_status,,applicant
+haiku,S089,enrollment_status,,applicant
+haiku,S098,enrollment_status,enrolled,applicant
+haiku,S104,enrollment_status,,applicant
+haiku,S108,enrollment_status,,applicant
+haiku,S117,enrollment_status,admitted;enrolled;full-time,admitted;enrolled
+haiku,S124,enrollment_status,admitted;enrolled;full-time,applicant
+haiku,S130,enrollment_status,admitted,applicant
+haiku,S132,enrollment_status,applicant;admitted;enrolled,applicant;enrolled
+haiku,S140,enrollment_status,admitted;full-time,applicant;full-time
+haiku,S144,enrollment_status,admitted;full-time,applicant
+haiku,S151,enrollment_status,admitted;full-time,applicant
+haiku,S153,enrollment_status,,applicant
+haiku,S163,enrollment_status,admitted;enrolled,applicant;enrolled
+haiku,S166,enrollment_status,admitted,applicant
+haiku,S173,enrollment_status,admitted,admitted;enrolled
+haiku,S177,enrollment_status,admitted;enrolled,applicant;admitted;enrolled
+haiku,S178,enrollment_status,admitted;enrolled,applicant;enrolled;full-time
+haiku,S189,enrollment_status,applicant;enrolled,applicant
+haiku,S193,enrollment_status,applicant,admitted
+haiku,S198,enrollment_status,admitted;full-time,applicant
+haiku,S200,enrollment_status,admitted;enrolled,applicant
+haiku,S210,enrollment_status,,applicant
+haiku,S222,enrollment_status,,applicant
+haiku,S236,enrollment_status,,applicant
+haiku,S240,enrollment_status,admitted,applicant
+haiku,S247,enrollment_status,applicant;enrolled,applicant
+haiku,S094,deadline,,rolling
+haiku,S097,deadline,annual:12-01;annual:06-01,2026-12-01;annual:06-01
+haiku,S112,deadline,,rolling
+haiku,S133,deadline,,rolling
+haiku,S134,deadline,2027-01-03,2027-01-03;annual:09-27
+haiku,S174,deadline,2026-12-31,annual:03-31;annual:06-30;annual:09-30;2026-12-31
+haiku,S211,deadline,,rolling
+haiku,S220,deadline,,rolling
+haiku,S224,deadline,,annual:01-31
+haiku,S229,deadline,annual:08,rolling
+haiku,S235,deadline,2027-02-06,
+haiku,S042,deadline,2027-03,2027-03-03
+haiku,S195,deadline,,2027-06-30
+haiku,S231,deadline,,rolling
+haiku,S024,deadline,annual:11-15;2027-03-15,
+haiku,S033,deadline,,rolling
+haiku,S034,deadline,annual:08-31;annual:10-31;annual:04-15,rolling;annual:08-31;annual:10-31;annual:04-15
+haiku,S087,deadline,annual:12-15,2026-12-15
+haiku,S124,deadline,,rolling
+haiku,S130,deadline,,annual:08-01;annual:12-01
+haiku,S139,deadline,,2026-12;2027-05
+haiku,S198,deadline,annual:07-31;annual:01-15,2027-01-15;2027-07-31
+haiku,S201,deadline,annual:11-01;2027-02-01;2027-06-01,2027-02-01;2027-06-01
+haiku,S212,deadline,annual:12-04,2026-12-04;annual:11-02
+haiku,S236,deadline,,rolling
+haiku,S246,deadline,annual:03-01,annual:12-01;annual:03-01

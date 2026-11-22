@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "3.3",
+  "gpa_scale": "University of Alberta grading scale",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "Business administration (MBA)",
+  "funding_type": [],
+  "other_hard": "demonstrated interest in working in the non-profit sector",
+  "evidence_sentence": "Awarded annually to a student registered in year one or year two of a Master of Business Administration degree program.",
+  "host_country": "Canada",
+  "notes": "No application deadline stated; page gives only Term: Winter and Application: Required. Award amount and funding type not stated. Selection is based on satisfactory academic standing (equivalent to GPA 3.3 or greater on the University of Alberta scale) and interest in the non-profit sector; the page does not say whether the 3.3 applies to entry or only to selection. Both full-time and part-time students are eligible, so no study-mode restriction is recorded. Nationality is not stated. The URL is a general MBA awards index page, so the text may cover more than this single award."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2696,
+  "output_tokens": 1236
+ },
+ "hash": "b716da42e8108889"
+}

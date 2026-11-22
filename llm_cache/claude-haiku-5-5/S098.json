@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "business",
+  "funding_type": [],
+  "other_hard": "female gender identity; registered in Master of Business Administration degree at Alberta School of Business",
+  "evidence_sentence": "Awarded to a student who identifies as female that registered full- or part-time in any year of a Master of Business Administration degree in the Alberta School of Business.",
+  "host_country": "Canada",
+  "notes": "Page lists no application deadline (only term Spring/Summer and application required). Study load full or part time is allowed, so no mode restriction. Nationality not restricted in text, so ALL is inferred from absence of restriction; 'Preference is given to a student with a background in Nursing' is a preference and is placed here only as a note. Enrollment status 'applicant' is inferred from 'Application: Required'."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2622,
+  "output_tokens": 318
+ },
+ "hash": "7507dced0797a054"
+}

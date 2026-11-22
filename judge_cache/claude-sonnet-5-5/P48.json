@@ -1,0 +1,16 @@
+{
+ "hash": "4a2ffc6c77460f26",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S124",
+    "type": "missed_barrier",
+    "answer_quote": "is open to international students for master's study at a German university [S124]",
+    "explanation": "The answer does not say the program requires enrolment or acceptance at a German university, and the student is only an applicant, so this needs checking.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. It flags UNKNOWN criteria (grade, nationality for S067 and S199, Muslim religion, field fit), states the funding types correctly, and reads the deadlines correctly. The only gap is that it omits the acceptance-at-a-German-university requirement for S124."
+ }
+}

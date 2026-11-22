@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:02"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "Through scholarships, the Fund supports fellows’ graduate or undergraduate study at an accredited institution based in the United States.",
+  "host_country": "USA",
+  "notes": "Preferred (not required): graduate students and undergraduates with one year of college completed; residents of or students at schools in listed US states. The Fund seeks candidates whose daily actions are guided by spiritual values (stated as a seek, not a requirement). Grants are $5,000 to $7,000 and renewable each year of the degree program; fellows must maintain high standards, provide yearly transcripts and attend one Pendle Hill Weekend yearly (conditions to keep the award, not entry). Deadline is February each year with no day given. No nationality or GPA requirement stated. Field of study not restricted in the text, so ANY was used."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3345,
+  "output_tokens": 1437
+ },
+ "hash": "48a7d71f14e9d87d"
+}

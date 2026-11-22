@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "3.50",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:12-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "Must apply as a first-year student for the fall semester; not eligible as transfer, Dix, or spring semester applicant; record of taking college prep, AP, honors, or IB courses; English proficiency required for non-native English speakers; community involvement required; passion for chosen field of study demonstrated; formal essay required",
+  "evidence_sentence": "Transfer, Dix, and spring semester applicants are not eligible.",
+  "host_country": "USA",
+  "notes": "Standardized test scores are optional (28+ ACT or 1300+ SAT). Interview required for finalists in February. Covers full tuition, mandatory fees (except health insurance), and room and board for four years, which supersedes any previous merit scholarship. The page does not state a nationality rule. Deadline December 1 has no year, so annual format is used. Field of study not restricted in text. Essay prompt is the application requirement, not a scholarship amount criterion. Honors Program mention is an interest note only."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3069,
+  "output_tokens": 409
+ },
+ "hash": "3e54950a43dfd895"
+}

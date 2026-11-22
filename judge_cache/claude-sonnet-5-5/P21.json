@@ -1,0 +1,8 @@
+{
+ "hash": "f8e7fb2fd195dbed",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "n/a",
+  "overall": "Every claim in the answer is backed by the context. UNKNOWN criteria are labelled UNKNOWN, funding types match, and deadlines are read correctly against today's date (2026-11-21). The hedged Dalhousie October 31 note is also fine. The only gaps are minor omissions, such as the A*STAR supervisor endorsement and the KAUST health requirement, which do not mislead the student."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY (excluding Bond Medical Program)",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "excludes Bond Medical Program; merit-based selection for high academic achievers",
+  "evidence_sentence": "Bond International Undergraduate Excellence Scholarships provide tuition remission scholarships to high academic achievers, applying to study a bachelor's degree.",
+  "host_country": "Australia",
+  "notes": "Page lists 'See list of eligible countries: All countries' but the list itself is not in the text; nationality is inferred as INTERNATIONAL from the scholarship name and wording. No minimum GPA or application deadline is stated. Intake semesters are January, May or September. Award is 50% tuition remission, so classed as partial rather than full."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2717,
+  "output_tokens": 1420
+ },
+ "hash": "8dfa4944d0cbec41"
+}

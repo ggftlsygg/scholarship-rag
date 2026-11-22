@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [],
+  "other_hard": "Child of a current or former Foreign Service employee who is an AFSA member, with the AFSA membership valid and not lapsed; not a child of AFSA Scholarship Committee members; for Financial Aid: claimed as a dependent on the most recent IRS tax form, minimum GPA of 2.75, demonstrated financial need; for Merit: not a previous Academic, Art, or Community Service Merit award winner, and gap-year applicants must apply within one year of high school graduation with no post-secondary coursework taken after graduation",
+  "evidence_sentence": "Be the child of a current or former member of the Foreign Service, whose parent(s) is also a member of the American Foreign Service Association (AFSA).",
+  "host_country": "",
+  "notes": "List page with different criteria per award. Financial Aid minimum GPA is 2.75 (no scale stated). Merit minimum GPA is 3.25 on a 4.0 scale for Academic Merit and 2.75 on a 4.0 scale for Art and Community Service Merit, so min_gpa and gpa_scale are left empty. Nationality is not stated; eligibility depends on a parent's Foreign Service membership. Degree levels: bachelor covers college/university programs; associate and trade/vocational programs are mapped to other. No application deadline is stated. Financial Aid must be reapplied for each year; Merit awards are one-time. Financial Aid cannot reduce university scholarships or grants. Host country is not stated. No award amounts are stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3769,
+  "output_tokens": 1766
+ },
+ "hash": "ac0c748c2699f75a"
+}

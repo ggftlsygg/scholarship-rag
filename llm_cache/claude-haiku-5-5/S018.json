@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted",
+   "full-time"
+  ],
+  "deadline": [
+   "2027-06-01"
+  ],
+  "field_of_study": "International Development; International Law and Global Justice; International Political Economy; Global Journalism; International Public and Political Communication",
+  "funding_type": [
+   "full",
+   "tuition",
+   "stipend"
+  ],
+  "other_hard": "permanently domiciled in one of the listed low or lower middle income countries (World Bank 2026); not already hold a qualification of equivalent or higher level; not previously studied outside country of residence; not a sponsored student; self-funded and required to pay overseas tuition fee; cannot be combined with other funding awards; must start full-time in person in Autumn 2027",
+  "evidence_sentence": "you must be permanently domiciled in one of the countries or territories listed below.",
+  "host_country": "UK",
+  "notes": "Nationality field left empty because the country list is a domicile (residence) requirement, so it is placed in other_hard. Minimum academic standard is only 'academically strong individuals', with no grade stated. Offer must be held by 7 May 2027 (shortlisting 14 May 2027); application deadline 1 June 2027 at 1pm UK time. Priority to under-represented groups where applications are of equal standing is a preference, not a requirement. Scholarship applies only to listed courses; the page covers three awards in 2027 and courses are listed as MSc, LLM and MA."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4588,
+  "output_tokens": 1945
+ },
+ "hash": "3786494c7e1ae4ea"
+}

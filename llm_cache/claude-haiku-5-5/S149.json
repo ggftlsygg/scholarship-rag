@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2026-11-01"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Must have non-U.S. residency status and be applying from a school outside the United States; English proficiency required for non-U.S. citizens whose first language is not English (TOEFL, IELTS, or Duolingo); high school GPA between 3.5 and 4.0",
+  "evidence_sentence": "Must have non-U.S. residency status and be applying from a school outside the United States.",
+  "host_country": "USA",
+  "notes": "Page lists several awards (#YouAreWelcomeHere, President's, Provost's, Dean's, 1855, Beaumont Tower, Global Community) with different annual amounts; the amounts are tuition grants, so funding is partial. Page says Eligible Countries is All Countries but eligibility text requires non-U.S. residency, so nationality is recorded as INTERNATIONAL. The GPA 3.5-4.0 is stated as a high school GPA requirement for freshmen, scale not stated. Page also says ACT/SAT scores are optional for some and competitive. Page text is a third-party summary; the deadline of November 1, 2026 is listed as the closing date. Rolling consideration of remaining awards after November 1 is mentioned in the text but the listed deadline is 2026-11-01. Related scholarship links in page are unrelated and ignored. Page title says 'for International Students' while text refers to 'international undergraduate' scholarships; the 2026 intake is referenced."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3643,
+  "output_tokens": 567
+ },
+ "hash": "fbee86e9e4fd7250"
+}

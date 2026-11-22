@@ -1,0 +1,23 @@
+{
+ "hash": "c6facd1a10bba8af",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S177",
+    "type": "missed_barrier",
+    "answer_quote": "The page also refers to a BAföG §8 framework, which applies only to a limited number of international students, so the funding is restricted.",
+    "explanation": "The answer does not say that the §8 criteria require a German passport or prospects of permanent residence in Germany, which the student's profile does not show and which needs checking. It also calls S177 the 'strongest match' without that caveat.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S035",
+    "type": "missed_barrier",
+    "answer_quote": "Eligibility depends on where you study. The programme is for students at higher education institutions in Baden-Württemberg or their partner institutions abroad [S035]",
+    "explanation": "The answer omits the condition that the programme funds 1 or 2 exchange semesters at a partner institution. This means it is not a general scholarship for students already enrolled.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. It marks UNKNOWN criteria correctly, states the partial and stipend funding correctly, and handles the passed 10-01 deadlines reasonably. Two omissions are the BAföG §8 residence/passport requirement for S177 and the exchange-semester condition for S035."
+ }
+}

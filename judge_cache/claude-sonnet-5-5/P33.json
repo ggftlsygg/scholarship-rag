@@ -1,0 +1,23 @@
+{
+ "hash": "90d1513f658664f0",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S177",
+    "type": "deadline_error",
+    "answer_quote": "The annual deadline of 10-01 has already passed for 2026, so check the next cycle",
+    "explanation": "The context marks the deadline as UNKNOWN (annual:10-01) and does not confirm which cycle it belongs to, yet the answer states flatly that it has passed.",
+    "severity": "low"
+   },
+   {
+    "scholarship_id": "S177",
+    "type": "unsupported_claim",
+    "answer_quote": "the evidence says funding is restricted for most applicants under the German BAföG §8 rules",
+    "explanation": "The evidence only says funding is for those meeting §8 (German passport holders or immigrants with prospects of permanent residence). The 'limited portion' wording comes from the conditions, and nothing says 'most applicants' are restricted.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. Funding types, deadlines, matches and UNKNOWN items are largely handled correctly. Two minor issues concern the Rosa-Luxemburg-Stiftung entry: how its funding restriction is characterised and how its deadline status is stated."
+ }
+}

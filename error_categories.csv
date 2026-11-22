@@ -1,0 +1,9 @@
+category,issues,answers,high_or_medium,description,root_cause
+INST,12,12,5,Tie to a specific university/programme not flagged,no structured host-institution field; the tie sits inside free-text 'Other conditions'
+BARRIER,13,11,8,Other decisive condition missed or softened,long 'Other conditions' lists; the model reports some conditions and skips the decisive one
+OVERCONF,9,7,4,Unchecked/UNKNOWN condition presented as met,context shows MATCH for the five core checks and the model generalises it to overall fit
+MISREAD,15,14,3,Detail misread or drifted from a noisy/truncated passage,scraped passages are truncated or have glued headings; the model fills gaps
+FIELD,5,4,4,Field-of-study mismatch stretched,"ranking ignores field of study, so off-field awards reach the top-5"
+COMPARE,3,3,3,Wrong 'only / strongest' claim across the list,superlatives need a check across all items; funding type is multi-valued (full;partial)
+DEADLINE,3,3,2,Deadline misread,"context gives raw dates (annual:MM-DD, YYYY-MM) instead of a computed status"
+SCALE,2,2,1,Grade scales mixed (German 1.5 vs US 3.7),"context shows the raw threshold, not the converted 4.0 value used by the filter"

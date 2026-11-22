@@ -1,0 +1,16 @@
+{
+ "hash": "32029e4510d135a1",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S134",
+    "type": "deadline_error",
+    "answer_quote": "The deadline is 2027-01-03, which is still ahead of today's date ([S134]).",
+    "explanation": "The context lists two deadlines, 2027-01-03 and annual:09-27. The answer omits the annual 09-27 date, which has already passed this year, so the deadline picture is incomplete.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. It marks UNKNOWN criteria as UNKNOWN, correctly calls Helsinki partial, and does not overstate funding for Qingdao. It also handles the passed Qingdao deadline correctly. The only flaw found is the incomplete deadline treatment for S134."
+ }
+}

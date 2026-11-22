@@ -1,0 +1,22 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "previous study at a University of London Federation Member (City, Goldsmiths, Queen Mary, School of Advanced Studies, University of London or University of London in Paris)",
+  "evidence_sentence": "Federation Member Alumni bursaries are only available if you have studied at one of the following University of London Federation Members: City, Goldsmiths, Queen Mary, School of Advanced Studies, University of London or University of London in Paris.",
+  "host_country": "UK",
+  "notes": "The deadline is relative: the request must be submitted at least 2 weeks before the registration deadline for the applicant's programme, so no fixed date is given. Degree levels, funding amount and funding type are not stated on the page. The page does not say which programmes or levels the bursary covers."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2645,
+  "output_tokens": 957
+ },
+ "hash": "0c5b02649422b077"
+}

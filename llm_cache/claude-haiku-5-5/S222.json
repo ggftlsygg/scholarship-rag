@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd",
+   "other"
+  ],
+  "nationality_rule": "EXCLUDE:USA",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [],
+  "other_hard": "Applicant must be a non-U.S. citizen from a country listed in the program dropdown menu; country not listed means not eligible",
+  "evidence_sentence": "The Fulbright Foreign Student Program enables graduate students, young professionals and artists from abroad to study and conduct research in the United States.",
+  "host_country": "USA",
+  "notes": "Page is an overview of the Foreign Student Program; eligibility and deadlines vary by home country and are set by binational Fulbright Commissions or U.S. Embassies, not stated on this page. Degree levels inferred from 'graduate students' wording; the page does not explicitly list master, PhD or other levels. Funding type not stated. Deadlines not stated. Eligibility and selection procedures vary widely by country, so the exact requirements are not given here. Page does not state a specific award amount or GPA."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3342,
+  "output_tokens": 374
+ },
+ "hash": "83450900deeae316"
+}

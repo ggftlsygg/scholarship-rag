@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "stipend"
+  ],
+  "other_hard": "enrolment at a higher education institution in Baden-Württemberg or a partner institution abroad; exchange semesters of 1 or 2 semesters at a partner institution",
+  "evidence_sentence": "The programme is intended for highly qualified undergraduates, graduates and doctoral candidates from all disciplines at institutions of higher education in Baden-Württemberg and their partner institutions abroad.",
+  "host_country": "Germany",
+  "notes": "Exchange-based mobility programme; funding period 3 to 11 months; amount 800 to 1,400 EUR per month depending on location and progress; applications handled by International Offices of home institutions, deadline varies and is not stated; nationality is not restricted but half of scholarships go to Baden-Württemberg students going abroad and half to candidates coming to Baden-Württemberg; page lists no explicit nationality rule; host country is Germany for incoming students but abroad for outgoing ones."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3284,
+  "output_tokens": 406
+ },
+ "hash": "dab8f83eed05a343"
+}

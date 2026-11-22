@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "upper second class",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "annual:08-02"
+  ],
+  "field_of_study": "Refugee Protection and Forced Migration Studies",
+  "funding_type": [],
+  "other_hard": "Residence in a low or middle income country, the Middle East or Latin America; unable to take up the place due to financial circumstances; distance-learning MA programme; not currently studying for a University of London award; undergraduate degree comparable to UK upper second class honours in law or other relevant subject",
+  "evidence_sentence": "Have the offer of a place on the MA in Refugee Protection and Forced Migration Studies the “MA Programme”) by distance-learning;",
+  "host_country": "UK",
+  "notes": "Page text is outdated: the stated deadline (2 August 2026) is before today's date, so an annual date is given. Applications from those with a refugee/displacement background are particularly encouraged (preference, not requirement). Applicants who already hold a Master's will not usually be privileged (preference). The page does not state the award amount; it says costs not directly payable to the University are not covered, but does not explicitly state tuition coverage, so funding_type is left empty. The award may be held over to the following year if no suitable candidates are identified. Nationality is not stated; the residence requirement is recorded in other_hard."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3246,
+  "output_tokens": 1775
+ },
+ "hash": "caed5612343ed643"
+}

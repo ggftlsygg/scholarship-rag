@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "attend the current session of an American Legion Boys State or Girls State program; direct descendant (child, grandchild, great-grandchild, or legally adopted child) of a wartime U.S. military veteran who served on active duty during an officially designated war period",
+  "evidence_sentence": "Scholarship applications are limited to students between their junior and senior years of high school who attend the current session of either an American Legion Boys State or American Legion Auxiliary Girls State program and are direct descendants, specifically, a child, a grandchild, a great-grandchild, or a legally adopted child of a wartime U.S. military veteran who served on active duty during at least one of the periods of war officially designated as eligibility dates for American Legion membership.",
+  "host_country": "",
+  "notes": "Deadline is tied to Day 1 of the Boys State or Girls State program, with no calendar date given. Awards are $10,000 (ten National Scholars), $5,000 (ten National Runners-Up), and $1,250 (remaining Department Finalists). Winners are selected by academic record, school involvement and community service, with no minimum grade stated. Three bonus points for descendants of Korean War Era veterans are a preference, not a requirement. No nationality, field of study or study location is stated; funds may be used for undergraduate studies, so bachelor is inferred from that wording."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3451,
+  "output_tokens": 1554
+ },
+ "hash": "4686cab6689c3c21"
+}

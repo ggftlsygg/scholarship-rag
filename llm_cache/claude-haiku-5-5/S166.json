@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:11-01",
+   "annual:04-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Phi Theta Kappa membership; transfer student status",
+  "evidence_sentence": "Only Phi Theta Kappa members can be recipients",
+  "host_country": "USA",
+  "notes": "Page does not state the degree level, nationality rules, GPA, or field of study. Eligibility excludes continuing or graduate students. Deadlines are for the transfer application (Nov 1 for spring, Apr 1 for fall) and carry no year, so they are recorded as annual. Award is renewable annually, but no renewal conditions are given. Host country USA is inferred from the .edu domain only. Proof of membership is required at admission."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2965,
+  "output_tokens": 1445
+ },
+ "hash": "051a6991990a06cd"
+}

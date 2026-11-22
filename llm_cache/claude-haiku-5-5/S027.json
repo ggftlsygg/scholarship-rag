@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "2.5",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [
+   "annual:11-12"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "minimum 12 credit hours in the semester of application; good moral character with no disciplinary action on record; achievements in AUS extracurricular activities (Active Student Scholarship) or active participation in AUS varsity teams (Athletic Scholarship) for Spring 2026 and Fall 2026",
+  "evidence_sentence": "Undergraduate student with a minimum of 12 credit hours in the semester that the application is submitted",
+  "host_country": "UAE",
+  "notes": "List page with two awards: the Active Student Scholarship and the Athletic Scholarship. Shared criteria are listed; the achievement criteria differ by award. Name does not specify which award, so the shared criteria are used. Deadline November 12, 2026 is already past as of 2026-11-21, so it is stored as annual. Page says Spring 2027 applications open October 5, 2026, which is also past, so the text may be outdated. Nationality, field of study and GPA scale are not stated. Encouragement for clubs, volunteers and leaders is a preference and is not listed as a requirement. Tuition remission is up to 25 percent for one semester, so it is partial funding."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3312,
+  "output_tokens": 1575
+ },
+ "hash": "149f03fac52441be"
+}

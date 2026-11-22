@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "travel"
+  ],
+  "other_hard": "exchange must be abroad and last at least 2 months consecutive; must earn course credits; must not receive an Erasmus, NL Scholarship Programme or Radboud Honours Academy grant; must not have received a NL or Individual Travel Grant during current study cycle; must leave more than 2 weeks after application; trip must have extra expenses (tickets, visa, accommodation, vaccinations); study programme or faculty must approve the trip; compensation covers maximum 4 months; documents must be uploaded at least 2 weeks before departure",
+  "evidence_sentence": "you are registered as a student (full-time) in a bachelor or Master's study programme at Radboud University",
+  "host_country": "",
+  "notes": "Page is a Radboud University regulation for travel grants; no nationality rule or minimum GPA is stated. Applications open around May each year for the following academic year, but no fixed closing date is given; the deadline is at least 2 weeks before departure, so deadline is set to rolling. Host country is not fixed since the funded stay is abroad at any destination. Expense amounts are not stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3579,
+  "output_tokens": 1838
+ },
+ "hash": "f8d2fd8945f265e8"
+}

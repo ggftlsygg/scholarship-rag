@@ -1,0 +1,8 @@
+{
+ "hash": "ab385429e516ea20",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "yes",
+  "overall": "The answer checks age against 17 where the context gives an age condition. It flags the S241 minimum age of 19 as a clear failure and the S167 under-18 note as needing a check. It says the other pages state no age limit, so age is unknown there. It keeps UNKNOWN criteria marked UNKNOWN, gives partial or tuition-only funding correctly, handles the deadlines without error, and recommends no scholarship outside the list. Minor omissions, such as the S241 residence and English requirements, do not mislead the student."
+ }
+}

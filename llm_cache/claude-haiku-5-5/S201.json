@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-02-01",
+   "2027-06-01"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "financial need",
+  "evidence_sentence": "These highly competitive scholarships are based on excellence and are sensitive to financial need.",
+  "host_country": "Egypt",
+  "notes": "Page covers several award categories (Academic Achievement, International Diversity, Talents, Liberal Arts Majors); International Diversity applies only to international students, Talents needs videos and documents, Liberal Arts Majors is limited to listed majors, so criteria per category differ. Academic scores are a primary criterion but no minimum grade is stated. Coverage ranges from 20% to 100% of tuition. Page mentions a Spring 2027 regular deadline of November 1, 2026, which is before today, so only the future deadlines are listed. Nationality is not restricted in the text except for the International Diversity category. Priority for higher-percentage slots by earlier deadlines is a preference and is noted here only. Degree level is inferred as bachelor from high-school certificate scores and SAT/ACT evaluation; the page does not explicitly say bachelor."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4204,
+  "output_tokens": 444
+ },
+ "hash": "ef76c76b042c7971"
+}

@@ -1,0 +1,24 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "financial need",
+  "evidence_sentence": "Students who exhibit financial need are reviewed during the application process in consideration for need-based awards.",
+  "host_country": "USA",
+  "notes": "List page with several awards. The named award appears as \"Madonna Assistance Award\" in the Financial Need-Based Awards table, with amount varied based on need and need-based grant assistance. No deadline, degree level, nationality, or field is stated for this award. Enrollment status is inferred from the statement that need-based awards are reviewed during the application process. The general page text on full-time degree-seeking students applies to the high-school and transfer merit awards, not clearly to this award."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3839,
+  "output_tokens": 1218
+ },
+ "hash": "1be457372dd1b381"
+}

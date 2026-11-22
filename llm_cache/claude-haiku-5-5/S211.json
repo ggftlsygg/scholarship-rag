@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "employed at a recognised Teaching Centre for the University of London on a full time or part basis; employed for a minimum of 12 months",
+  "evidence_sentence": "You must be employed at a recognised Teaching Centre for the University of London on a full time or part basis and have been employed for a minimum of 12 months.",
+  "host_country": "UK",
+  "notes": "Page does not state degree levels, funding amount or nationality rules. Funding type partial is inferred from the bursary name only and is not stated in the text; deadline is tied to each programme's registration deadline (at least 2 weeks before), no fixed date given. Offer required before consideration. Bursary code needed for registration. Name refers to RTC Staff Bursary."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2725,
+  "output_tokens": 316
+ },
+ "hash": "c053886fef6da72f"
+}

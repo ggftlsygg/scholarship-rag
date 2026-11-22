@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "excellent academic records",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "fresh applicant (freshman or transfer student); meet all University requirements for regular admission; meet the English proficiency requirements; SAT/ACT score or national exam percentile tier for award level",
+  "evidence_sentence": "Eligible Countries: All Countries.",
+  "host_country": "USA",
+  "notes": "Award amounts range from $12,000 to $22,000 per year by tier (Foundation, Stafford, Provost, Board, NAU). Tier qualification uses SAT/ACT scores or GPA ranges (2.50-4.00), which are not clearly defined as a single entry minimum. Renewal CGPA requirements (2.25-3.75) apply only to keeping the award and are not entry criteria. No application deadline is stated; 'applications are currently ongoing' is not a stated rolling deadline. Page says 'No IELTS Required' but also requires meeting English proficiency requirements. Page mentions graduate students and alumni only in the career services description, not as scholarship recipients. Page name ('North American University') differs from the 'North America University' wording used in the text. No GPA scale is stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3269,
+  "output_tokens": 1308
+ },
+ "hash": "16f5ae8107afa113"
+}

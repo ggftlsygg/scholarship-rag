@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "United States residence",
+  "evidence_sentence": "This is open to United States residents.",
+  "host_country": "",
+  "notes": "Page gives no amount, no application deadline (only that applications open in September), no citizenship rule and no study location. Awarded to graduating high school seniors who best exemplify compassion for animals; this selection criterion is not a hard requirement. Prizes ship to US animal shelters in the 48 contiguous states, which describes the shelters, not the applicant. Page title and body are from the P.L.A.Y. sponsor and may be an outdated or unrelated listing."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2814,
+  "output_tokens": 1031
+ },
+ "hash": "b6fcc21d328bc5e9"
+}

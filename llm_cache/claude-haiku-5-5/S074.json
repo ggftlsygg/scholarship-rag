@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "Below is a list of scholarships, bursaries and awards that are open to International students, including both entrance and in-program awards.",
+  "host_country": "Canada",
+  "notes": "List page with many awards; criteria taken from the card for The Vitamin Scholarship (Doctoral, entrance or in-program, Canadian or international students, $21,000/yr, up to 2 years). The intro sentence says the list is open to International students, while the card says Canadian or international students, so ALL is used. No deadline, GPA, or field is stated for this award. Enrollment status is inferred from 'Entrance or in-program'. Funding type partial is inferred from a fixed amount, not stated as partial."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4104,
+  "output_tokens": 1400
+ },
+ "hash": "8f45830a92692522"
+}

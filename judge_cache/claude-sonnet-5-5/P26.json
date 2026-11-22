@@ -1,0 +1,16 @@
+{
+ "hash": "30e7a42b181e8423",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S178",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "is a possible fit on degree level",
+    "explanation": "The answer softens clear barriers: the international programme requires a completed bachelor's or undergraduate studies, B2 German and prior social/political engagement. The student is an 18-year-old high school applicant, so the first of these is clearly failed, not just 'not clearly met'. Calling it a 'possible fit' could mislead.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. Funding, deadline arithmetic, UNKNOWN items and the Amazon non-fit are handled correctly. The one problem is that for S178 it understates the clear barrier of a completed bachelor's or undergraduate studies and still calls it a possible fit."
+ }
+}

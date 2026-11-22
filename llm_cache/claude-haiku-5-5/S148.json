@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:12-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "self-reported ACT or SAT test scores required",
+  "evidence_sentence": "New for fall 2027, applicants must provide self-reported ACT or SAT test scores to be considered for this highly competitive opportunity.",
+  "host_country": "USA",
+  "notes": "Page does not state nationality, GPA entry requirement or field of study. A 3.50 cumulative GPA is required each year to keep the scholarship (renewal condition, not an entry requirement). Students must indicate interest on the admission application. Dec. 1 deadline has no year stated, so recorded as annual. Selection is for fifteen Presidential Fellows per year, with semi-finalists and invitation-only finalist interviews in February. Enrichment fund of up to $5,000 requires a separate application and is not a stipend. Host country inferred from the university name and .edu domain."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4093,
+  "output_tokens": 1410
+ },
+ "hash": "b95886338491eddf"
+}

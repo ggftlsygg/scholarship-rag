@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "excellent academic record",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:12-01",
+   "annual:03-01"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "stipend"
+  ],
+  "other_hard": "good health; age under 35 for Master's programme; age under 40 for doctoral programme; holder of Bachelor's degree or equivalent for Master's; holder of Master's degree or equivalent for doctoral programme; meet language proficiency and academic admission requirements for programmes taught in a language other than Chinese",
+  "evidence_sentence": "To be eligible, an applicant must: ● be a citizen of a country other than the People's Republic of China, and be in good health.",
+  "host_country": "China",
+  "notes": "Deadline stated as December 1st to March 1st with no year, treated as annual window; the text lists a free dormitory or accommodation subsidy and comprehensive medical insurance, which are not funding types in the schema. The page states the award is applied for directly to UESTC. Nationality wording is 'a citizen of a country other than the People's Republic of China', which maps to INTERNATIONAL as the closest schema value. Page has no explicit field of study restriction; ANY is used as the page does not limit subjects."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2841,
+  "output_tokens": 454
+ },
+ "hash": "52102308e62ce06a"
+}

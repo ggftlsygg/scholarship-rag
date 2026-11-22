@@ -1,0 +1,23 @@
+{
+ "hash": "4bf7d9b1b5805e11",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S094",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "Two of them, Gerda Henkel and Ernst Ludwig Ehrlich, are the most relevant to a history PhD",
+    "explanation": "The ELES programme supports Jewish candidates in all disciplines, and non-Jewish candidates only for Jewish-topic projects in Germany. Nothing in the context ties it to history, so calling it one of the most relevant history awards stretches an unrelated award and softens the field-mismatch flag.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S107",
+    "type": "other",
+    "answer_quote": "Two conditions are UNKNOWN: your degree must have been awarded no more than five years ago, and you must be no older than 27 at graduation (S107).",
+    "explanation": "The context lists these as 'Other conditions' and does not mark them UNKNOWN. The answer also says 'At 25 you are within the age limit' although the limit applies at graduation, a date the answer admits is not known.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "partly",
+  "overall": "The answer says no scholarship is specifically for history, notes that S176 and S099 do not mention history, and does not claim a history fit for the others. It still presents S094 (ELES, all disciplines or Jewish topics only) as one of the most relevant history options, which stretches an unrelated award. It also labels some Gerda Henkel conditions UNKNOWN and judges the age limit at 25 although the limit applies at graduation. The remaining details match the context."
+ }
+}

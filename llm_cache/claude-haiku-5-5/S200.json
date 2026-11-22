@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-03-24"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "financial need; child of a U.S. military service member who died on active duty on or after September 11, 2001, or who was injured on active duty on or after September 11, 2001 with a combined VA disability rating of 50% or higher; attending or accepted to an accredited U.S. institution of higher education",
+  "evidence_sentence": "Must be a high school senior or graduate who has been accepted to or is currently attending an accredited institution of higher education within the United States.",
+  "host_country": "USA",
+  "notes": "Page covers two award categories with different amounts: children of fallen post-9/11 servicemembers (up to $20,000) and children of post-9/11 veterans with a VA disability rating of 50% or higher (up to $5,000). The page does not state a citizenship requirement or subject areas. Renewal is possible up to six times if eligibility and financial need continue, but this is not an entry requirement. Deadline is for the 2027-28 academic year; awards must be used before August 1, 2028."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3663,
+  "output_tokens": 1554
+ },
+ "hash": "dfb5f04b195299d3"
+}

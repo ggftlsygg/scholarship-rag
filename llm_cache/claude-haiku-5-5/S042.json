@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-03-03"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "Erststudium for bachelor applicants; for master applicants, application before the start of the master's studies; Hochschulzugangsberechtigung obtained in Germany (domestic applicants) or abroad (international applicants)",
+  "evidence_sentence": "Bewerben können sich Studierende im Erststudium (Bachelor, Diplom, Staatsexamen).",
+  "host_country": "Germany",
+  "notes": "The page text is fragmentary: the deadline 3 March 2027 is assembled from the split sentence 'bis einschließlich 3.' and 'März 2027.' and should be verified. No funding type, amount, GPA, or field of study is stated in the text. The page says it especially wants to encourage international students whose first degree was completed in their home country; this is a preference and is noted here, not treated as a requirement. Applicants must use Adobe Acrobat Reader and the application form has limited space; these are not eligibility criteria."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3083,
+  "output_tokens": 1670
+ },
+ "hash": "aaa64eadb0a3b0aa"
+}

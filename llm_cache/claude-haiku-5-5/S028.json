@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "98 percent",
+  "gpa_scale": "percentage average",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "2027-04-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "completed secondary education outside the UAE; first-time student; enrolls in the fall semester; IELTS 7.0 or TOEFL iBT 94; portfolio with essay, three-minute video and two recommendation letters; selection depends heavily on academic excellence",
+  "evidence_sentence": "The President’s Scholarship is open to applicants who have completed their secondary education outside the UAE and covers 100 percent of tuition and lab fees and an application fee waiver.",
+  "host_country": "UAE",
+  "notes": "Page lists several scholarships; this describes only the President’s Scholarship. min_gpa 98 percent is the Other Education Systems requirement (98 percent CGPA in grades 10 and 11 and in grade 12); British, IB, American and other curricula use different thresholds (e.g., IB 40 points, A-levels, 98 percent CGPA plus APs or SAT). Nationality is not stated for this award; the only open-to-all wording concerns financial grants, not this scholarship. Applicants must receive an admission offer first. Application link opens December 2026. Monthly stipend, on-campus housing and three round-trip tickets are also included."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 14174,
+  "output_tokens": 1873
+ },
+ "hash": "f6bf305b55d96ffe"
+}

@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "New York state residence (Excelsior Scholarship Program)",
+  "evidence_sentence": "Twenty incoming first-year students receive a scholarship of $10,000 per year for up to four years of study, so long as the scholarship recipient maintains a specified GPA.",
+  "host_country": "USA",
+  "notes": "List page with several different awards (President's, Provost's, Dean's, Achievement, New York state Excelsior); the page does not describe criteria per award, so only page-wide criteria are filled. Full-time enrollment and minimum GPA are required only to maintain eligibility, not to qualify. No application process or deadline is stated; awards are considered on admission. Excelsior is managed by HESC. Priority factors such as donor preferences, majors and financial need (FAFSA) are not stated as hard requirements. No specific minimum GPA or nationality rule is stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2992,
+  "output_tokens": 1340
+ },
+ "hash": "c386168143e29e07"
+}

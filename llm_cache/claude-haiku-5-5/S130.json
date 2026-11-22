@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:08-01",
+   "annual:12-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "",
+  "evidence_sentence": "You must be a U.S. citizen, be admitted to a bachelor’s degree-granting major and plan to enroll full-time at the Kent Campus.",
+  "host_country": "USA",
+  "notes": "Page is a general overview of several Kent State scholarship programmes (first-year Ohio, first-year outside Ohio, transfer, international, ScholarshipUniverse), not one specific award; criteria differ by programme. The U.S. citizenship and full-time sentence appears to apply to only one programme, so nationality_rule and full-time status were left unset. Deadlines are from outdated text (Fall 2026 admission by 2026-08-01 and admission by 2025-12-01 have passed), so they were converted to annual dates. Certain scholarships are exclusively for international students, which conflicts with the citizenship sentence. Amounts, subject areas and GPA requirements are not stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3152,
+  "output_tokens": 1594
+ },
+ "hash": "a34f5458fe5f83e5"
+}

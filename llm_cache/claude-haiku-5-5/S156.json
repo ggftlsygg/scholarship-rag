@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:03-01",
+   "annual:01-15"
+  ],
+  "field_of_study": "social science; humanities",
+  "funding_type": [
+   "tuition"
+  ],
+  "other_hard": "demonstrated financial need; CSS Profile required; active participation in NYU Academic Achievement Program and/or Proud to Be First (P2B1) communities; must be admitted to New York University; invite-only for BMCC students",
+  "evidence_sentence": "The POISE Scholarship is a two-year, tuition-only scholarship that meets a student's demonstrated financial need to help fund their pursuit of a bachelor's degree at NYU.",
+  "host_country": "USA",
+  "notes": "Social science/humanities major, minor/pre-health track, and AAP/P2B1 participation are listed as conditions to remain eligible, so they are recorded as hard conditions only in part; the field_of_study and other_hard fields reflect them. Deadlines are given without a year (March 1 transfer application, January 15 financial aid), so they are recorded as annual. No nationality or GPA requirement is stated. Applications are invite-only for BMCC students, and the page describes up to five awards. Page is a FAQ, so the exact application procedure is unclear."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3019,
+  "output_tokens": 1529
+ },
+ "hash": "6f59483e06284248"
+}

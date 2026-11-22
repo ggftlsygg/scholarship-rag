@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:01-23"
+  ],
+  "field_of_study": "exact sciences, the arts, and the human and social sciences (except FEADéP Master's programmes) at ENS de Lyon",
+  "funding_type": [
+   "stipend",
+   "partial"
+  ],
+  "other_hard": "holds a Bachelor's degree (180 ECTS) or equivalent for M1 entry; holds a first-year Master's (240 ECTS) or equivalent for M2 entry",
+  "evidence_sentence": "The Ampère Scholarships of Excellence help excellent international students study for a Master’s at ENS de Lyon, one of France’s grandes écoles.",
+  "host_country": "France",
+  "notes": "Page also describes GRADUATE+ scholarships (€1,000 a month for 10 months) for selected Master's programmes, which are a separate award with different criteria and were not extracted. Renewal for the second year depends on selection by the Master's head and passing the first year, so it is not an entry requirement. The 2027-28 calendar is not yet published; the deadline is inferred from last year's closing date (23 January 2026) and may change. No minimum GPA is stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3085,
+  "output_tokens": 1434
+ },
+ "hash": "6f6bf0509e1d1fb0"
+}

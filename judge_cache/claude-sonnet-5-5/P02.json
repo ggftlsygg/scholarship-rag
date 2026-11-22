@@ -1,0 +1,23 @@
+{
+ "hash": "34a79389ad63b665",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S199",
+    "type": "contradicts_context",
+    "answer_quote": "is the only fully funded option in this list (funding type: full)",
+    "explanation": "S031 (Australia Awards) is also funding type full, and the answer itself later calls it fully funded, so the 'only' claim is false.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S113",
+    "type": "unsupported_claim",
+    "answer_quote": "list Kazakhstan among the nationality requirements, which matches your profile",
+    "explanation": "The context says nationality requirement is ALL (open to all). Kazakhstan is named only in one specific fellowship, not in the general nationality requirement.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer mostly follows the context and flags unknowns. It has one clear factual contradiction (S199 called the 'only' fully funded option) and one minor mischaracterisation of Harvard's nationality requirement."
+ }
+}

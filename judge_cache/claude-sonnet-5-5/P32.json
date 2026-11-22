@@ -1,0 +1,16 @@
+{
+ "hash": "39744f35dfe0d6b5",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S185",
+    "type": "unsupported_claim",
+    "answer_quote": "This scholarship is aimed at employability in future energy sectors",
+    "explanation": "The context only says \"sectors of the future\"; it never mentions energy, so this narrowing is unsupported.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer follows the context closely. It flags UNKNOWN criteria, the partial funding for S193, S091 and S225, the sport management mismatch, and the fact that S225 funds language courses rather than a master's degree. The only unsupported detail is the 'energy sectors' characterisation of S185."
+ }
+}

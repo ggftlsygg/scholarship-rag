@@ -1,0 +1,16 @@
+{
+ "hash": "9075f05b0affb223",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S235",
+    "type": "missed_barrier",
+    "answer_quote": "The most relevant passage gives priority to psychology majors and asks for an awareness of conditions for Indians on and off the reservation",
+    "explanation": "The passage says applicants must be enrolled in a graduate degree program at UM (a specific university). The answer never tells the student this or that they would have to attend UM.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context. It handles UNKNOWN criteria carefully, reads the deadlines correctly (S207 open, S178 passed) and describes funding accurately (partial, stipend). The one gap is that it omits the University of Montana's requirement to be enrolled at UM."
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "Veterinary Epidemiology and Public Health",
+  "funding_type": [],
+  "other_hard": "must be a Royal Veterinary College student or graduate; completed a 240-hour individual module before progressing to the degree programme; RVC graduates registering for the Veterinary Epidemiology and Public Health programme",
+  "evidence_sentence": "The bursary is available to the following Royal Veterinary College students: Those who have already completed a 240-hour individual module and now want to progress to the degree programme RVC graduates who now wish to register for the Veterinary Epidemiology and Public Health programme (Pg Cert, Pg Dip and MSc)",
+  "host_country": "UK",
+  "notes": "The page gives no bursary amount, no nationality rule, and no application deadline date; it only says the request must be made at least 2 weeks before the programme registration deadline. The level of the 'degree programme' is not named, so bachelor is not included. Pg Cert and Pg Dip are coded as other and MSc as master. Enrollment status is inferred from the wording and may be unclear for current versus former RVC students."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2680,
+  "output_tokens": 1529
+ },
+ "hash": "0faff961fe29d4fb"
+}

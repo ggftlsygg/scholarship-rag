@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "public policy; international affairs; public service; some awards tied to research-centre topics such as science and technology, democracy, energy and environment, education policy and health policy",
+  "funding_type": [
+   "full",
+   "partial",
+   "stipend"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "We offer a number of merit-based scholarships and fellowships for both U.S. and international students.",
+  "host_country": "USA",
+  "notes": "List page with many awards, each with different criteria; this is not a single scholarship, so only criteria applying to the whole page are filled. Many individual awards are restricted by nationality (for example Mexico, Israel and Palestine, Norway, Kazakhstan, Ukraine, Germany, Denmark), region, financial need, public-sector or military service, or alumni status, and some require admitted status or a specific programme (MPP, MPA, two-year degree, joint degree). Some awards are Harvard Kennedy School only and CGS scholarships require full-time in-residence study. Applicants must complete the HKS Financial Aid Application after applying for admission. No application deadlines are stated on the page, and funding availability varies each year. Veterans' Yellow Ribbon funding is a specific award for qualifying veterans. Page text is generic and does not state GPA requirements."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 6933,
+  "output_tokens": 1770
+ },
+ "hash": "d9417f0cb24b0132"
+}

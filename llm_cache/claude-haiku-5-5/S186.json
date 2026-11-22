@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "full",
+   "stipend",
+   "travel"
+  ],
+  "other_hard": "achieve TOPIK grade 3 within one year of mandatory Korean language training to enter the degree program",
+  "evidence_sentence": "International students applying for SNU’s graduate programs",
+  "host_country": "South Korea",
+  "notes": "No application deadline stated on the page. Selection is through the University Recommendation Program or the Embassy Recommendation Program. About 40 to 60 recipients per year. Scholarship packages are subject to change. Page does not state a GPA, field restriction or deadline."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2885,
+  "output_tokens": 1059
+ },
+ "hash": "3af8fca3d4bf6b87"
+}

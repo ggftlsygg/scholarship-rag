@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "excellent",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:05-19",
+   "annual:06-30"
+  ],
+  "field_of_study": "Artificial Intelligence and related subjects",
+  "funding_type": [
+   "stipend"
+  ],
+  "other_hard": "specific university: TU Dresden or Leipzig University",
+  "evidence_sentence": "Highly qualified (current or prospective) Master's students who have achieved excellent results in their Bachelor's studies, and who pursue Master's level studies in Artificial Intelligence, broadly conceived.",
+  "host_country": "Germany",
+  "notes": "min_gpa is the verbal target-group wording 'excellent results in their Bachelor's studies'. Nationality is not stated on the page. Special personal circumstances (e.g. disadvantage, prosecution, refugees) are taken into account but are not listed as requirements. Grant is 934 EUR monthly, up to 24 months, 20 scholarships; income above 520 EUR may reduce it (not an entry requirement). Deadlines are for winter-semester starts: 19 May (first round) and 30 June (second round). Bachelor's certificate is requested only 'if available'."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3041,
+  "output_tokens": 1651
+ },
+ "hash": "1889b90cb9619009"
+}

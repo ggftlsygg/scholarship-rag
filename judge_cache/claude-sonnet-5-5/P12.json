@@ -1,0 +1,8 @@
+{
+ "hash": "eb0a7c19193fe691",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer stays within the CONTEXT. Amounts, deadlines, funding types and conditions are quoted accurately. UNKNOWN criteria are flagged as UNKNOWN: visa type, financial need, grade comparison, and the American Indian status for S024. It correctly flags the barriers: Master's-only and Germany residence for S177, the 3rd/4th-year requirement for S180, and the bachelor's-degree requirement for S171. Passed deadlines are handled correctly. No invented scholarships were found."
+ }
+}

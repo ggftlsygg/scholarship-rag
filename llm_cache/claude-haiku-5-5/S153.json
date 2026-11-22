@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "REGION:Africa",
+  "min_gpa": "first class",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "Development Policy and Politics; relevant social science and related degrees (e.g. Social Policy, Sociology, Politics, International Relations, Development Studies)",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "domiciled or permanent resident in an African country; under 30 years of age at the time of applying; IELTS 6.5 or TOEFL 580/93 required for applicants whose first language is not English; first degree in a listed relevant subject",
+  "evidence_sentence": "Applicants must be African nationals domiciled (or permanent residents) in an African country.",
+  "host_country": "UK",
+  "notes": "Page is outdated: it states applications for 2026 entry are closed and gives no deadline for later entry. Preference (not requirement) for candidates living in Sub-Saharan Africa. Applicants who are nationals or domiciled in Sudan or Cameroon should refer to the government website, which is not described on this page. Scholarship is for a two-year programme: one-year MSc plus a one-year integrated internship (six months at the University, six months with the Mo Ibrahim Foundation in London). Page mentions an arrival allowance of £1,082 and says the internship is funded directly by the Foundation, but does not state tuition coverage, so funding type is uncertain. Page says a first class degree is essential; anyone not meeting this will not be considered."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3763,
+  "output_tokens": 1790
+ },
+ "hash": "47115341ee16ace2"
+}

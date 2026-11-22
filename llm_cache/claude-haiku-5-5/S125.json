@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "3.2",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-04-10"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Roman Catholic; either of Italian descent and living within the Roman Catholic Dioceses of California, Illinois or Nevada where Branches are established, or having a Roman Catholic parent, guardian or grandparent who is a member of the Italian Catholic Federation; attends a public or Catholic high school in California, Nevada or Illinois; children of families who join from non-established states are not eligible",
+  "evidence_sentence": "To apply, students must achieve a total cumulative GPA (3½ years) of at least 3.2 and meet one of the following:",
+  "host_country": "",
+  "notes": "Degree level bachelor is inferred from the first-year to fourth-year award structure and the high school applicant pool, not stated explicitly. Nationality is not stated. Class rank and financial need are evaluation criteria, not hard requirements. The GPA is a requirement to apply, not only to renew. Awards of 500, 600, 700 and 1000 dollars are fixed amounts, the 2nd to 4th year awards depend on renewal. Host country is not stated in the text. Application requires application form, personal assessment letter and transcript submitted together. Page is about 2027 awards."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3359,
+  "output_tokens": 1830
+ },
+ "hash": "7d223fca1921ee33"
+}

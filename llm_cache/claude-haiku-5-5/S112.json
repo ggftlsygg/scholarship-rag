@@ -1,0 +1,35 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd",
+   "other"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "full",
+   "partial",
+   "tuition",
+   "stipend"
+  ],
+  "other_hard": "Stipends are awarded to full-time graduate students serving as RA and/or TA; full-time working professionals and part-time workers exceeding 40% of full-time hours are not eligible for stipends; self-sponsored graduate students are only eligible for discounted tuition based on financial need",
+  "evidence_sentence": "Stipends are awarded to full-time graduate students who are serving at the university as RA and/or TA, depending on the availability of funds.",
+  "host_country": "Qatar",
+  "notes": "Page covers graduate (master's, PhD, certificate, LL.M.) support only; bachelor's funding is explicitly not included. Tuition waiver and stipend amounts vary by program and by nationality category (Qatari, International, Local), which are not nationality eligibility rules; the page does not state a single nationality requirement. Awards depend on available funds and are merit or need based, not guaranteed. No separate application is needed; applicants are considered during admissions. No deadline stated. No GPA stated, though maintaining good academic standing is required, and that is a condition for keeping the award. Certificate programs and LL.M. programs have 0% waiver, so they are not clearly funded. Stipend exceptions may be considered case by case. Tuition rates are listed in QAR. Supporting text is ambiguous about whether 'other' applies to certificates. Funding type 'partial' reflects discounted tuition for self-sponsored students and waivers below 100%."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4187,
+  "output_tokens": 580
+ },
+ "hash": "f48796c7cca74502"
+}

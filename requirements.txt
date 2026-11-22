@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+rank_bm25
+sentence-transformers
+matplotlib
+anthropic
+requests
+beautifulsoup4
+trafilatura
+pypdf
+streamlit

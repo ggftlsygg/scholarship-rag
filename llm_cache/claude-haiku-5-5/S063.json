@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ONLY:Chevening-eligible countries",
+  "min_gpa": "2:1",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [],
+  "other_hard": "Return to country of citizenship for minimum two years after award; at least two years (2,800 hours) of work experience; apply to three eligible UK university courses and receive an unconditional offer from one of them by July; not British or dual British citizen (unless British Overseas Territory citizen or BN(O) applying from Hong Kong); not refugee status in non-Chevening eligible country; not employee/former employee/relative of HM Government, British Council, sponsoring UK university, or ACU staff within last two years; not previously studied in UK with UK Government-funded scholarship",
+  "evidence_sentence": "To be eligible for a Chevening Scholarship you must: - Be a citizen of a Chevening-eligible country or territory.",
+  "host_country": "UK",
+  "notes": "Page is a generic Chevening page on a third-party site (expo.uw.edu) and gives no application deadline; the 2:1 is described as typically equivalent and may differ by course. Chevening-eligible country list is not given on the page. Having a prior master's does not bar a second master's. Selection takes a minimum of eight months from deadline. Page also refers to separate programme pages for Chevening Fellowships. Nationality rule is stated via citizenship of an eligible country, list not provided on page."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3538,
+  "output_tokens": 514
+ },
+ "hash": "5d5fa02a419f0fdc"
+}

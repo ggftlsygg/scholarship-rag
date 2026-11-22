@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "3.50",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2026-12-04",
+   "annual:11-02"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "partial",
+   "tuition"
+  ],
+  "other_hard": "first-time freshman; for automatic merit scholarships an official ACT composite or SAT total score must be submitted; competitive scholarships require no test score",
+  "evidence_sentence": "Below you can find full automatic scholarship information for out-of-state or international, first-time freshmen and an overview of competitive scholarships they may be eligible for.",
+  "host_country": "USA",
+  "notes": "Listing page with several awards and different criteria per award; the name does not identify one award. min_gpa 3.50 applies to the automatic awards in the table; Presidential Elite requires 4.0+ GPA and 36 ACT or 1600 SAT. Automatic awards are listed for out-of-state or international students, but the text does not state an explicit nationality rule, so it is left empty. Competitive scholarships are based on holistic review, with no stated GPA minimum. Spring 2027 deadline (November 2) is past, so it is shown as annual; Summer/Fall 2027 deadline is December 4, 2026. Students who miss the priority deadline may be considered on a funds-available basis. GPA is considered through end of junior year. Academic Common Market is for out-of-state students only. Values are amounts per year; Presidential Elite and Competitive Achievement include tuition and housing, and the Presidential Elite awards also include a $1,500 yearly supplement."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4081,
+  "output_tokens": 1920
+ },
+ "hash": "386ee8b06ca0bc23"
+}

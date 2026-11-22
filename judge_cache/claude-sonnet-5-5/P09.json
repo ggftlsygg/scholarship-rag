@@ -1,0 +1,16 @@
+{
+ "hash": "f03587553793b583",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S067",
+    "type": "missed_barrier",
+    "answer_quote": "The scholarship is for applicants interested in reliable AI research areas, such as algorithmic decision-making and robotics [S067].",
+    "explanation": "The evidence says relAI is an enhancement to a master's programme at TUM or LMU Munich, a university-specific requirement the answer never mentions, although it does flag the equivalent condition for S068.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. It marks UNKNOWN criteria as unknown, calls the stipends and partial awards non-full, and flags the Aga Khan admission and nationality uncertainty. The one notable gap is that it omits the TUM/LMU Munich requirement for relAI."
+ }
+}

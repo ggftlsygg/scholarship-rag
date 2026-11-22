@@ -1,0 +1,16 @@
+{
+ "hash": "c1ee6ef3d633ec57",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S139",
+    "type": "deadline_error",
+    "answer_quote": "The deadline window (2026-12 to 2027-05) overlaps with today's date, 2026-11-21 [S139].",
+    "explanation": "The listed dates (2026-12 and 2027-05) start after today (2026-11-21), so they do not overlap with today's date. The answer misdescribes the timing and implies the window is already open.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly accurate and flags the unknowns and barriers for S020, S143, S124 and S218. The one error is the S139 deadline, which is described as overlapping with today's date when it starts later."
+ }
+}

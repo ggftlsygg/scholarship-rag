@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2026-12-15"
+  ],
+  "field_of_study": "Arts & Humanities (Anthropology, Archeology, Classical studies, Cinema, Theater studies, History of Art, Musicology, Cognitive sciences, Economics, Political studies, Geography, History, History and Philosophy of Law, History and Philosophy of Sciences, Linguistics, Literature, Philosophy, Sociology); Sciences (Biology, Chemistry, Earthscience, Computing science, Mathematics, Physics, Cognitive sciences)",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Under 25 or 26 years old on application opening date (Arts & Humanities: must not have turned 26; Sciences: under 26 on opening day); must not have resided in France more than 10 months (Arts & Humanities) or registered in a French school more than 6 months (Sciences) during the competition academic year or the preceding year; at least one year (Arts & Humanities: three years) of undergraduate study at a foreign university; must not have previously applied to the International Selection; must be enrolled in 3rd year of bachelor or 1st year of master at ENS-PSL",
+  "evidence_sentence": "The Ecole normale supérieure - PSL aims at varying its students’ profiles and incorporates students to be enrolled in the 3rd year of bachelor (licence 3) or 1st year of master (master 1), coming from all over the world and from all disciplines.",
+  "host_country": "France",
+  "notes": "Page covers two separate competitions (Arts & Humanities and Sciences) with differing criteria: Arts & Humanities requires three years of foreign study and a 10-month French residence limit, Sciences requires one year (two at enrollment) and a 6-month French registration limit. Nationality ALL is inferred from 'coming from all over the world', not an explicit statement. Dates are inconsistent: the deadline text says 15 December 2026 and the page was updated 1/10/2026, but the date table says 2027. The 1000 euro grant is a fixed amount for 3 years; monthly payments are mentioned but the grant is not described as a full stipend. No GPA requirement is stated. Only the 2026 deadline date is used as it is in the future."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 6220,
+  "output_tokens": 2651
+ },
+ "hash": "537ca718cfa60756"
+}

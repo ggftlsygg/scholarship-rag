@@ -1,0 +1,22 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "Ordinarily resided in Hong Kong for a continuous period of not less than seven years at any time in the past; Hold a valid Hong Kong Permanent Identity Card; Not Home Fee status in the United Kingdom",
+  "evidence_sentence": "Applicants with Home Fee status in the United Kingdom are not eligible.",
+  "host_country": "UK",
+  "notes": "Page is an eligibility FAQ with no stated degree level, deadline, funding type, field of study, or enrollment status. Residence in Hong Kong and HK Permanent Identity Card are residence conditions, not citizenship, so nationality_rule is empty. Host country UK is inferred from the University of Cambridge name and the UK Home Fee reference; the page does not state the study location explicitly. Transferring to Home Fee status during study keeps the award, so it is not an entry requirement. No preference given to any examination system (HKDSE, A-levels, IB accepted equally). No age requirement stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2832,
+  "output_tokens": 1310
+ },
+ "hash": "f0b597ae3a896fab"
+}

@@ -1,0 +1,16 @@
+{
+ "hash": "5824c89c96715e52",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S113",
+    "type": "unsupported_claim",
+    "answer_quote": "it lists a programme for applicants from Germany, the Thomas R. Pickering Foreign Affairs Graduate Fellowship Program",
+    "explanation": "The passage only shows a heading fragment 'Scholarship Program (for applicants from Germany)' next to the Pickering name. It does not say the Pickering fellowship is a programme for German applicants, so this link is not supported.",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer mostly follows the context. It reports UNKNOWN criteria as unknown, does not overstate funding, and flags the barriers for S177, S178 and S069. The one real flaw is the Harvard entry, which presents the Pickering fellowship as a programme for German applicants when the passage does not support that."
+ }
+}

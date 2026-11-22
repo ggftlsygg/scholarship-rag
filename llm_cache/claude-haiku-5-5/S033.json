@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "You must submit a complete HDR admission application to the University of Sydney by the applicable deadline; Research experience is not a mandatory requirement; Students who had already commenced their research degree in Australia or who became an Australian permanent resident prior to commencement/completion are not eligible",
+  "evidence_sentence": "Students who had already commenced their research degree in Australia or who became an Australian permanent resident prior to commencement/completion are not eligible.",
+  "host_country": "Australia",
+  "notes": "Page is an FAQ, not the award terms; funding_type full is not stated explicitly and is uncertain; the page does not state citizenship or nationality rules, GPA, or field of study; the 'You may be eligible if' residency-related conditions apply to a relocation allowance context and were not treated as nationality; deadlines are referenced to an external timeline and no dates are given; the page says current enrolled students are considered in the next round and the 'enrolled' status was not added; relocation reimbursement is for International/RTP International Scholarship holders and was not clearly tied to the RTP scholarship itself; the award is described as for postgraduate research degrees (master's by research or PhD)."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4283,
+  "output_tokens": 467
+ },
+ "hash": "72ed811501bdf092"
+}

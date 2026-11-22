@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:Canada",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:01-31"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "first-time full-time enrolment in a university undergraduate program; not a mature applicant or university transfer for certain admission scholarships; Canadian citizen or permanent resident, or protected person or refugee status (general criteria, unless otherwise indicated)",
+  "evidence_sentence": "Be a Canadian citizen or permanent resident, or have protected person or refugee status (unless otherwise indicated)",
+  "host_country": "Canada",
+  "notes": "Page name is a generic undergraduate scholarships overview of prior years (2025-2026 and 2026-2027 sections), listing many awards with different criteria; the name does not match a single award. The page does not specify one award; the criteria above are the general criteria applying across the page. Nationality rule uses the general criteria and does not apply to international-only awards, which are for international students paying international fees; those awards are not covered by the general nationality rule. Admission averages required: 85% (Indigenous Leadership, Admission Scholarship 85-100%), 92% (Science, Social Sciences), 90% (Arts, International English Excellence), 80% (Engineering Memorial). Deadlines vary by award, mostly March 31, March 15, January 28/29, November 3 or October 31 and are past or annual; the field of study is ANY for admission awards but some are restricted (Science research areas, Telfer, Political science, Medicine, Teacher Education). Funding values vary by award; funding_type reflects partial amounts. Many listed deadlines are outdated (2025-2026 cycle) and the page is marked as prior years. Scholarships for international students (International English, Differential Tuition Fee Exemption, Dean's Excellence Award for International Students) are only for international fee-paying students and are not Canadian-only. Preference for Indigenous language speakers, financial need considerations and renewal GPA requirements (e.g., 8.50 CGPA, 9.00 CGPA, 5.50 CGPA) are not entry requirements and are not in min_gpa. The Loran Award requires Canadian citizen or permanent resident and at least 16 years of age, and an 85% minimum average for students outside Quebec or R score 29 in Quebec, applying to high school or CEGEP students, not university undergraduates in this page context. Indigenous Leadership Scholarship requires Indigenous origin proof. Schulich Leader Nominee requires Canadian citizenship and nomination by school. Several awards have different deadlines and criteria, so the page covers many programmes and is not a single scholarship."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 17394,
+  "output_tokens": 934
+ },
+ "hash": "09da213e845a545c"
+}

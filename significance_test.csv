@@ -1,0 +1,8 @@
+compared_with,mean_diff_NDCG@10,wilcoxon_p
+BM25,0.2062,0.0
+Semantic RAG (Paper 1),0.1994,0.0
+TF-IDF + SVM (Paper 2),0.2695,0.0
+Ours (regex) a=0.85,0.1239,0.0
+Ours (oracle) a=0.95,-0.0293,0.0061
+Ablation: no Stage A a=0.6,0.1012,0.0002
+Ablation: alpha=1 (filter + Sim),-0.0022,0.9612

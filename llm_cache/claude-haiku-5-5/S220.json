@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "membership of a union under the unionlearn and Trades Union Congress (TUC) umbrella",
+  "evidence_sentence": "Bursary applicants must be a member of one of the unions that falls under the umbrella of unionlearn and the Trades Union Congress (TUC).",
+  "host_country": "UK",
+  "notes": "Page does not state degree levels, funding amount, or field of study. Deadline is tied to each programme's registration deadline: apply at least 2 weeks before it, so rolling is an approximation. Offer holders are the stated applicant group, so enrollment_status set to admitted."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2661,
+  "output_tokens": 275
+ },
+ "hash": "3308a095716e6182"
+}

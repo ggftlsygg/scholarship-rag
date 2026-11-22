@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "other"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "A minimum number of enrolled hours per term is required to be eligible for federal and institutional aid",
+  "evidence_sentence": "A student must be enrolled for a minimum amount of hours to be eligible for federal and institutional aid.",
+  "host_country": "USA",
+  "notes": "Page is a general graduate financial aid overview, not a single scholarship; it names no specific scholarship amount, criteria or deadline. Merit/need-based assistance from Brock School of Business and School of Health Professions is offered but unspecified and discretionary. Certificate-only programs are included in other. Loans (Direct Unsubsidized, Grad PLUS) are not scholarships and are not funding_type. Hour chart referenced but not included in text."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3085,
+  "output_tokens": 324
+ },
+ "hash": "de5d56237b14fbe3"
+}

@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ONLY:USA (citizen or resident)",
+  "min_gpa": "3.0",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "admitted",
+   "enrolled"
+  ],
+  "deadline": [
+   "annual:05-22"
+  ],
+  "field_of_study": "engineering, chemistry, physics, mathematical sciences",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "NAACP membership; male student; demonstrates financial need",
+  "evidence_sentence": "Be a U.S. resident or citizen.",
+  "host_country": "USA",
+  "notes": "Page describes the award as for undergraduate students and says graduate students are eligible for applicable scholarships. Award is a fixed $3,000 and non-renewable. Stated application window (April 13 to May 22, 2026) has passed as of today, so the deadline is given as annual. Enrollment mode (full-time) is stated only for currently enrolled students. Interest in a career in the listed fields is a stated requirement, recorded under field_of_study."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2926,
+  "output_tokens": 1525
+ },
+ "hash": "799a8cfd9f671e75"
+}

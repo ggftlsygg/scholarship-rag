@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "2:1",
+  "gpa_scale": "UK honours",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "annual:03-31"
+  ],
+  "field_of_study": "Electrical Engineering; Mechanical Engineering; Civil Engineering; Electronic Engineering; Environmental Sciences; Climate Change; Sustainability; Offshore; Geosciences; Oceanography; Meteorology; Wind Power Engineering; Physics; Fluid Mechanics; Data; Cyber Security; Telecoms",
+  "funding_type": [
+   "full",
+   "stipend"
+  ],
+  "other_hard": "graduate or final-year student; must first submit an application to the UK university they wish to attend; not receiving other remuneration, wages or scholarships during the award period; not previously awarded a ScottishPower, ScottishPower Foundation or Iberdrola group scholarship",
+  "evidence_sentence": "Applicants must be in possession of, or expect to receive, a Bachelor with Honours at a minimum 2:1 (or equivalent) or Master's degree from a recognised university on submission of the application.",
+  "host_country": "UK",
+  "notes": "Deadline 'March 31' has no year, so treated as annual. Page says the scholarship is for home and international students, and summary says Eligible Countries: All Countries. Benefits include £1,200 monthly payment, while the summary states £14,400 stipend per year; these are consistent. Academic year is blank in text. Field list is from the page's eligible courses. Company mentor and career benefits are not funding types. Obligations (promotion, ambassador role) are not eligibility criteria."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3705,
+  "output_tokens": 555
+ },
+ "hash": "a7732a545a5059f9"
+}

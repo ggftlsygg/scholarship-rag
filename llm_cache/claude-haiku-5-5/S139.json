@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "2026-12",
+   "2027-05"
+  ],
+  "field_of_study": "Law",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Must reside in Pakistan, Malaysia, Bangladesh or Sri Lanka; Not available to currently registered students",
+  "evidence_sentence": "The LLM Bursary is available for applicants who reside in Pakistan, Malaysia, Bangladesh and Sri Lanka only.",
+  "host_country": "UK",
+  "notes": "Bursary covers 40% of registration, examination entry and module fees for a University of London distance learning LLM; it excludes resit fees, recognition of prior learning fees, and examination or teaching centre fees. The page lists intake months (May and December) and says the bursary request must be submitted at least 2 weeks before the registration deadline, but gives no exact dates, so the deadlines above are the intake months and the year is assumed. Residence is treated as other_hard, not nationality. Eligibility applies after an offer is received, which also covers the PG Diploma in Law, PG Certificate in Law and LLM short courses. Bursary code must be received before registering."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2986,
+  "output_tokens": 1760
+ },
+ "hash": "47bb2af70b0c2bf1"
+}

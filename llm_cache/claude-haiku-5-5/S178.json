@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "excellent",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:10-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "eligible for BAföG (domestic programme); enrolled at a state or state-recognised university in Germany, EU country or Switzerland (domestic programme); not more than 15 months in Germany at time of application (international programme); very good German language skills B2 (international programme); social or political engagement in the spirit of the Rosa Luxemburg Foundation (international programme); completed bachelor's degree or completed undergraduate studies (international programme); must not be eligible for BAföG (international programme); not a second full-time degree; no part-time work-based study; no change of major after the 4th semester",
+  "evidence_sentence": "Only foreign nationals can apply for the scholarship for international students.",
+  "host_country": "Germany",
+  "notes": "Page covers two separate programmes (domestic students under BAföG eligibility, and international students who are foreign nationals) plus a Lux like programme with its own criteria; nationality_rule left empty because the two programmes differ and the domestic one is defined by BAföG eligibility, not citizenship. Field of study not stated. Funding type not stated (training allowance and funding start rules are described but no amount or type given). Deadline October 1 applies to master's applicants who are already in their second semester; text does not give a year. Lux like programme criteria (no academic background, interest in socio-political issues) are not summarised as hard criteria; they are not fully covered in the fields above. Priority and selection details are not stated."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3819,
+  "output_tokens": 2053
+ },
+ "hash": "e6fb3b0f298a200f"
+}

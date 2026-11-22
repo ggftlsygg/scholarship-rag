@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [
+   "2027-04-09"
+  ],
+  "field_of_study": "College of LSA degree programs",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "must be accepted into a degree program in the College of LSA for the Fall term",
+  "evidence_sentence": "NOT be a U.S. Citizen or Permanent Resident.",
+  "host_country": "USA",
+  "notes": "Award covers cost of attendance for Fall and Winter terms, with amount varying by cost of attendance and available funding. Renewable for four consecutive years (or two years' transfer) of undergraduate study if requirements continue to be met; renewal is not an entry requirement. Applications are reviewed as submitted. No minimum GPA stated. Name says USA; the page text is consistent with that."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2960,
+  "output_tokens": 1447
+ },
+ "hash": "e4f5ef9e1a040c5c"
+}

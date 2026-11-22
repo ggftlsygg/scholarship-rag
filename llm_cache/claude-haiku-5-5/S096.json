@@ -1,0 +1,24 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "Research fields offered by the universities",
+  "funding_type": [],
+  "other_hard": "member of a Protestant church",
+  "evidence_sentence": "Open to members of a Protestant church.",
+  "host_country": "Germany",
+  "notes": "Aggregator page (gcq360.com) with generic text and a list of other scholarships. The nationality rule 'Open to all except German nationals', 'University of Hamburg' and 'Partial Funding' appear under 'More scholarships to explore' and belong to a different award, so they were not used. Degree level phd is inferred from the title 'Scholarship for Doctoral Students'. No deadline, funding amount, enrollment status or GPA is stated for this award. The page says the provider's own rules govern and the award is not guaranteed."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3920,
+  "output_tokens": 932
+ },
+ "hash": "0def547c430a8cfa"
+}

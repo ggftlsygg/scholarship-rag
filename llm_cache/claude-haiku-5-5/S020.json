@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "must have successfully completed a bachelor's or master's degree with the University of London Worldwide through distance or flexible learning programmes; must be qualified as a graduate by the University; full degree required (Postgraduate Diploma or Certificate not eligible); not for PhD level; studies must begin in or after 2016/17 academic year for bachelor's and master's; cannot be claimed for a degree already completed",
+  "evidence_sentence": "To be eligible for an Alumni Bursary, you must have successfully completed a bachelor's or master's degree with the University of London Worldwide through its distance or flexible learning programmes.",
+  "host_country": "UK",
+  "notes": "Discount is typically 10% off registration, exam entry, resit and module fees, and it is applied after an offer is received and a bursary code is issued. Page states no nationality, GPA or field restrictions. Bursary requests are processed on a rolling basis; recommended to request at least 2 weeks before registration deadline. Separate SAS (15%/10%) and ULIP alumni discounts are mentioned but are not part of this bursary's criteria. Bursary may be partly repayable on withdrawal. Page does not state a funding amount beyond the percentage discount."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4851,
+  "output_tokens": 1441
+ },
+ "hash": "4d7ac6065c45d620"
+}

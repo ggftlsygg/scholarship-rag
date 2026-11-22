@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:Hungary (citizen or permanent resident)",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [
+   "annual:09-01"
+  ],
+  "field_of_study": "Economics; Economics and Management; International Relations; Psychology; Computer Science",
+  "funding_type": [],
+  "other_hard": "Documentary evidence of Hungarian nationality or permanent residence in Hungary; offer of a place on a qualifying University of London distance learning BSc programme (BSc in Economics, BSc in Economics and Management, BSc in International Relations, BSc Psychology or BSc Computer Science)",
+  "evidence_sentence": "The Budapester Foundation Scholarship is available to Hungarian nationals or those with permanent residence in Hungary, and for the University of London distance learning programmes BSc in Economics, BSc in Economics and Management, BSc in International Relations, BSc Psychology or BSc Computer Science only.",
+  "host_country": "United Kingdom",
+  "notes": "Deadline 1 September 2026 is in the past relative to today (2026-11-21), so it is recorded as annual; page text may be outdated. Funding amount and value are not stated. Award may be reviewed annually and requires minimum examinations and an annual impact report to keep it; these are not entry requirements. Terms mention a 'Caroline Yang Scholarship', which appears to be an inconsistency in the page text. Programmes are distance learning run by University of London; host country taken from the university name."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3543,
+  "output_tokens": 1530
+ },
+ "hash": "ca1e84a782ab042e"
+}

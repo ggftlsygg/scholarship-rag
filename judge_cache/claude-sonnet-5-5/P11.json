@@ -1,0 +1,30 @@
+{
+ "hash": "ab0f3ec76af5ebbf",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S018",
+    "type": "unsupported_claim",
+    "answer_quote": "It covers the LLM in International Law and Global Justice",
+    "explanation": "The passage lists the programmes as 'MSc - International Law and Global Justice' and 'LLM - International Political Economy', so International Law and Global Justice appears to be an MSc rather than an LLM. The student's LLM programme is also unknown.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S227",
+    "type": "wrong_fit_judgement",
+    "answer_quote": "Indian nationality (students in India are covered by a partnership)",
+    "explanation": "The partnership funding is for 'students in India'. The student lives in the UK, so the answer does not show this applies, yet it presents the nationality match as supporting eligibility.",
+    "severity": "low"
+   },
+   {
+    "scholarship_id": "S173",
+    "type": "missed_barrier",
+    "answer_quote": "lists LLM among eligible programmes, and the student's master's level, nationality (India), admitted status and rolling deadline all match",
+    "explanation": "The scholarship is for University of London offers only, and the profile does not say which university admitted the student. The answer does not flag this, although it does flag the same issue for Bristol.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is mostly faithful to the context and handles the UNKNOWN criteria and the refugee and residence barriers well. Remaining problems are a likely misreading of the Sheffield programme list as an LLM, a UK-resident student being tied to the Bristol India partnership, and a missing University of London offer check for S173."
+ }
+}

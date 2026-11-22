@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "phd"
+  ],
+  "nationality_rule": "EXCLUDE:U.S. embargoed countries",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Must be nominated by a doctoral faculty member; students cannot nominate themselves; should be within two years of their estimated graduation date at the time of the nomination; must stay in the same program for the duration of the award; receiving a comparable fellowship or support from another company or institution (except for academic scholarships) during the funding period makes applicants ineligible",
+  "evidence_sentence": "Students that are from U.S. embargoed countries or attending institutions located in U.S. embargoed countries are not eligible for the program.",
+  "host_country": "",
+  "notes": "Page text describes the IBM PhD Fellowship Award; the name says Masters Fellowship Awards, which does not match the page. No application deadline stated. Award amounts: $40,000 for US universities, $6,000-$25,000 for universities in other countries; funding type set to partial based on fixed amounts. Host country not stated; depends on university. Nomination-based process, so enrollment_status set to enrolled and full-time from the requirement to be enrolled full-time in a PhD program. Text states 'should be within two years' of graduation as a preference-like wording but is listed under eligibility; kept in other_hard. Page text does not specify a GPA requirement."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2921,
+  "output_tokens": 501
+ },
+ "hash": "b1787408dbd75f56"
+}

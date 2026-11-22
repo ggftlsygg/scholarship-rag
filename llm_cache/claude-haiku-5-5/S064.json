@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "This scholarship covers full tuition, as well as on-campus housing and meals for all four years, regardless of a family's financial situation.",
+  "host_country": "USA",
+  "notes": "The page does not state a named award called 'Presidential Scholarship for International Students'; the text describes a Presidential Scholarship with no nationality limit stated and no separate application, considered automatically from the admission application. The page mentions the award was given to about five students annually and that 'exceptional academic performance' is considered, but no numeric GPA is stated. Degree level is inferred as bachelor from the four-year full-tuition wording, which is a doubt. Other scholarships on the page (Segal AmeriCorps, Yellow Ribbon, Tuition Exchange) are not the named award and were not used. No deadline stated. The 'international students' in the title is not supported by the body text."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3523,
+  "output_tokens": 375
+ },
+ "hash": "b20809bd4991f2d4"
+}

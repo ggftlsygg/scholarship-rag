@@ -1,0 +1,16 @@
+{
+ "hash": "14888cbbaeadd2dd",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S189",
+    "type": "missed_barrier",
+    "answer_quote": "The main concern is that international applicants must have completed or be on track to complete a Bachelor's or Master's degree at a Singapore autonomous university.",
+    "explanation": "The answer omits other listed conditions: endorsement from a proposed A*STAR supervisor, admission to a PhD at an autonomous university, and research at an A*STAR institute.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is largely faithful to the context. Deadlines, funding types, UNKNOWN criteria and the main conditions are reported correctly. The only gap found is that it leaves out some A*STAR conditions (supervisor endorsement, A*STAR research placement)."
+ }
+}

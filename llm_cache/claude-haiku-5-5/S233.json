@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "To be considered for the Stamps Scholarship, you must apply and be admitted through either the Early Decision I or Early Action admission plans.",
+  "host_country": "USA",
+  "notes": "Page lists no application deadline; deadlines are tied to Early Decision I or Early Action admission plans. The 3.0 GPA is required only to maintain the award, not as an entry requirement. Full-time status is a condition of the award. Funding covers tuition and fees, housing, meals, health insurance, textbooks, laptop, and a $12,000 enrichment fund (subject to prior approval); classified as full. Nationality, field and entry GPA are not stated. The Frost School of Music Stamps Ensemble Scholarship is a different award and is not described here."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3184,
+  "output_tokens": 344
+ },
+ "hash": "e93f438a1736e3d0"
+}

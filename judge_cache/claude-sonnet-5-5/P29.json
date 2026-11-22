@@ -1,0 +1,8 @@
+{
+ "hash": "718a15869a11bba8",
+ "data": {
+  "issues": [],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer is consistent with the CONTEXT. Deadlines are read correctly (2027-02-07 is in the future, 2026-12-15 is correct). UNKNOWN criteria are labelled UNKNOWN. Funding is described accurately, including the stipend limits at HBKU. Poor-fit scholarships are flagged as such, and no scholarship outside the list is invented."
+ }
+}

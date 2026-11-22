@@ -1,0 +1,23 @@
+{
+ "hash": "9db8d5cc92f49ab1",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S177",
+    "type": "unknown_as_confirmed",
+    "answer_quote": "The deadline is an annual date of 10-01, and the 2026 date has already passed, so check the next cycle (1 October 2027)",
+    "explanation": "The deadline check is UNKNOWN in the context and the format is ambiguous, yet the answer asserts it as 1 October, already passed, with a specific next cycle date.",
+    "severity": "medium"
+   },
+   {
+    "scholarship_id": "S107",
+    "type": "unsupported_claim",
+    "answer_quote": "the required grade (1.5, a German scale that your 3.3 GPA cannot be compared to directly)",
+    "explanation": "The context does not say that 1.5 is a German grading scale; this is an outside inference.",
+    "severity": "low"
+   }
+  ],
+  "meets_expected_behaviour": "n/a",
+  "overall": "The answer mostly follows the context. S111 and S066 details, deadlines and funding are accurate, and UNKNOWN grade criteria are flagged. There are two minor problems: the S177 deadline is asserted as passed with a specific next date despite being UNKNOWN, and the 1.5 grade is described as a German scale without support."
+ }
+}

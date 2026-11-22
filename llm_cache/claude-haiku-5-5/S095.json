@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "regularly enrolled at a German higher education institution; completed first year of study (Bachelor's students only); enrolled at a higher education institution participating in Erasmus+ whose home institution has signed an Erasmus cooperation agreement with the receiving institution; at least second year of study",
+  "evidence_sentence": "The programme is intended for students who are regularly enrolled at a German higher education institution, have completed their first year of study (only applicable to Bachelor's students), are enrolled at a higher education institution participating in the Erasmus+ project AND whose home institution has signed an Erasmus cooperation agreement with the receiving institution.",
+  "host_country": "",
+  "notes": "Page describes Erasmus+ mobility for study periods and traineeships in Erasmus+ programme countries; host country not fixed by the page, so left empty. Funding amount not stated; sponsored students are exempt from host institution tuition and fees, so funding_type set to partial (fee exemption only, no stated stipend). Deadlines must be requested from home institution; none stated. Page text has inconsistent academic requirements (regularly enrolled and first year completed vs. at least second year of study); the Academic Requirements section also says open to all students at participating institutions. Nationality not stated. Degree levels inferred from duration text covering Bachelor's, Master's and doctoral students."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3185,
+  "output_tokens": 532
+ },
+ "hash": "f28b9543239f247e"
+}

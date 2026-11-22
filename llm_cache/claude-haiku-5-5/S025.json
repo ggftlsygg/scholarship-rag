@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:USA (citizen or permanent resident)",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [
+   "2027-02-01"
+  ],
+  "field_of_study": "landscape architecture",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "third, fourth, or fifth-year undergraduate; studying landscape architecture at a Landscape Architecture Accreditation Board (LAAB) accredited school",
+  "evidence_sentence": "Applicants must be permanent U.S. citizens or permanent resident aliens who are third, fourth, or fifth-year undergraduates studying landscape architecture at a Landscape Architecture Accreditation Board (LAAB) accredited school.",
+  "host_country": "",
+  "notes": "Selection is based on exceptional accomplishments over a sustained period in works, leadership and management, knowledge, and service, so this is a selection criterion, not a stated minimum. The stated purpose mentions unmet financial need, but no financial need requirement is listed as an eligibility condition. The host country is not named on the page. Page is from a third-party aggregator; details come from the provider and should be confirmed on the official site."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3235,
+  "output_tokens": 1344
+ },
+ "hash": "756b2ad13b2505f0"
+}

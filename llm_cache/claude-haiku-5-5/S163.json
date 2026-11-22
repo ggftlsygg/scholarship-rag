@@ -1,0 +1,27 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "good grasp of the English language; submit a 600-1000 word essay",
+  "evidence_sentence": "You’ll need to be enrolled, or soon-to-be-enrolled, as a student at an accredited college or university (this includes distance learning).",
+  "host_country": "",
+  "notes": "No degree level, nationality, deadline, field of study or host country is stated. The page says 'enrolled, or soon-to-be-enrolled', so both enrollment statuses are listed, which is an interpretation. Funding is a £1,000 cash prize for the best essay, plus 3-5 hours of free mentorship, not a tuition or living-cost award. The 'desire to learn digital marketing skills' is a stated wish, not a field requirement. Only one submission per student annually is allowed (terms and conditions, not eligibility)."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3132,
+  "output_tokens": 1224
+ },
+ "hash": "5cbfd8f0751d7f40"
+}

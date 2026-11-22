@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ONLY:Netherlands",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled",
+   "full-time"
+  ],
+  "deadline": [
+   "2027-03-01"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "graduation date between 1 March 2025 and 31 December 2027",
+  "evidence_sentence": "The VSBfonds is for students with the Dutch nationality.",
+  "host_country": "",
+  "notes": "Grant funds a complete study programme abroad after finishing at Radboud University; the page does not name a specific host country. Page lists eligible countries as all EU/EEA and all non-EU/non-EEA countries, which refers to the study destination. Page says motivation matters more than grades, so no minimum GPA is stated. Grant cannot be used for an internship or research project. Maximum financing is EUR 10,000 and duration 3 to 24 months. Page refers to Dutch-only VSB site for further details."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3263,
+  "output_tokens": 1019
+ },
+ "hash": "13e1610dd7abf6c4"
+}

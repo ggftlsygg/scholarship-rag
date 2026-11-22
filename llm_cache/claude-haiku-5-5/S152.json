@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ONLY:Canada",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "business",
+  "funding_type": [],
+  "other_hard": "completed the first year of the MBA program; academic standing in the top half of the class",
+  "evidence_sentence": "Awarded annually to a Canadian citizen who has completed the first year of the MBA program and whose academic standing is in the top half of the class.",
+  "host_country": "Canada",
+  "notes": "Term listed as Spring/Summer, no application deadline stated. Selection based on leadership potential and community contribution (not an entry requirement). Preference given to Alberta residents (preference, not requirement). Part-time students are eligible. Award amount and funding type not stated. Field of study inferred from MBA program name only."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2653,
+  "output_tokens": 288
+ },
+ "hash": "83501cf1b32f10b7"
+}

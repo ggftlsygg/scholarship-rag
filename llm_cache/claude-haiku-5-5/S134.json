@@ -1,0 +1,33 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2027-01-03",
+   "2026-09-27"
+  ],
+  "field_of_study": "Applied Maths and Computational Science; Applied Physics; Biosensors and Bioelectronics; Bioinformatics and Machine Learning; Biomaterials and Tissue Engineering; Synthetic Biology; Cell and Molecular Biology; Biomolecular Engineering; Biophysics and Bioimaging; Chemical Science; Chemical and Biological Engineering; Computer Science; Earth Systems; Electrophysics; Energy Resources and Petroleum Engineering; Water Quality, Chemistry, and Treatment; Environmental Microbiology and Biotechnology; Environmental Hydrology and Fluid Mechanics; Materials for Environmental Science and Engineering; Marine Science and Engineering; Materials Science and Engineering; Mechanical Engineering; Plant Science; Statistics",
+  "funding_type": [
+   "full",
+   "tuition"
+  ],
+  "other_hard": "language test: TOEFL 79 iBT or IELTS 6.5 unless degree from accredited institution in USA, Canada, UK, Ireland, Australia or New Zealand; three recommendation letters; applicants must be healthy both physically and mentally; applicants may not hold any other scholarship at the same time",
+  "evidence_sentence": "All International Students from all over the world are eligible to apply for KAUST Scholarship for Master and PhD Students.",
+  "host_country": "Saudi Arabia",
+  "notes": "Page is titled 2024-25 in URL but content refers to 2027 intake; deadline 3 January 2027 is Fall 2027 round 2, and Spring 2027 round 1 deadline 27 September 2026 is also listed (before today 2026-11-21, so it is past and should be excluded; included here only as stated on page). Page mixes unrelated promotions (Guggenheim, University of Alberta, DeepMind, USA scholarships) which are not part of this scholarship. Text also says 'All International Students' while the eligibility list says any nationality; treated as ALL. Stipend stated as $20,000-30,000 annually depending on qualifications, so funding_type tuition/full is listed; living stipend and accommodation support indicate full. Encouraged to apply for Masters/PhD and Bachelor-to-Master progression text is informational. Deadline 2026-09-27 is in the past and should be ignored by the engine."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 4617,
+  "output_tokens": 862
+ },
+ "hash": "976ef4dd5a6c69e2"
+}

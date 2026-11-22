@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "enrolled"
+  ],
+  "deadline": [],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "full",
+   "stipend",
+   "partial"
+  ],
+  "other_hard": "",
+  "evidence_sentence": "Student type: Domestic and international students",
+  "host_country": "Australia",
+  "notes": "Page lists fee offset and stipend variants; award described is the Graduate Research Scholarships at University of Melbourne. No application deadline stated. Selection based on academic results and research potential (not a fixed minimum GPA). Eligibility: applied for and meet requirements for a graduate research degree at the University of Melbourne, or currently enrolled in one. Study area list is broad but not explicitly ANY; field set to ANY as no restriction is stated beyond the list. Funding types: full fee offset plus living allowance for stipend scholarships (full); fee offset only is partial. Page mentions 'Masters by Research' and 'doctoral degree (PhD)'. Some text is outdated (2027 rate) but no deadline present."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3279,
+  "output_tokens": 382
+ },
+ "hash": "5b9c083543ede2b4"
+}

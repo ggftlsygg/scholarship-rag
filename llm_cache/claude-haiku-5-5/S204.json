@@ -1,0 +1,26 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "EXCLUDE:South Korea",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "sport management",
+  "funding_type": [],
+  "other_hard": "both parents must be of non-Korean nationality; bachelor's degree or higher in any field; proficiency in spoken and written English; demonstrated potential and passion for sport management; physically and mentally capable of completing the program; applicant must be a former or current sport administrator or athlete",
+  "evidence_sentence": "The applicant and both parents of the applicant must be of non-Korean nationality.",
+  "host_country": "South Korea",
+  "notes": "Page describes the Dream Together Masters Program at SNU (Seoul National University), while the name given is The Dream Scholarship; the page title says Dream Together Scholarship. Eligibility text applies to former and current sport administrators or athletes. Preferred qualifications (sport administrators or athletes from ODA recipient countries, with endorsement) are preferences, not requirements. GPA is assessed but no minimum is stated. No application deadline or funding amount is stated; benefits are only linked, not described. Nationality rule is inferred from the non-Korean nationality requirement for the applicant and both parents."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3720,
+  "output_tokens": 1111
+ },
+ "hash": "b32f72358364e64a"
+}

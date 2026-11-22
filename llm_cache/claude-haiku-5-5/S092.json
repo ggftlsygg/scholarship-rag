@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "ONLY:USA (citizen or permanent resident)",
+  "min_gpa": "3.0",
+  "gpa_scale": "4.0",
+  "enrollment_status": [
+   "admitted"
+  ],
+  "deadline": [],
+  "field_of_study": "Environmental Engineering or related field of engineering; Environmental Science or related field",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Degree or in process of completing a degree from an accredited four-year university or college in civil, chemical, mechanical, environmental engineering, or related engineering field (or an environmental science such as geology, hydrogeology, ecology for Environmental Science applicants); Required documents: current resume, 250-500 word essay, two recommendations including one from a university official, undergraduate transcript",
+  "evidence_sentence": "A United States citizen or permanent resident.",
+  "host_country": "",
+  "notes": "Award is $2,500 each (eight scholarships), based on academic performance. Page states applicants must have been accepted to an accredited graduate program, so enrollment is set to admitted. No application deadline is stated on the page. Host country of the graduate study is not stated. The page matches the scholarship name; the URL contains tracking parameters only."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3282,
+  "output_tokens": 1443
+ },
+ "hash": "c3337660e38d6fa2"
+}

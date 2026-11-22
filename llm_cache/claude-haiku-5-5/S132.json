@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "other"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "enrolled"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Age 16-25; child or legal dependent of a worker killed or permanently and totally disabled in a compensable work-related accident or occupational disease with an Oregon employer",
+  "evidence_sentence": "Applicant must be between the ages of 16 – 25 years old.",
+  "host_country": "USA",
+  "notes": "Page says students may apply at any time, but applications should be submitted at least two months before the scholarship is needed. Academic achievement, aptitude and community service are considered but no minimum GPA is stated. Student need not be an Oregon resident. Nationality is not mentioned as a criterion; the page says awards are made without consideration of nationality. Degree levels inferred from university, college, technical school or apprentice program; university/college implies bachelor, technical school/apprenticeship implies other. Funding amounts vary by financial need and cover program-related costs, so partial is inferred. Host country USA inferred from Oregon. Enrollment status: enrolled, accepted or applying for acceptance, so applicant and enrolled. Deadline: rolling as students may apply at any time."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3545,
+  "output_tokens": 454
+ },
+ "hash": "70ed4df3764fe662"
+}

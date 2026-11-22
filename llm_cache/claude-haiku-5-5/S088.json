@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "INTERNATIONAL",
+  "min_gpa": "75%",
+  "gpa_scale": "percentage average",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "partial",
+   "travel"
+  ],
+  "other_hard": "financial need",
+  "evidence_sentence": "Opportunity Funds are funded by the U.S. Department of State’s Bureau of Educational and Cultural Affairs through the EducationUSA advising program and are designed to increase access to U.S. higher education institutions for highly qualified international students of limited means to cover upfront costs of attending a university in the United States.",
+  "host_country": "United States",
+  "notes": "No application deadline is stated; forms are collected annually from Grade 11 and 3rd-year university students. The page does not explicitly name eligible countries; it is run by the EducationUSA Namibia centre, so the Namibia link is implied, not stated as a rule. Academic excellence, quality of application, personal statement and program match are selection factors, not entry requirements. The 75% minimum is a stated requirement. Fields of study are not stated. Funding covers specific upfront costs (test fees, application fees, visa fees, airfare, settling-in allowance), not full cost."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3462,
+  "output_tokens": 1643
+ },
+ "hash": "593c3da7d0731a6b"
+}

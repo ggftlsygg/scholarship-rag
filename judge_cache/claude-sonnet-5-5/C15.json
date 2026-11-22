@@ -1,0 +1,16 @@
+{
+ "hash": "47d70f9bdbcdb228",
+ "data": {
+  "issues": [
+   {
+    "scholarship_id": "S199",
+    "type": "contradicts_context",
+    "answer_quote": "is the only scholarship in this list whose funding type is \"full,\" so it is the only one I can describe as fully funded",
+    "explanation": "S112 and S113 also list \"full\" among their funding types, so S199 is not the only one; the answer itself later says both include \"full\".",
+    "severity": "medium"
+   }
+  ],
+  "meets_expected_behaviour": "partly",
+  "overall": "The answer correctly treats S199 (funding type full) as fully funded and does not overstate funding for S209 or S124. It also keeps the UNKNOWN criteria for S199 unconfirmed. However, it wrongly says S199 is the only scholarship with funding type \"full\" and contradicts itself on S112 and S113, whose funding types also include \"full\". Its caution about those two is reasonable, but the stated reason is inaccurate."
+ }
+}

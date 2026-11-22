@@ -1,0 +1,22 @@
+{
+ "data": {
+  "degree_levels": [],
+  "nationality_rule": "ONLY:Australia;India;Japan;USA (citizen or PR)",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [],
+  "deadline": [],
+  "field_of_study": "STEM",
+  "funding_type": [],
+  "other_hard": "Bachelor's degree or equivalent in a STEM field of study",
+  "evidence_sentence": "The scholarship is available for citizens or Legal Permanent Residents of the Quad Countries – Australia, India, Japan, or the United States – or any of these 10 Southeast Asian Countries.",
+  "host_country": "",
+  "notes": "The page text does not name the Quad Fellowship; it describes a scholarship for STEM scientists and technologists. The 10 Southeast Asian countries are not listed, so the nationality rule covers only the four named Quad countries. No deadline, funding amount or type, study mode, GPA, or host country is stated. The Bachelor's degree is an entry requirement, not a funded level, so degree_levels is empty. The URL is a general Study Australia scholarships portal, so the page may cover several programmes and may not match the name exactly."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2627,
+  "output_tokens": 1303
+ },
+ "hash": "66835ee003dde357"
+}

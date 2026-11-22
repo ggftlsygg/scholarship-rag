@@ -1,0 +1,31 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "REGION:developing countries",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted",
+   "full-time"
+  ],
+  "deadline": [
+   "annual:07-05"
+  ],
+  "field_of_study": "ANY",
+  "funding_type": [
+   "full"
+  ],
+  "other_hard": "ordinarily resident in a low-income economy country on the qualifying countries list; annual household income of £50,000 or less at application; no existing UK or equivalent postgraduate taught qualification",
+  "evidence_sentence": "Eligible Countries: All Developing Countries Reward: Full Scholarship | £50,000 Stipends | Accommodation Deadline: July 5, UAL International Scholarship Requirements: To be eligible for the UAL International Scholarship.",
+  "host_country": "UK",
+  "notes": "Page is titled as a 2025 intake (starting in the academic year of /25, year garbled) and the deadline has no year, so it is treated as annual and may be outdated. Page text is garbled in places. Nationality is defined by residence in a low-income economy country on a qualifying list not reproduced in the text, so REGION is used. Field of study is not restricted to a subject list beyond named qualification types (Grad Dip, MArch, MA, MFA, MBA, MRes, MSc), so ANY is used. Funding covers tuition, accommodation and living costs, mapped to full. Evidence sentence is a verbatim fragment of the summary block."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3211,
+  "output_tokens": 485
+ },
+ "hash": "cca0e3e902f26f3c"
+}

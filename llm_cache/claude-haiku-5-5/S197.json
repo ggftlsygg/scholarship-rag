@@ -1,0 +1,28 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor"
+  ],
+  "nationality_rule": "ONLY:USA (citizen or permanent resident)",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [
+   "2026-12-01"
+  ],
+  "field_of_study": "",
+  "funding_type": [],
+  "other_hard": "African American; high school senior (current grade)",
+  "evidence_sentence": "Citizenship Status U.S. Citizen, Permanent Resident",
+  "host_country": "USA",
+  "notes": "Page lists two dates, 9/3/2026 and 12/1/2026, with 'Deadline Soon'; 12/1/2026 is taken as the deadline, but the 9/3/2026 date is unclear. Students with plans to attend a four-year institution within the U.S. are encouraged to apply, so this is a preference and is not a requirement. Community Service and Leadership are listed as activities, with no stated requirement. No GPA or funding amount is stated on the page."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2775,
+  "output_tokens": 1299
+ },
+ "hash": "bef08d57f50e031c"
+}

@@ -1,0 +1,32 @@
+{
+ "data": {
+  "degree_levels": [
+   "master",
+   "phd"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "3.0",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant",
+   "full-time"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "Students in all fields of graduate study eligible if their program is eligible for Tri-Agency funding",
+  "funding_type": [
+   "partial"
+  ],
+  "other_hard": "Must be recommended by their department or unit; Tri-Agency eligible program; Show great promise as researchers and graduate students",
+  "evidence_sentence": "All students regardless of citizenship are eligible to apply.",
+  "host_country": "Canada",
+  "notes": "Award is a university-wide fellowship recommended by departments; the page says to contact departments for their application process and deadline, so no fixed deadline is stated. Funding is a fixed annual amount ($20,000 master's, $25,000 doctoral), so classed as partial. Minimum GPA of 3.0 is an admission criterion; departments may set higher GPA requirements. Continuing GPA of 3.0 with grade no lower than C+ and full-time registration are conditions to keep the award. Page states it is not a complete list of conditions. Page title says UMGF while the name given is University of Manitoba Graduate Scholarship; the page describes the fellowship."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3898,
+  "output_tokens": 431
+ },
+ "hash": "de76fb984a38ad89"
+}

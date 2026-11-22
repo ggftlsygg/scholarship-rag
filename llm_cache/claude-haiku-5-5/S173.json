@@ -1,0 +1,30 @@
+{
+ "data": {
+  "degree_levels": [
+   "bachelor",
+   "master"
+  ],
+  "nationality_rule": "ALL",
+  "min_gpa": "",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "admitted",
+   "enrolled"
+  ],
+  "deadline": [
+   "rolling"
+  ],
+  "field_of_study": "Accounting and Financial Management; Professional Accountancy; Business Administration; Marketing; Project Management; Computer Science; Data Science; Global Diplomacy; Cyber Security; Business Administration (MBA); Law; Human Rights",
+  "funding_type": [],
+  "other_hard": "Refugee or displaced person status evidenced by formal documentation; new student or displaced in the course of current study with the University of London",
+  "evidence_sentence": "Have refugee or displaced person status evidenced by formal documentation.",
+  "host_country": "UK",
+  "notes": "Priority (not a requirement) is given to applicants who do not already hold a bachelor's or master's degree, so this is in notes only. Applications must be submitted at least two weeks before the programme application deadline; applications are considered on a rolling basis. Award amount and type are not stated on the page. The page lists the eligible programmes by name; the nationality rule ALL is inferred because no nationality restriction is stated. The enrollment_status 'admitted' reflects the requirement to have an offer; 'enrolled' reflects the requirement to be a new student or displaced during current study. The degree levels bachelor and master are taken from the listed programmes (BSc, MSc, MA, LLM, LLB, MBA)."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2822,
+  "output_tokens": 496
+ },
+ "hash": "379cbf64eb7ef874"
+}

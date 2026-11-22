@@ -1,0 +1,29 @@
+{
+ "data": {
+  "degree_levels": [
+   "master"
+  ],
+  "nationality_rule": "REGION:list of eligible countries",
+  "min_gpa": "top third",
+  "gpa_scale": "",
+  "enrollment_status": [
+   "applicant"
+  ],
+  "deadline": [],
+  "field_of_study": "",
+  "funding_type": [
+   "stipend",
+   "travel"
+  ],
+  "other_hard": "work experience: at least two years' professional experience; Bachelor degree in an appropriate subject; motivation is development-related and socially responsible",
+  "evidence_sentence": "Individual scholarships exclusively for Postgraduate courses in Germany that are listed on the List of all Postgraduate courses with application deadlines 2027/2028.",
+  "host_country": "Germany",
+  "notes": "The page text says eligible graduates come 'from the following countries: list of eligible countries', but the country list is unlabeled and mixed with region names and footnote numbers, so nationality is recorded as a region rule; verify on the live page. The scope says postgraduate courses only, but the value section also mentions payments for doctoral candidates; degree_levels reflects postgraduate only. Application deadlines are referenced as 2027/2028 with a link to a separate list, and no specific date is given on this page. Top third is the selection criterion for the first academic exam, not a stated GPA scale. Page does not name a specific subject area beyond 'appropriate subject'. Travel allowance applies unless covered elsewhere. Rent subsidy and family allowance are only additional benefits in certain circumstances."
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 3617,
+  "output_tokens": 2009
+ },
+ "hash": "148f92c766aca337"
+}
