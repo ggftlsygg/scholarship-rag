@@ -47,6 +47,7 @@ All differences between Ours and the three baselines are significant (Wilcoxon s
 | experiments | `make_profiles.py`, `build_ground_truth.py`, `extract_llm.py`, `extract_regex.py`, `evaluate_extraction.py`, `rank_and_evaluate.py`, `audit_answers.py`, `verify.py`, `test_rules.py`, `stress_cases.csv` |
 | results | `results_test.csv`, `significance_test.csv`, `alpha_curve.png`, `extraction_metrics.csv`, `filter_metrics.csv`, `answers.md`, `generation_error_analysis.md` |
 | caches | `llm_cache/`, `judge_cache/`: stored API responses, so the experiments rerun without new API calls |
+| data collection | `data_collection/`: how the corpus was built — Hugging Face dataset → live-page verification → Tavily search for current pages → PDF texts → manual review (`manual_review.csv`) → 247 scholarships → 193 with status ok after annotation |
 
 ## Reproducing the experiments
 
@@ -66,3 +67,22 @@ python audit_answers.py --judge           # uses judge_cache/
 - Haiku invents an enrollment status for 68% of pages that do not state one.
 - Ranking ignores the field of study.
 - The 50 students are synthetic, the ground truth is our own annotation, and the evaluation uses a single query date (2026-11-21).
+
+## References and data sources
+
+**Baseline papers**
+
+1. Vadlamudi, S., Shashikala, K. S., Sindhu, J., Shaik, B. A., Jerin, J. M., & Bharathy, A. M. V. (2025). Retrieval-augmented generation (RAG) chatbot for scholarship finding. *2025 International Conference on Emerging Technologies in Computing and Communication (ETCC)*, 1–6. IEEE. https://doi.org/10.1109/ETCC65847.2025.11108461
+2. Al-Dilami, R., Al-Muaalemi, L., Redwan, O., Al-Zohairi, S., & Mareh, A. (2025). Enhancement of scholarship decisions precision using support vector machine algorithm. *2025 5th International Conference on Emerging Smart Technologies and Applications (eSmarTA)*, 1–8. IEEE. https://doi.org/10.1109/eSmarTA66764.2025.11132240
+
+**Data**
+
+- Starting list of scholarships: Hugging Face dataset [AlberBshara/scholarships_dataset](https://huggingface.co/datasets/AlberBshara/scholarships_dataset).
+- Scholarship texts were collected in November 2026 from the public web pages of the universities, foundations and scholarship portals that publish them. Each scholarship keeps its source link in the `url` column of `gold_annotations_ok193.csv`. All page texts remain the property of their respective owners. They are included only for non-commercial, educational research. If you own a page and want its text removed, please open an issue.
+- The eligibility annotations, the 50 student profiles and the ground truth were created by the authors.
+
+**Models and tools**
+
+- Embeddings: [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5), via sentence-transformers.
+- Criteria extraction and answers: Claude Haiku 5.5. LLM judge in the audit: Claude Sonnet 5.5 (Anthropic API).
+- BM25: [rank_bm25](https://github.com/dorianbrown/rank_bm25). Page search during data collection: Tavily Search API. Page text extraction: trafilatura, BeautifulSoup. Web interface: Streamlit.
